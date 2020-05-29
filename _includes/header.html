@@ -1,0 +1,61 @@
+<div class="header-wrapper">
+  <div class="top-area">
+    <div class="left-content">
+      <span class="rectangle">
+        <img src="/assets/images/dark-lines.svg" />
+      </span>
+      <span class="circle">
+        <img class="rangoli" src="/assets/images/rangoli.svg" />
+      </span>
+    </div>
+    <div class="center-content">
+      <div class="image-container">
+        <img class="rangoli" src="/assets/images/rangoli.svg" />
+        <img class="rangoli-shade" src="/assets/images/rangoli-shade.svg" />
+      </div>
+      <div class="center-details">
+        <div class="logo">
+          <img src="/assets/images/logo.svg" />
+        </div>
+        <div class="conference-name">
+          <img src="/assets/images/conference-name.svg" />
+        </div>
+        <div class="year-wrapper">
+          <span class="year">2020,</span>
+          <span class="status">Online</span>
+        </div>
+        <div class="apply">
+          <a href="" target="_blank">Get Passes <span><img src="/assets/images/forward.svg" /></span></a>
+        </div>
+        <!-- <img src="/assets/images/logo.svg" /> -->
+      </div>
+    </div>
+    <div class="right-content">
+      <span class="lamp">
+        <img src="/assets/images/lamp.svg" />
+      </span>
+      <span class="rectangle">
+        <img src="/assets/images/light-lines.svg" />
+      </span>
+      <span class="circle">
+        <img class="rangoli" src="/assets/images/rangoli.svg" />
+      </span>
+    </div>
+  </div>
+  <div class="bottom-area shade">
+    <div class="additional-details-wrapper">
+    {% for item in site.data.conference-details %}
+      <div class="{{ item.class }} details-container">
+        <div class="image">
+          <img src="{{ item.icon }}" />
+        </div>
+        <div class="details">
+          <div class="dates">{{ item.dates }}</div>
+          <div class="place">{{ item.place }}</div>
+          <div class="title">{{ item.title }}</div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
+</div>
