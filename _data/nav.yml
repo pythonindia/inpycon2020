@@ -1,0 +1,6 @@
+- name: About
+  link: about
+- name: Speakers
+  link: speakers
+- name: Sponsors
+  link: sponsors

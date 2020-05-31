@@ -1,0 +1,15 @@
+- title: Conference
+  dates: Oct 12, 13
+  place: Place of event
+  icon: /assets/images/mic.svg
+  class: conference-details
+- title: Workshops
+  dates: Oct 12, 13
+  place: Place of event
+  icon: /assets/images/gear.svg
+  class: workshop-details
+- title: Dev Sprints
+  dates: Oct 12, 13
+  place: Place of event
+  icon: /assets/images/coding.svg
+  class: dev-sprint-details

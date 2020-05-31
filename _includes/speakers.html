@@ -1,0 +1,16 @@
+<div id="speakers" class="page-wrapper speakers-section">
+  <div class="page-details">
+    <div class="title">Speakers</div>
+    <div class="description">
+    {% for item in site.data.speakers %}
+      <div class="speaker-details">
+        <div class="speaker-image">
+          <img src="{{ item.image }}" />
+        </div>
+        <div class="speaker-name">{{ item.name }}</div>
+        <div class="speaker-brief">{{ item.brief }}</div>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
+</div>
