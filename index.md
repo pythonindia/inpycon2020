@@ -1,7 +1,4 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
-
-{% include about.html %}
-{% include speakers.html %}
