@@ -1,13 +1,27 @@
 <!doctype html>
 <html>
-  {% include head.html %}
-  <body>
-  	{% if page.title == 'Home' %}
-      {% include header.html %}
-    {% endif %}
-    {% include nav.html %}
+<!-- head section  -->
+{% include head.html %}
+
+<body>
+
+  <!-- header section -->
+  {% if page.title == 'Home' %}
+    {% include header.html %}
+  {% endif %}
+
+  <!-- Nav section -->
+  {% include nav.html %}
+
+  <div class="blog">
     {{ content }}
-    {% include footer.html %}
-    <script src="/assets/js/custom.js"></script>
-  </body>
+  </div>
+
+  <!-- footer section -->
+  {% include footer.html %}
+
+  <script src="/assets/js/custom.js"></script>
+
+</body>
+
 </html>

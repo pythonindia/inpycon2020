@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoC
+title: Code of Conduct
 ---
 
 ## Code Of Conduct

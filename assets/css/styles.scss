@@ -12,6 +12,37 @@ body {
   font-style: normal;
 }
 
+.blog {
+  margin: 50px auto;
+  max-width: 800px;
+  line-height: 2.5rem;
+}
+
+.blog p {
+  font-weight: 400;
+}
+
+.blog h3 {
+  font-weight: bold;
+}
+
+.blog h1 {
+  margin: 20px 0 50px 0;
+}
+
+.blog h2,
+.blog h3,
+.blog h4,
+.blog h5,
+.blog h6 {
+  margin: 20px 0;
+}
+
+.blog ul {
+  list-style: initial;
+}
+
+
 .header-wrapper {
   width: 100%;
   // height: rem-calc(850);
@@ -256,7 +287,7 @@ body {
   }
 
   nav {
-    max-width: rem-calc(390);
+    max-width: rem-calc(800);
     margin: 0 auto;
     display: flex;
     justify-content: space-evenly;
