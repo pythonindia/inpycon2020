@@ -1,6 +1,8 @@
 - name: About
-  link: about
+  link: index.html#about
 - name: Speakers
-  link: speakers
+  link: index.html#speakers
 - name: Sponsors
-  link: sponsors
+  link: index.html#sponsors
+- name: COC
+  link: coc.html

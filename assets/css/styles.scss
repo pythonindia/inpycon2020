@@ -12,36 +12,35 @@ body {
   font-style: normal;
 }
 
-.blog {
-  margin: 50px auto;
-  max-width: 800px;
-  line-height: 2.5rem;
-}
+.content {
+  margin: rem-calc(50) auto;
+  max-width: rem-calc(800);
+  line-height: rem-calc(40);
 
-.blog p {
+  .p {
   font-weight: 400;
-}
+  }
 
-.blog h3 {
-  font-weight: bold;
-}
+  .h3 {
+    font-weight: bold;
+  }
 
-.blog h1 {
-  margin: 20px 0 50px 0;
-}
+  .h1 {
+    margin: rem-calc(20) 0 rem-calc(50) 0;
+  }
 
-.blog h2,
-.blog h3,
-.blog h4,
-.blog h5,
-.blog h6 {
-  margin: 20px 0;
-}
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6 {
+    margin: rem-calc(20) 0;
+  }
 
-.blog ul {
-  list-style: initial;
+  .ul {
+    list-style: initial;
+  }
 }
-
 
 .header-wrapper {
   width: 100%;
