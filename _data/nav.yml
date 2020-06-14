@@ -1,8 +1,10 @@
 - name: About
-  link: index.html#about
-- name: Speakers
-  link: index.html#speakers
-- name: Sponsors
-  link: index.html#sponsors
+  link: /#about
+# - name: Speakers
+#   link: index.html#speakers
+- name: CFP
+  link: /#cfp
+- name: Supporters
+  link: /#supporter
 - name: COC
   link: coc.html
