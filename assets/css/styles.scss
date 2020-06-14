@@ -257,6 +257,10 @@ body {
             line-height: rem-calc(30);
             color: #F6B700;
           }
+
+          .sm-title {
+            display: none;
+          }
         }
       }
     }
@@ -327,7 +331,7 @@ body {
   .page-details {
     text-align: center;
     margin: 0 auto;
-    width: 75%;
+    max-width: 75%;
     padding-top: rem-calc(65);
     padding-bottom: rem-calc(95);
 
@@ -362,7 +366,6 @@ body {
     }
 
     .page-details {
-      max-width: 80%;
       padding-top: rem-calc(81);
     }
   }
@@ -475,5 +478,55 @@ body {
         width: rem-calc(28);
       }
     }
+  }
+}
+
+// Responsive rules
+
+@media (max-width: 768px) {
+  .flex {
+    display: block;
+  }
+}
+
+@media (max-width: 640px) {
+  .header-wrapper .bottom-area .additional-details-wrapper {
+    display: block;
+    padding-top: 13rem;
+
+    .details-container .details .title {
+      display: none;
+
+      &.sm-title {
+        display: block;
+      }
+    }
+  }
+
+  .header-wrapper .top-area .center-content .center-details {
+    top: 85%;
+  }
+
+  .menu-wrapper nav a {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  .page-wrapper .page-details {
+    max-width: 90%
+  }
+
+  .content {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 512px) {
+  .page-wrapper .page-details {
+    max-width: 100%
+  }
+
+  .content {
+    max-width: 100%;
   }
 }
