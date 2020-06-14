@@ -5,24 +5,15 @@
     </div>
     <div class="copyright-details">
       <div class="copyright-text">Copyright 2020 PyCon India</div>
-      <div class="mail">contact@in.pycon.org</div>
     </div>
     <div class="social-media-details">
-      <div>
-        <a href="#">
-          <img src="/assets/images/facebook-logo.svg" />
-        </a>
-      </div>
-      <div>
-        <a href="#">
-          <img src="/assets/images/twitter-logo.svg" />
-        </a>
-      </div>
-      <div>
-        <a href="#">
-          <img src="/assets/images/instagram-logo.svg" />
-        </a>
-      </div>
+      {% for item in site.data.social-media %}
+        <div>
+          <a href="{{ item.link }}" rel="nofollow noreferrer" target="_blank">
+            <img src="{{ item.icon }}" alt="{{ item.title }}" />
+          </a>
+        </div>
+      {% endfor %}
     </div>
   </div>
 </div>
