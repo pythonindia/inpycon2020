@@ -14,7 +14,7 @@ body {
 
 .content {
   margin: rem-calc(50) auto;
-  max-width: rem-calc(800);
+  max-width: 75%;
   line-height: rem-calc(40);
 
   .p {
@@ -39,6 +39,18 @@ body {
 
   .ul {
     list-style: initial;
+  }
+}
+
+.flex {
+  display: flex;
+
+  .flex-column {
+    flex-direction: column
+  }
+
+  .justify-center {
+    justify-content: center;
   }
 }
 
@@ -137,30 +149,6 @@ body {
 
           .status {
             color: #DF0E12;
-          }
-        }
-
-        .apply {
-          a {
-            font-weight: bold;
-            font-size: rem-calc(18);
-            line-height: rem-calc(22);
-            color: #FFFFFF;
-            text-decoration: none;
-            padding: rem-calc(13) rem-calc(16) rem-calc(14) rem-calc(16);
-            background: linear-gradient(180deg, #FF0006 0%, #C7181A 100%);
-            border-radius: rem-calc(5);
-
-            span {
-              display: inline-block;
-              vertical-align: middle;
-              margin-left: rem-calc(48);
-            }
-
-            img {
-              width: rem-calc(24);
-              height: rem-calc(24);
-            }
           }
         }
       }
@@ -275,6 +263,28 @@ body {
   }
 }
 
+.primary-button {
+  font-weight: bold;
+  font-size: rem-calc(18);
+  line-height: rem-calc(22);
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: rem-calc(13) rem-calc(16) rem-calc(14) rem-calc(16);
+  background: linear-gradient(180deg, #FF0006 0%, #C7181A 100%);
+  border-radius: rem-calc(5);
+
+  span {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: rem-calc(48);
+  }
+
+  img {
+    width: rem-calc(24);
+    height: rem-calc(24);
+  }
+}
+
 .menu-wrapper {
   border: rem-calc(1) solid rgba(224, 13, 17, 0.1);
   background-color: #ffffff;
@@ -312,33 +322,42 @@ body {
   text-align: center;
   margin: 0 auto;
   border-bottom: 1px solid rgba(151, 151, 151, 0.2);
+  max-width: 70rem;
 
   .page-details {
     text-align: center;
     margin: 0 auto;
+    width: 75%;
     padding-top: rem-calc(65);
     padding-bottom: rem-calc(95);
 
     .title {
       font-weight: bold;
-      font-size: rem-calc(22);
-      line-height: rem-calc(27);
+      font-size: rem-calc(30);
+      line-height: rem-calc(37);
       color: #EB090D;
       margin-bottom: rem-calc(33);
     }
 
     .description {
-      font-weight: 400;
-      font-size: rem-calc(16);
-      line-height: rem-calc(22);
-      color: #818181;
+      font-weight: 500;
+      font-size: rem-calc(20);
+      line-height: rem-calc(30);
+      color: #575757;
+
+      span.highlight {
+        color: #EB090D;
+        font-weight: bold;
+      }
+    }
+
+    .page-points {
+      margin: 0 rem-calc(32);
     }
   }
 
   &.about-section {
-    max-width: rem-calc(932);
-
-    &.sticky-enable {
+    .sticky-enable {
       padding-top: rem-calc(65);
     }
 
@@ -394,7 +413,7 @@ body {
             font-size: rem-calc(14);
             line-height: rem-calc(17);
             text-align: center;
-            color: #818181;
+            color: #575757;
           }
         }
       }
