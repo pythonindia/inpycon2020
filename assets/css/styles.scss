@@ -12,6 +12,36 @@ body {
   font-style: normal;
 }
 
+.content {
+  margin: rem-calc(50) auto;
+  max-width: rem-calc(800);
+  line-height: rem-calc(40);
+
+  .p {
+  font-weight: 400;
+  }
+
+  .h3 {
+    font-weight: bold;
+  }
+
+  .h1 {
+    margin: rem-calc(20) 0 rem-calc(50) 0;
+  }
+
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6 {
+    margin: rem-calc(20) 0;
+  }
+
+  .ul {
+    list-style: initial;
+  }
+}
+
 .header-wrapper {
   width: 100%;
   // height: rem-calc(850);
@@ -256,7 +286,7 @@ body {
   }
 
   nav {
-    max-width: rem-calc(390);
+    max-width: rem-calc(800);
     margin: 0 auto;
     display: flex;
     justify-content: space-evenly;
