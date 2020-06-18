@@ -5,7 +5,7 @@
     {% for item in site.data.speakers %}
       <div class="speaker-details">
         <div class="speaker-image">
-          <img src="{{ item.image }}" />
+          <img src="{{ item.image | relative_url }}" />
         </div>
         <div class="speaker-name">{{ item.name }}</div>
         <div class="speaker-brief">{{ item.brief }}</div>

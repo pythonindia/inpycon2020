@@ -1,7 +1,7 @@
 <div class="menu-wrapper" id="navigation-menu">
   <nav>
     {% for item in site.data.nav %}
-      <a href="{{ item.link }}" {% if page.url == item.link %}class="active"{% endif %}>
+      <a href="{{ item.link | relative_url }}" {% if page.url == item.link %}class="active"{% endif %}>
         {{ item.name }}
       </a>
     {% endfor %}
