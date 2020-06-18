@@ -2,23 +2,23 @@
   <div class="top-area">
     <div class="left-content">
       <span class="rectangle">
-        <img src="/assets/images/dark-lines.svg" />
+        <img src={{ "assets/images/dark-lines.svg" | relative_url }} />
       </span>
       <span class="circle">
-        <img class="rangoli" src="/assets/images/rangoli.svg" />
+        <img class="rangoli" src={{ "assets/images/rangoli.svg" | relative_url }} />
       </span>
     </div>
     <div class="center-content">
       <div class="image-container">
-        <img class="rangoli" src="/assets/images/rangoli.svg" />
-        <img class="rangoli-shade" src="/assets/images/rangoli-shade.svg" />
+        <img class="rangoli" src={{ "assets/images/rangoli.svg" | relative_url }} />
+        <img class="rangoli-shade" src={{ "assets/images/rangoli-shade.svg" | relative_url }} />
       </div>
       <div class="center-details">
         <div class="logo">
-          <img src="/assets/images/logo.svg" />
+          <img src={{ "assets/images/logo.svg" | relative_url }} />
         </div>
         <div class="conference-name">
-          <img src="/assets/images/conference-name.svg" />
+          <img src={{ "assets/images/conference-name.svg" | relative_url }} />
         </div>
         <div class="year-wrapper">
           <span class="year">2020,</span>
@@ -26,22 +26,22 @@
         </div>
         <div class="apply">
           <a rel="nofollow noreferrer" href="https://in.pycon.org/cfp/2020/proposals/" target="_blank" class="primary-button">
-            Submit Proposal 
-            <span><img src="/assets/images/forward.svg" /></span>
+            Submit Proposal
+            <span><img src={{ "assets/images/forward.svg" | relative_url }} /></span>
           </a>
         </div>
-        <!-- <img src="/assets/images/logo.svg" /> -->
+        <!-- <img src={{ "assets/images/logo.svg" | relative_url }} /> -->
       </div>
     </div>
     <div class="right-content">
       <span class="lamp">
-        <img src="/assets/images/lamp.svg" />
+        <img src={{ "assets/images/lamp.svg" | relative_url }} />
       </span>
       <span class="rectangle">
-        <img src="/assets/images/light-lines.svg" />
+        <img src={{ "assets/images/light-lines.svg" | relative_url }} />
       </span>
       <span class="circle">
-        <img class="rangoli" src="/assets/images/rangoli.svg" />
+        <img class="rangoli" src={{ "assets/images/rangoli.svg" | relative_url }} />
       </span>
     </div>
   </div>
@@ -50,7 +50,7 @@
     {% for item in site.data.conference-details %}
       <div class="{{ item.class }} details-container">
         <div class="image">
-          <img src="{{ item.icon }}" />
+          <img src="{{ item.icon | relative_url }}" />
         </div>
         <div class="details">
           <div class="sm-title title">{{ item.title }}</div>
