@@ -2,6 +2,10 @@
   link: https://www.facebook.com/PyConIndia/
   icon: assets/images/facebook-logo.svg
 
-- tile: twitter
+- title: twitter
   link: https://twitter.com/pyconindia/
   icon: assets/images/twitter-logo.svg
+
+- title: mailing-list
+  link: https://mail.python.org/mailman/listinfo/inpycon
+  icon: assets/images/NEED-LOGO.svg
