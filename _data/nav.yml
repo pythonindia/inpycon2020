@@ -4,6 +4,8 @@
 #   link: index.html#speakers
 - name: CFP
   link: /#cfp
+- name: Blog
+  link: /blog
 - name: Sponsors
   link: /#sponsor
 - name: COC
