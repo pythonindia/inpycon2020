@@ -15,11 +15,11 @@ PyCon India is the largest annual gathering of Python aficionados and experts in
 
 PyCon India 2020 consists of 3 events rolled into one mega event for 3 days of learning and fun:
 
-* __Conference Days:__ {Dates here} will be the Conference Days. On the conference days, people will be able to connect with other Pythonistas, discuss their experiences, present their ideas, and attend the talks.
+* __Conference Days:__ October 2-3 will be the Conference Days. On the conference days, people will be able to connect with other Pythonistas, discuss their experiences, present their ideas, and attend the talks.
 
-* __Workshop Day:__ Workshop Day will be on {Date}, 2020 (Please note that Workshop overlaps with Devsprints). On the workshop day, people can attend hands-on workshops, and learn about a topic they have been excited about, but didn't get the time or resources to learn about, from an expert.
+* __Workshop Day:__ Workshop Day will be on Oct 4, 2020 (Please note that Workshop overlaps with Devsprints). On the workshop day, people can attend hands-on workshops, and learn about a topic they have been excited about, but didn't get the time or resources to learn about, from an expert.
 
-* __Developer Sprints:__ The Developer Sprints will be on {Dates}, 2020. During the Devsprints, people can contribute to open source projects, guided by mentors having experience with open-source and their projects. This is a great opportunity for people to start contributing to Python and other open-source projects. You can learn more about Devsprints from [our blog](https://in.pycon.org/blog/2019/understanding-devsprints.html).
+* __Developer Sprints:__ The Developer Sprints will be on Oct 4-5, 2020. During the Devsprints, people can contribute to open source projects, guided by mentors having experience with open-source and their projects. This is a great opportunity for people to start contributing to Python and other open-source projects. You can learn more about Devsprints from [our blog](https://in.pycon.org/blog/2019/understanding-devsprints.html).
 
 ## Want to submit a talk/workshop for the conference?
 
