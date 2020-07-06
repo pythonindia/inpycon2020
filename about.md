@@ -27,9 +27,11 @@ With PyCon India 2020 being online this year, we are introducing preview videos 
 
 ## Who are the Organizers and what is our vision?
 
-### <span style="color:#F6B700">Organized By the people, For the people</span>
+### <span style="color:#F6B700">Organized by the people, for the people</span>
 
-PyCon India is run every year by Python users and community members all across India to bring their experience and expertise together to share with everyone. The conference is organized entirely by volunteers all the way from planning it, finding the speakers, managing the venue, to completing the event successfully. We have a large team of very enthusiastic and experienced volunteers coming from various Python communities all across India. 
+
+PyCon India is organized every year by Python communities and user groups all across India as a way to pool their experience and expertise into making a more successful, more accessible conference every year. The conference is organized entirely by volunteers all the way from planning, to finding the speakers, to managing the event successfully. We have a very large distributed team of enthusiastic and experienced volunteers coming from various Python communities all across India. 
+
 
 Our Vision is to bring the cumulative knowledge and experience of our community members to the public. We want to create a responsible and inclusive ecosystem where Pythonistas from diverse backgrounds can come together to share their stories and gain something from other's experiences. 
 
