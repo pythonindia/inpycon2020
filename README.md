@@ -17,7 +17,7 @@ This site is built with [Jekyll](https://jekyllrb.com/).
 * Run `git clone https://github.com/pythonindia/inpycon2020`.
 * `cd` to the repo and run `bundle install` to install all dependencies.
 * Run `bundle exec jekyll serve`.
-* Visit `http://localhost:4000/`.
+* Visit `http://localhost:4000/2020`.
 
 ## Code of Conduct
 
