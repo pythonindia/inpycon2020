@@ -5,7 +5,7 @@
 - name: CFP
   link: /#cfp
 - name: Blog
-  link: /blog
+  link: https://in.pycon.org/blog/
 - name: Sponsors
   link: /#sponsor
 - name: COC
