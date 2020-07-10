@@ -14,7 +14,7 @@ is going online this year.
 This site is built with [Jekyll](https://jekyllrb.com/).
 
 * Install Jekyll. Follow the first 2 steps in https://jekyllrb.com/docs/.
-* Run `git clone https://github.com/pythonindia/inpycon2020`.
+* Fork the repository and clone to your machine by using `git clone https://github.com/<username>/inpycon2020`.
 * `cd` to the repo and run `bundle install` to install all dependencies.
 * Run `bundle exec jekyll serve`.
 * Visit `http://localhost:4000/2020`.
