@@ -11,7 +11,7 @@ is going online this year.
 
 ## Getting Started
 
-This site is built with [Jekyll](https://jekyllrb.com/).
+This site is built with [Jekyll](https://jekyllrb.com/). For a basic introduction to git and GitHub you can follow https://guides.github.com/introduction/git-handbook/
 
 * Install Jekyll. Follow the first 2 steps in https://jekyllrb.com/docs/.
 * Fork the repository and clone to your machine by using `git clone https://github.com/<username>/inpycon2020`.
