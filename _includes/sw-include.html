@@ -1,0 +1,11 @@
+<script>
+  if('serviceWorker' in navigator){
+    navigator.serviceWorker.register('/2020/serviceWorker.js')
+      .then(function(registration){
+        console.log('sw registered', registration.scope);
+      })
+      .catch(function(error){
+        console.log('sw registration failed', error);
+      })
+  }
+</script>
