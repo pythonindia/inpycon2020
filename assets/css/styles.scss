@@ -298,6 +298,12 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
+
+    nav .navbar-logo {
+      width: 200px;
+      opacity: 1;
+      transition: opacity 300ms ease-in, width 300ms ease-in;
+    }
   }
 
   nav {
@@ -307,6 +313,12 @@ body {
     justify-content: space-evenly;
     flex-direction: row;
     flex-wrap: wrap;
+
+    .navbar-logo {
+      width: 0px;
+      opacity: 0;
+      transition: opacity 300ms ease-out, width 300ms ease-out;
+    }
 
     a {
       padding: rem-calc(24) rem-calc(29) rem-calc(26);
@@ -515,6 +527,10 @@ body {
   .menu-wrapper nav a {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
+  }
+
+  .menu-wrapper.sticky nav .navbar-logo {
+    width: 90%;
   }
 
   .page-wrapper .page-details {
