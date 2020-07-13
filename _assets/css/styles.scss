@@ -1,6 +1,4 @@
----
----
-@import "main";
+@import "mixins";
 html {
   scroll-behavior: smooth;
 }
@@ -18,7 +16,7 @@ body {
   line-height: rem-calc(40);
 
   .p {
-  font-weight: 400;
+    font-weight: 400;
   }
 
   .h3 {
@@ -47,7 +45,7 @@ body {
   flex: 1;
 
   .flex-column {
-    flex-direction: column
+    flex-direction: column;
   }
 
   .justify-center {
@@ -91,7 +89,6 @@ body {
           // height:  rem-calc(130);
           opacity: 0.28;
         }
-
       }
     }
 
@@ -145,11 +142,11 @@ body {
           margin-bottom: rem-calc(41);
 
           .year {
-            color: #FCC400;
+            color: #fcc400;
           }
 
           .status {
-            color: #DF0E12;
+            color: #df0e12;
           }
         }
       }
@@ -186,14 +183,17 @@ body {
           width: 26%;
           opacity: 0.7;
         }
-
       }
     }
   }
 
   .bottom-area {
     &.shade {
-      background: linear-gradient(180deg, rgba(199, 24, 26, 0.0001) 21.42%, #C7181A 100%);
+      background: linear-gradient(
+        180deg,
+        rgba(199, 24, 26, 0.0001) 21.42%,
+        #c7181a 100%
+      );
       width: 100%;
     }
 
@@ -256,7 +256,7 @@ body {
           .title {
             font-size: rem-calc(24);
             line-height: rem-calc(30);
-            color: #F6B700;
+            color: #f6b700;
           }
 
           .sm-title {
@@ -272,10 +272,10 @@ body {
   font-weight: bold;
   font-size: rem-calc(18);
   line-height: rem-calc(22);
-  color: #FFFFFF;
+  color: #ffffff;
   text-decoration: none;
   padding: rem-calc(13) rem-calc(16) rem-calc(14) rem-calc(16);
-  background: linear-gradient(180deg, #FF0006 0%, #C7181A 100%);
+  background: linear-gradient(180deg, #ff0006 0%, #c7181a 100%);
   border-radius: rem-calc(5);
 
   span {
@@ -313,11 +313,11 @@ body {
       font-weight: bold;
       font-size: 18px;
       line-height: 22px;
-      color: #EB090D;
+      color: #eb090d;
       text-decoration: none;
 
       &.active {
-        border-bottom: rem-calc(2) solid #F1070C;
+        border-bottom: rem-calc(2) solid #f1070c;
       }
     }
   }
@@ -340,7 +340,7 @@ body {
       font-weight: bold;
       font-size: rem-calc(30);
       line-height: rem-calc(37);
-      color: #EB090D;
+      color: #eb090d;
       margin-bottom: rem-calc(33);
     }
 
@@ -351,11 +351,11 @@ body {
       color: #575757;
 
       a {
-        color: #2F80ED
+        color: #2f80ed;
       }
 
       span.highlight {
-        color: #EB090D;
+        color: #eb090d;
         font-weight: bold;
       }
     }
@@ -403,7 +403,7 @@ body {
             img {
               width: rem-calc(140);
               height: rem-calc(140);
-              border: rem-calc(4) solid #EB090D;
+              border: rem-calc(4) solid #eb090d;
               border-radius: 50%;
             }
           }
@@ -412,7 +412,7 @@ body {
             font-weight: bold;
             font-size: rem-calc(18);
             line-height: rem-calc(22);
-            color: #F0060B;
+            color: #f0060b;
             margin-bottom: rem-calc(12);
           }
 
@@ -432,7 +432,11 @@ body {
 .footer-wrapper {
   padding-top: rem-calc(78);
   padding-bottom: rem-calc(85);
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.0001) 0%, #B6B6B6 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.0001) 0%,
+    #b6b6b6 100%
+  );
 
   .footer-details {
     max-width: rem-calc(932);
@@ -466,7 +470,7 @@ body {
         font-weight: bold;
         font-size: rem-calc(14);
         line-height: rem-calc(17);
-        color: #DD0E12;
+        color: #dd0e12;
       }
     }
 
@@ -518,7 +522,7 @@ body {
   }
 
   .page-wrapper .page-details {
-    max-width: 90%
+    max-width: 90%;
   }
 
   .content {
@@ -528,7 +532,7 @@ body {
 
 @media (max-width: 512px) {
   .page-wrapper .page-details {
-    max-width: 100%
+    max-width: 100%;
   }
 
   .content {

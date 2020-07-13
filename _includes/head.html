@@ -1,7 +1,15 @@
- <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>PyCon India - {{ page.title }}</title>
-	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href={{ "assets/css/styles.css" | relative_url }}>
- </head>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PyCon India - {{ page.title }}</title>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <!-- including style sheet -->
+  {% asset styles.scss %}
+
+  <!-- including service worker script snippet -->
+  {% include sw-include.html %}
+</head>

@@ -1,18 +1,18 @@
 <div class="footer-wrapper">
   <div class="footer-details">
     <div class="conf-image">
-      <img src={{ "assets/images/conf-footer-logo.svg" | relative_url }} />
+      {% asset conf-footer-logo.svg %}
     </div>
     <div class="copyright-details">
       <div class="copyright-text">Copyright 2020 PyCon India</div>
     </div>
     <div class="social-media-details">
       {% for item in site.data.social-media %}
-        <div>
-          <a href="{{ item.link }}" rel="nofollow noreferrer" target="_blank">
-            <img src="{{ item.icon }}" alt="{{ item.title }}" />
-          </a>
-        </div>
+      <div>
+        <a href="{{ item.link }}" rel="nofollow noreferrer" target="_blank">
+          {% asset '{{item.icon}}' alt='{{item.title}}' %}
+        </a>
+      </div>
       {% endfor %}
     </div>
   </div>

@@ -1,7 +1,7 @@
 - title: facebook
   link: https://www.facebook.com/PyConIndia/
-  icon: assets/images/facebook-logo.svg
+  icon: facebook-logo.svg
 
 - title: twitter
   link: https://twitter.com/pyconindia/
-  icon: assets/images/twitter-logo.svg
+  icon: twitter-logo.svg
