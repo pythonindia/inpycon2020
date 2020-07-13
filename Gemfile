@@ -6,3 +6,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 
 gem "jekyll"
+gem "jekyll-assets"
+gem 'uglifier'
+gem 'sprockets', '~> 3.7'

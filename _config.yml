@@ -1,1 +1,4 @@
 baseurl: "/2020"
+
+plugins:
+  - jekyll-assets
