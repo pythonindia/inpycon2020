@@ -3,9 +3,11 @@ layout: default
 title: About Us
 ---
 
-#  <span style="color:#EB090D">Divided by COVID. Connected by Python</span>
+#  <span style="color:#EB090D">Divided by a pandemic. Connected by Python</span>
 
-## What is PyCon? 
+
+## What is PyCon India? 
+
 
 
 PyCon India is the largest annual gathering of Python aficionados and experts in India where Pythonistas come from around the world to celebrate their use of Python, and share their knowledge and experience. It is a volunteer-driven conference aimed to foster the adoption, use, and development of the Python programming language. The 12th edition of PyCon was supposed to take place in the beautiful city of Bangalore. But due to the current situation, the conference will take place virtually from 2nd October to 5th October 2020. With this move, this year, we are making the conference bigger, better, and more accessible to Pythonistas all over the world.
@@ -25,7 +27,8 @@ PyCon India 2020 consists of 3 events rolled into one mega event for 3 days of l
 
 With PyCon India 2020 being online this year, we are introducing preview videos to our proposal submission workflow. Preview videos are you talking about your proposal, topics you intend to cover in the talk, and how you intend to cover them. Participants are strongly suggested to upload links of their preview videos while submitting their proposals. It will be immensely helpful for reviewers to go through preview videos and take that into account before making final decisions on your talk proposal. You can check out our [CFP page](https://in.pycon.org/cfp/2020/proposals/) and [blog](https://in.pycon.org/blog/2020/2020-workshop-cfp-announcement.html) for more details.
 
-## Who are the Organizers and what is our vision?
+## Who are the organizers and what is our vision?
+
 
 ### <span style="color:#F6B700">Organized by the people, for the people</span>
 
@@ -35,6 +38,7 @@ PyCon India is organized every year by Python communities and user groups all ac
 
 Our Vision is to bring the cumulative knowledge and experience of our community members to the public. We want to create a responsible and inclusive ecosystem where Pythonistas from diverse backgrounds can come together to share their stories and gain something from other's experiences. 
 
-The python programming language has become an essential tool for people from various backgrounds and careers, including programmers, mathematicians, doctors, scientists, security researchers, hardware designers, and many more. We aim to ensure the conference can reflect the diversity of our community and facilitate the exchange of ideas, knowledge, and experiences enriching the community. 
+The Python programming language has become an essential tool for people from various backgrounds and careers, including programmers, mathematicians, doctors, scientists, security researchers, hardware designers, and many more. We aim to ensure the conference can reflect the diversity of our community and facilitate the exchange of ideas, knowledge, and experiences enriching the community. 
+
 
 We would also like to ensure that the conference approaches everyone with respect, is accessible to everyone no matter their situation, and that we resolve differences peacefully in case of conflicts. You can also help with that by reading our [Code of Conduct](https://in.pycon.org/2020/coc.html) and following it.
