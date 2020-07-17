@@ -65,7 +65,7 @@ You may also ask to be put in touch with the conference chair‚ Sayan Chowdhury
 If the matter is especially urgent, please call/contact any of these individuals:
 
 Sayan Chowdhury  
-+91 XXX-XXX-XXXX
++91 96869 92532
 
 Or send an email to [report@in.pycon.org](mailto:report@in.pycon.org)
 
