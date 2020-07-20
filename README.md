@@ -19,6 +19,8 @@ This site is built with [Jekyll](https://jekyllrb.com/). For a basic introductio
 * Run `bundle exec jekyll serve`.
 * Visit the local development server at `http://localhost:4000/2020`.
 
+If you are interested in contributing to the website, please check out our [Contributing Guide](CONTRIBUTING.md)
+
 ## Code of Conduct
 
 As a contributor please follow the Code of Conduct to keep the
