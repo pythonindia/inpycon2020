@@ -1,0 +1,42 @@
+- name: Early Bird Ticket
+  brief: Sale ends by 30 Sep, 2018 11:59 PM (Asia/Kolkata) OR completion of 300 tickets
+  cost: 1200
+  type: conference
+  status: few
+  url: https://example.com
+- name: Student Ticket
+  brief: Sale ends by 30 Sep, 2018 11:59 PM (Asia/Kolkata) OR completion of 350 tickets<br/>Need to produce Valid Student ID
+  cost: 1000
+  type: conference
+  status: available
+  url: https://example.com
+- name: Regular Ticket
+  brief: Sale ends by 30 Sep, 2018 11:59 PM (Asia/Kolkata)
+  cost: 1700
+  type: conference
+  status: available
+  url: https://example.com
+- name: Late Bird Ticket
+  brief: Sale ends by 30 Sep, 2018 11:59 PM (Asia/Kolkata) OR completion of 300 tickets
+  cost: 2500
+  type: conference
+  status: available
+  url: https://example.com
+- name: Morning Ticket
+  brief: Half Day Workshop Ticket for 4th Oct, ‘20 <br/>Sale ends by 30 Sep, 2018 11:59 PM (Asia/Kolkata) OR completion of 75 tickets per workshop
+  cost: 750
+  type: workshop
+  status: available
+  url: https://example.com
+- name: Afternoon Ticket
+  brief: Half Day Workshop Ticket for 4th Oct, ‘20 <br/>Sale ends by 30 Sep, 2018 11:59 PM (Asia/Kolkata) OR completion of 75 tickets per workshop
+  cost: 750
+  type: workshop
+  status: available
+  url: https://example.com
+- name: Morning Ticket
+  brief: DevSprint Ticket for 4th & 5th Oct, ‘20<br/>Valid Conference Ticket is required to register for DevSprints. <br/>Please use the same email ID as Conference Ticket to register for DevSprint
+  cost: 100
+  type: devsprint
+  status: sold
+  url: https://example.com
