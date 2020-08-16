@@ -1,4 +1,4 @@
-- name: Submit Proposal
-  link: https://in.pycon.org/cfp/2020/proposals/
 - name: Buy Tickets
   link: /#ticket
+- name: Submit Proposal
+  link: https://in.pycon.org/cfp/2020/proposals/
