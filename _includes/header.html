@@ -24,18 +24,14 @@
           <span class="year">2020,</span>
           <span class="status">Online</span>
         </div>
+        {% for item in site.data.first-fold-buttons %}
         <div class="apply">
-          <a rel="nofollow noreferrer" href="https://in.pycon.org/cfp/2020/proposals/" target="_blank" class="primary-button">
-            Submit Proposal
+          <a {% if item.window == "yes" %} rel="nofollow noreferrer" target="_blank" {% endif %} href="{{ item.link | relative_url }}" class="primary-button">
+            {{ item.name }}
             <span><img src={{ "assets/images/forward.svg" | relative_url }} /></span>
           </a>
         </div>
-        <div class="apply">
-          <a rel="nofollow noreferrer" href="https://in.pycon.org/2020/register/" target="_blank" class="primary-button">
-            Get Notified for Passes
-            <span><img src={{ "assets/images/forward.svg" | relative_url }} /></span>
-          </a>
-        </div>
+        {% endfor %}
         <!-- <img src={{ "assets/images/logo.svg" | relative_url }} /> -->
       </div>
     </div>
