@@ -304,6 +304,7 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
+    z-index: 2;
   }
 
   nav {
@@ -492,11 +493,120 @@ body {
   }
 }
 
+.ticket-section {
+  .title {
+    font-weight: bold;
+    font-size: rem-calc(30);
+    line-height: rem-calc(37);
+    color: #EB090D;
+    margin-bottom: rem-calc(33);
+  }
+}
+
+.title.ticket-type {
+  text-align: left;
+}
+
+.ticket-wrap {
+  width: 100%;
+  background: #F7F7F7;
+  display: flex;
+  margin: 1.5rem 0;
+  position: relative;
+}
+
+.ticket-wrap::before {
+  content: "";
+  border-radius: 50%;
+  width: 38px;
+  height: 38px;
+  top: 50%;
+  position: absolute;
+  margin-top: -19px;
+  margin-left: -19px;
+  background-color: white;
+}
+
+.ticket-wrap::after {
+  content: "";
+  border-radius: 50%;
+  width: 38px;
+  height: 38px;
+  top: 50%;
+  left: 100%;
+  position: absolute;
+  margin-top: -19px;
+  margin-left: -19px;
+  background-color: white;
+}
+
+.ticket-details {
+  flex: 1;
+  display: flex;
+  text-align: left;
+  font-size: 0.8rem;
+  line-height: 1.25rem;
+  color: #575757;
+
+  .ticket-tag {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: bold;
+  }
+
+  .ticket-price {
+    color: #ED2427;
+    font-weight: bold;
+  }
+}
+
+.ticket-buy {
+  width: 25%;
+  background: #2F80ED;
+  color: #FFFFFF;
+  padding: 1.75rem;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  line-height: 1.75rem;
+  font-weight: bold;
+
+  &.few {
+    color: #000000;
+    background: #FFCC00;
+  }
+
+  &.sold {
+    background: #FF0006;
+  }
+}
+
+.ticket-name {
+  flex: 1;
+  padding: 1.75rem;
+  padding-left: 2.5rem;
+  padding-right: 1rem;
+}
+
+.ticket-price {
+  width: 28%;
+  padding: 0 1.75rem;
+  margin: 1.75rem 0;
+  border-left: 1px dashed #000000;
+}
+
 // Responsive rules
 
 @media (max-width: 768px) {
   .flex {
     display: block;
+  }
+
+  .ticket-wrap::before,
+  .ticket-wrap::after {
+    content: none;
   }
 }
 
@@ -539,5 +649,13 @@ body {
 
   .content {
     max-width: 100%;
+  }
+
+  .ticket-wrap {
+    flex-direction: column;
+
+    .ticket-buy {
+      width: 100%;
+    }
   }
 }

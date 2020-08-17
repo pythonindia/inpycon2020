@@ -1,0 +1,102 @@
+{% assign conference_tickets = site.data.tickets | where: "type", "conference" %}
+{% assign workshop_tickets = site.data.tickets | where: "type", "workshop" %}
+{% assign devsprint_tickets = site.data.tickets | where: "type", "devsprint" %}
+
+<div id="ticket" class="page-wrapper ticket-section">
+  <div class="page-details">
+    <div class="title">Tickets</div>
+    <div class="title ticket-type">Conference</div>
+    {% for ticket in conference_tickets %}
+    <div class="ticket-wrap">
+      <div class="ticket-details">
+        <div class="ticket-name">
+          <div class="ticket-tag">{{ ticket.name }}</div>
+          <div class="ticket-description">
+            {{ ticket.brief }}
+          </div>
+        </div>
+        <div class="ticket-price">
+          <div class="ticket-tag">₹ {{ ticket.cost }}</div>
+          <div class="ticket-description">GST Applicable</div>
+        </div>
+      </div>
+      <a class="ticket-buy {{ ticket.status }}"
+        {% if ticket.status != "sold" %}href="{{ ticket.url }}"{% endif %}
+      >
+        {% if ticket.status == "available" %}
+          Get Tickets
+        {% elsif ticket.status == "few" %}
+          Last Few Left
+        {% elsif ticket.status == "sold" %}
+          Sold Out
+        {% endif %}
+      </a>
+    </div>
+    {% endfor %}
+    {% if workshop_tickets == blank %}
+    <div class="title ticket-type">Workshops</div>
+    {% for ticket in workshop_tickets %}
+    <div class="ticket-wrap">
+      <div class="ticket-details">
+        <div class="ticket-name">
+          <div class="ticket-tag">{{ ticket.name }}</div>
+          <div class="ticket-description">
+            {{ ticket.brief }}
+          </div>
+        </div>
+        <div class="ticket-price">
+          <div class="ticket-tag">₹ {{ ticket.cost }}</div>
+          <div class="ticket-description">GST Applicable</div>
+        </div>
+      </div>
+      <a class="ticket-buy {{ ticket.status }}"
+        {% if ticket.status != "sold" %}href="{{ ticket.url }}"{% endif %}
+      >
+        {% if ticket.status == "available" %}
+          Get Tickets
+        {% elsif ticket.status == "few" %}
+          Last Few Left
+        {% elsif ticket.status == "sold" %}
+          Sold Out
+        {% endif %}
+      </a>
+    </div>
+    {% endfor %}
+    {% endif %}
+    {% if devsprint_tickets == blank %}
+    <div class="title ticket-type">DevSprint</div>
+    {% for ticket in devsprint_tickets %}
+    <div class="ticket-wrap">
+      <div class="ticket-details">
+        <div class="ticket-name">
+          <div class="ticket-tag">{{ ticket.name }}</div>
+          <div class="ticket-description">
+            {{ ticket.brief }}
+          </div>
+        </div>
+        <div class="ticket-price">
+          <div class="ticket-tag">₹ {{ ticket.cost }}</div>
+          <div class="ticket-description">GST Applicable</div>
+        </div>
+      </div>
+      <a class="ticket-buy {{ ticket.status }}"
+        {% if ticket.status != "sold" %}href="{{ ticket.url }}"{% endif %}
+      >
+        {% if ticket.status == "available" %}
+          Get Tickets
+        {% elsif ticket.status == "few" %}
+          Last Few Left
+        {% elsif ticket.status == "sold" %}
+          Sold Out
+        {% endif %}
+      </a>
+    </div>
+    {% endfor %}
+    {% endif %}
+    <p style="line-height: 1.5rem; color: #575757">
+      For all Transfer requests and Ticket queries, write to
+      <a href="mailto:support@pycon.in">support@in.pycon.org</a>.
+      Transfer Window will be open till 30th September 2020. Read more about the policies here.
+    </p>
+  </div>
+</div>
