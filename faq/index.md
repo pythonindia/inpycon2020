@@ -18,7 +18,7 @@ You can also join our [Zulip channel](https://pyconindia.zulipchat.com/) or foll
 
 ### Q. I want to present a talk/workshop at the conference. What should I do?
 
-You can submit your talk/workshop proposal oon our [CFP Page](https://in.pycon.org/cfp/2020/proposals/). The extended talks CFP will be open till August 19, and the workshop CFP will be open till August 30.
+You can submit your talk/workshop proposal on our [CFP Page](https://in.pycon.org/cfp/2020/proposals/). The extended talks CFP will be open till August 19, and the workshop CFP will be open till August 30.
 
 ### Q. I want to volunteer for the conference. What should I do?
 
@@ -30,11 +30,11 @@ There isn't any strict time requirement that needs to be fulfilled by the volunt
 
 ### Q. Do volunteers get a certificate?
 
-**No**, Pycon India does not provide any certificate to volunteers. We all volunteer on our own voilition to make the conference a great experience for us and everyone else who attends it.
+**No**, Pycon India does not provide any certificate to volunteers. We all volunteer on our own volition to make the conference a great experience for us and everyone else who attends it.
 
 ### Q. Do attendees get a certificate of participation?
 
-**No**, PyCon India does not provide any certificates to the attendees/participants. The conference is a platform to share your experience, express your views, learn and meet new people.
+**No**, PyCon India does not provide any certificates to the attendees/participants. The conference is a platform to share your experience, express your views, learn, and meet new people.
 
 
 ## Ticketing FAQ
@@ -43,7 +43,7 @@ There isn't any strict time requirement that needs to be fulfilled by the volunt
 
 ### Q. I am a speaker/volunteer at the conference. Do I need to buy a ticket?
 
-**Yes**. PyCon India is a completely volunteer driven conference and we follow the principal _"Everyone Pays"_. Everyone from the speakers, to volunteers, to even the organizers have to pay for their own tickets to attend the conference. Nobody earns anything from the conference, all the preceedings from the ticket sales go towards making the conference even better for everyone. 
+**Yes**. PyCon India is a completely volunteer-driven conference and we follow the principal _"Everyone Pays"_. Everyone from the speakers to volunteers, to even the organizers have to pay for their own tickets to attend the conference. Nobody earns anything from the conference, all the proceedings from the ticket sales go towards making the conference even better for everyone. 
 
 ### Q. What does the Conference ticket (Oct 2 and Oct 3, 2020) include?
 
@@ -59,21 +59,21 @@ The ticket also includes all the conference goodies and swags for the attendees.
 
 ### Q. Is there a different ticket for the Devsprints?
 
-**No**, the conference ticket includes complete access to the devsprints. The ticket holders do not have to pay anything extra. But, the attendees will be asked to register for the devsprints as that would help the conference with logistics. 
+**No**, the conference ticket includes complete access to the dev sprints. The ticket holders do not have to pay anything extra. But, the attendees will be asked to register for the dev sprints as that would help the conference with logistics. 
 
 ### Q. I have bought the workshop ticket am I eligible to participate in DevSprint?
 
-**No**, the workshop tickets only include access to the specific workshops. You would have to buy the conference tickets to get access to the devsprints. 
+**No**, the workshop tickets only include access to the specific workshops. You would have to buy the conference tickets to get access to the dev sprints. 
 
 ### Q. There is a change in my plan so I can’t attend the conference. Can I get a refund?
 
-**Yes**, the conference tickets can be cancelled through townscript. 
+**Yes**, the conference tickets can be canceled through townscript. 
 
 {Procedure here}
 
 ### Q. Can I transfer my ticket(s) to someone else?
 
-**Yes**, the conference tickets can be transfered to another person via townscript. 
+**Yes**, the conference tickets can be transferred to another person via townscript. 
 
 {Procedure here}
 
@@ -81,14 +81,14 @@ The ticket also includes all the conference goodies and swags for the attendees.
 
 PyCon India is a conference run with contributions from volunteers and supporters from the community. Hence, as organizers, we provide multiple avenues for people to contribute to the event. People can contribute their time by volunteering in the various conference activities. People can also make a financial contribution by purchasing a contributor ticket.
 
-Contributor tickets helps us meet the expenses of running the conference, and in the long run can reduce the dependence on sponsors. People who purchase a contributor ticket will be credited in our blog, towards the end of the conference.
+Contributor tickets help us meet the expenses of running the conference, and in the long run, can reduce the dependence on sponsors. People who purchase a contributor ticket will be credited in our blog, towards the end of the conference.
 
 ### Q. Is there a student discount?
 
-**No**, there will be no student discount on the tickets. Due to the online nature of the conference this year, and to make it more inclusive and easily accessible, we have kept the ticket prices to a bare minumum this year. So, we will not be offering any discount for students on the tickets.
+**No**, there will be no student discount on the tickets. Due to the online nature of the conference this year, and to make it more inclusive and easily accessible, we have kept the ticket prices to a bare minimum this year. So, we will not be offering any discount for students on the tickets.
 
 ## Contact Us
 
 For any queries, you can contact us on <tickets@in.pycon.org>.
 
-You can alos Join our [Zulip channel](https://pyconindia.zulipchat.com/) and ask your queries there. 
+You can also Join our [Zulip channel](https://pyconindia.zulipchat.com/) and ask your queries there. 
