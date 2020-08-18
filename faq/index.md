@@ -26,7 +26,7 @@ Check out our [Volunteer Blog](https://in.pycon.org/blog/2020/2020-call-for-volu
 
 ### How much time do I need to devote to the volunteering work if I choose to volunteer for PyCon India? 
 
-The do not demand any strict time requirements from our volunteers and value your every of contribution, no matter how small or large it is. You can volunteer on your own time and availability. But, ideally, one hour a day would be more than sufficient. 
+There isn't any strict time requirement that needs to be fulfilled by the volunteers. We value each and every contribution, no matter how big or small it is. You can choose to volunteer on your own time and availability. But, ideally, one hour a day would be more than sufficient if you can keep up the commitment and do the work assigned to you.  
 
 ### Q. Do volunteers get a certificate?
 
