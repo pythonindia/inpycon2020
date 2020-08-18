@@ -18,11 +18,11 @@ You can also join our [Zulip channel](https://pyconindia.zulipchat.com/) or foll
 
 ### Q. I want to present a talk/workshop at the conference. What should I do?
 
-You can submit your talk/workshop proposal oon our [CFP Page](). The extended talks CFP will be open till August 19, and the workshop CFP will be open till August 30.
+You can submit your talk/workshop proposal oon our [CFP Page](https://in.pycon.org/cfp/2020/proposals/). The extended talks CFP will be open till August 19, and the workshop CFP will be open till August 30.
 
 ### Q. I want to volunteer for the conference. What should I do?
 
-Check out our [Volunteer Blog]() to know about the roles and responsibilities. You can also join our [Zulip channel]() and ping the respective workgroup leads to get started with volunteering.
+Check out our [Volunteer Blog](https://in.pycon.org/blog/2020/2020-call-for-volunteers.html) to know about the roles and responsibilities. You can also join our [Zulip channel](https://pyconindia.zulipchat.com/) and ping the respective workgroup leads to get started with volunteering.
 
 ### How much time do I need to devote to the volunteering work if I choose to volunteer for PyCon India? 
 
@@ -91,4 +91,4 @@ Contributor tickets helps us meet the expenses of running the conference, and in
 
 For any queries, you can contact us on <tickets@in.pycon.org>.
 
-You can alos Join our [Zulip channel]() and ask your queries there. 
+You can alos Join our [Zulip channel](https://pyconindia.zulipchat.com/) and ask your queries there. 
