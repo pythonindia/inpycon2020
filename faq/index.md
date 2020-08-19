@@ -24,9 +24,9 @@ You can submit your talk/workshop proposal on our [CFP Page](https://in.pycon.or
 
 Check out our [Volunteer Blog](https://in.pycon.org/blog/2020/2020-call-for-volunteers.html) to know about the roles and responsibilities. You can also join our [Zulip channel](https://pyconindia.zulipchat.com/) and ping the respective workgroup leads to get started with volunteering.
 
-### How much time do I need to devote to the volunteering work if I choose to volunteer for PyCon India? 
+### Q. How much time do I need to devote to the volunteering work if I choose to volunteer for PyCon India?
 
-There isn't any strict time requirement that needs to be fulfilled by the volunteers. We value each and every contribution, no matter how big or small it is. You can choose to volunteer on your own time and availability. But, ideally, one hour a day would be more than sufficient if you can keep up the commitment and do the work assigned to you.  
+There isn't any strict time requirement that needs to be fulfilled by the volunteers. We value each and every contribution, no matter how big or small it is. You can choose to volunteer on your own time and availability. But, ideally, one hour a day would be more than sufficient if you can keep up the commitment and do the work assigned to you.
 
 ### Q. Do volunteers get a certificate?
 
@@ -53,19 +53,19 @@ A full conference ticket for two days includes access to all the amazing keynote
 
 You will also get access to all the open space discussions and other sessions during the conference. The conference ticket holders will also be eligible to join the Devsprints.
 
-The ticket also includes all the conference goodies and swags for the attendees. 
+The ticket also includes all the conference goodies and swags for the attendees.
 
 ### Q. Is there a different ticket for Workshops?
 
-**Yes**, a separate ticket would have to be purchased for each workshop. The details for the workshop tickets will be updated soon. 
+**Yes**, a separate ticket would have to be purchased for each workshop. The details for the workshop tickets will be updated soon.
 
 ### Q. Is there a different ticket for the Devsprints?
 
-**No**, the conference ticket includes complete access to the dev sprints. The ticket holders do not have to pay anything extra. But, the attendees will be asked to register for the dev sprints as that would help the conference with logistics. 
+**No**, the conference ticket includes complete access to the dev sprints. The ticket holders do not have to pay anything extra. But, the attendees will be asked to register for the dev sprints as that would help the conference with logistics.
 
 ### Q. I have bought the workshop ticket. Am I eligible to participate in DevSprints?
 
-**No**, the workshop tickets only include access to the specific workshops. You would have to buy the conference tickets to get access to the dev sprints. 
+**No**, the workshop tickets only include access to the specific workshops. You would have to buy the conference tickets to get access to the dev sprints.
 
 ### Q. There is a change in my plan so I can’t attend the conference and/or workshops. Can I get a refund?
 
@@ -74,7 +74,7 @@ The ticket also includes all the conference goodies and swags for the attendees.
 
 ### Q. Can I transfer my ticket(s) to someone else?
 
-**Yes**, the conference tickets can be transferred to another person via townscript. You can follow the following procedure to tranfer your ticket(s) to someone else. 
+**Yes**, the conference tickets can be transferred to another person via townscript. You can follow the following procedure to tranfer your ticket(s) to someone else.
 
 * If you are already registered on Townscript:
 
@@ -120,4 +120,4 @@ Contributor tickets help us meet the expenses of running the conference, and in 
 
 For any queries, you can contact us on <tickets@in.pycon.org>.
 
-You can also Join our [Zulip channel](https://pyconindia.zulipchat.com/) and ask your queries there. 
+You can also Join our [Zulip channel](https://pyconindia.zulipchat.com/) and ask your queries there.
