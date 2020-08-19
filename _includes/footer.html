@@ -10,7 +10,7 @@
       {% for item in site.data.social-media %}
         <div>
           <a href="{{ item.link }}" rel="nofollow noreferrer" target="_blank">
-            <img src="{{ item.icon }}" alt="{{ item.title }}" />
+            <img src="{{ item.icon | relative_url }}" alt="{{ item.title }}" />
           </a>
         </div>
       {% endfor %}
