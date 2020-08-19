@@ -67,7 +67,8 @@ The ticket also includes all the conference goodies and swags for the attendees.
 
 **No**, the workshop tickets only include access to the specific workshops. You would have to buy the conference tickets to get access to the dev sprints. 
 
-### Q. There is a change in my plan so I can’t attend the conference. Can I get a refund?
+### Q. There is a change in my plan so I can’t attend the conference and/or workshops. Can I get a refund?
+
 
 **No**, the conference tickets cannot be cancelled, but instead can be transferred. You can chek out the instructions on how to transfer your tickets below.
 
