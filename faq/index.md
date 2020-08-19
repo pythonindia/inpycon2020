@@ -3,7 +3,7 @@ layout: default
 title: Frequently Asked Questions
 ---
 
-# Frequently Asked Questions
+<div class="title">Frequently Asked Questions</div>
 
 ## General FAQ
 
@@ -24,7 +24,7 @@ You can submit your talk/workshop proposal on our [CFP Page](https://in.pycon.or
 
 Check out our [Volunteer Blog](https://in.pycon.org/blog/2020/2020-call-for-volunteers.html) to know about the roles and responsibilities. You can also join our [Zulip channel](https://pyconindia.zulipchat.com/) and ping the respective workgroup leads to get started with volunteering.
 
-### How much time do I need to devote to the volunteering work if I choose to volunteer for PyCon India? 
+### Q. How much time do I need to devote to the volunteering work if I choose to volunteer for PyCon India? 
 
 There isn't any strict time requirement that needs to be fulfilled by the volunteers. We value each and every contribution, no matter how big or small it is. You can choose to volunteer on your own time and availability. But, ideally, one hour a day would be more than sufficient if you can keep up the commitment and do the work assigned to you.  
 

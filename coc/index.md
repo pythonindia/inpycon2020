@@ -3,14 +3,13 @@ layout: default
 title: Code of Conduct
 ---
 
-## Code Of Conduct
+<div class="title">Code of Conduct</div>
 
 PyCon India is a community organized conference intended for advocating the use and adoption of the Python programming language in India. It is also a platform for fostering networking and collaboration among the Python developer community in India.
 
 We value the participation of every member of the Python community and want all attendees to have an enjoyable and rewarding experience. Accordingly, every attendee of the conference is expected to show respect and courtesy to every other attendee throughout the conference and at all conference related events, whether officially organized by PyCon India or not.
 
 To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at PyCon India are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
-
 
 ## Short Version
 
