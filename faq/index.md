@@ -43,7 +43,9 @@ There isn't any strict time requirement that needs to be fulfilled by the volunt
 
 ### Q. I am a speaker/volunteer at the conference. Do I need to buy a ticket?
 
-**Yes**. PyCon India is a completely volunteer-driven conference and we follow the principal _"Everyone Pays"_. Everyone from the speakers to volunteers, to even the organizers have to pay for their own tickets to attend the conference. Nobody earns anything from the conference, all the proceedings from the ticket sales go towards making the conference even better for everyone. 
+**Yes**. PyCon India is a conference built for the community, by the community. Everyone from the speakers to volunteers, to even the organizers have to pay for their own tickets to attend the conference. Nobody makes a dime during the whole event. All proceedings from the ticket sales go towards making the conference even better for everyone.
+
+Here is a beautiful article by [Jesse Noller](https://twitter.com/jessenoller) about the same http://jessenoller.com/blog/2011/05/25/pycon-everybody-pays.
 
 ### Q. What does the Conference ticket (Oct 2 and Oct 3, 2020) include?
 
@@ -61,7 +63,7 @@ The ticket also includes all the conference goodies and swags for the attendees.
 
 **No**, the conference ticket includes complete access to the dev sprints. The ticket holders do not have to pay anything extra. But, the attendees will be asked to register for the dev sprints as that would help the conference with logistics. 
 
-### Q. I have bought the workshop ticket am I eligible to participate in DevSprint?
+### Q. I have bought the workshop ticket. Am I eligible to participate in DevSprints?
 
 **No**, the workshop tickets only include access to the specific workshops. You would have to buy the conference tickets to get access to the dev sprints. 
 
@@ -81,7 +83,8 @@ The ticket also includes all the conference goodies and swags for the attendees.
 
 PyCon India is a conference run with contributions from volunteers and supporters from the community. Hence, as organizers, we provide multiple avenues for people to contribute to the event. People can contribute their time by volunteering in the various conference activities. People can also make a financial contribution by purchasing a contributor ticket.
 
-Contributor tickets help us meet the expenses of running the conference, and in the long run, can reduce the dependence on sponsors. People who purchase a contributor ticket will be credited in our blog, towards the end of the conference.
+Contributor tickets help us meet the expenses of running the conference, and in the long run, reduce our dependence on sponsors. People who purchase a contributor ticket will be credited in our blog, towards the end of the conference.
+
 
 ### Q. Is there a student discount?
 
