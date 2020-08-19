@@ -69,15 +69,40 @@ The ticket also includes all the conference goodies and swags for the attendees.
 
 ### Q. There is a change in my plan so I can’t attend the conference. Can I get a refund?
 
-**Yes**, the conference tickets can be canceled through townscript. 
-
-{Procedure here}
+**No**, the conference tickets cannot be cancelled, but instead can be transferred. You can chek out the instructions on how to transfer your tickets below.
 
 ### Q. Can I transfer my ticket(s) to someone else?
 
-**Yes**, the conference tickets can be transferred to another person via townscript. 
+**Yes**, the conference tickets can be transferred to another person via townscript. You can follow the following procedure to tranfer your ticket(s) to someone else. 
 
-{Procedure here}
+* If you are already registered on Townscript:
+
+    1) [Click here to sign in to Townscript](https://www.townscript.com/signin)
+
+    2) Enter the _email ID_ with which you had booked your ticket. The email ID should be same as registered on your Townscript account.
+
+    3) Enter your _password_ and login into your account.
+
+    4) Click on **ATTENDING EVENTS -> My Bookings** on the drop-down button in the top right corner - profile photo.
+
+    5) Click on **Edit Ticket** or **Transfer Ticket** button below your purchased ticket to edit or transfer your ticket.
+
+* If you are not registered on Townscript :
+
+    1) [Click here to signup on Townscript](https://www.townscript.com/signup)
+
+    2) Enter the _email ID_ with which you booked your ticket.
+
+    3) Enter a _password_. You will receive a verification email in your inbox.
+
+    4) Click on the verification link received in your inbox for the email ID you provided.
+
+    5) You will be automatically directed to your Townscript account page.
+
+    6) Click on **ATTENDING EVENTS -> My Bookings** on the drop-down button in the top right corner - profile photo.
+
+    7) Click on **Edit Ticket** or **Transfer Ticket** button below your purchased ticket to edit or transfer your ticket.
+
 
 ### Q. What does a contributor ticket mean?
 
