@@ -41,4 +41,4 @@ Our Vision is to bring the cumulative knowledge and experience of our community 
 The Python programming language has become an essential tool for people from various backgrounds and careers, including programmers, mathematicians, doctors, scientists, security researchers, hardware designers, and many more. We aim to ensure the conference can reflect the diversity of our community and facilitate the exchange of ideas, knowledge, and experiences enriching the community. 
 
 
-We would also like to ensure that the conference approaches everyone with respect, is accessible to everyone no matter their situation, and that we resolve differences peacefully in case of conflicts. You can also help with that by reading our [Code of Conduct](https://in.pycon.org/2020/coc.html) and following it.
+We would also like to ensure that the conference approaches everyone with respect, is accessible to everyone no matter their situation, and that we resolve differences peacefully in case of conflicts. You can also help with that by reading our [Code of Conduct](https://in.pycon.org/2020/coc/) and following it.

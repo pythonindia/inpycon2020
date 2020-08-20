@@ -25,7 +25,7 @@ If you are interested in contributing to the website, please check out our [Cont
 
 As a contributor please follow the Code of Conduct to keep the
 community open and inclusive. Please read and follow the
-[PyCon India Code of Coduct](https://in.pycon.org/2020/coc.html) which governs
+[PyCon India Code of Conduct](https://in.pycon.org/2020/coc/) which governs
 the overall conduct for the conference.
 
 ## License
