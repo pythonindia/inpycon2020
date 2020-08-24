@@ -51,17 +51,15 @@ Here is a beautiful article by [Jesse Noller](https://twitter.com/jessenoller) a
 
 A full conference ticket for two days includes access to all the amazing keynotes, talks, and lightning talks.
 
-You will also get access to all the open space discussions and other sessions during the conference. The conference ticket holders will also be eligible to join the Devsprints.
-
-The ticket also includes all the conference goodies and swags for the attendees.
+You will also get access to all the open space discussions and other sessions during the conference. The ticket also includes all the conference goodies and swags for the attendees.
 
 ### Q. Is there a different ticket for Workshops?
 
 **Yes**, a separate ticket would have to be purchased for each workshop. The details for the workshop tickets will be updated soon.
 
-### Q. Is there a different ticket for the Devsprints?
+### Q. Is there a different ticket for the Dev sprints?
 
-**No**, the conference ticket includes complete access to the dev sprints. The ticket holders do not have to pay anything extra. But, the attendees will be asked to register for the dev sprints as that would help the conference with logistics.
+**No**, the dev sprints are free. You don't need to buy any tickets to participate in the dev sprints. But, the attendees will be asked to register for the dev sprints as that would help the conference with logistics.
 
 ### Q. I have bought the workshop ticket. Am I eligible to participate in DevSprints?
 
