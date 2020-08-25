@@ -53,8 +53,6 @@ A full conference ticket for two days includes access to all the amazing keynote
 
 You will also get access to all the open space discussions and other sessions during the conference. The conference ticket holders will also be eligible to join the Devsprints.
 
-The ticket also includes all the conference goodies and swags for the attendees.
-
 ### Q. Is there a different ticket for Workshops?
 
 **Yes**, a separate ticket would have to be purchased for each workshop. The details for the workshop tickets will be updated soon.
