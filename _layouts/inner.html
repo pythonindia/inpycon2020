@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<!-- head section  -->
+{% include head.html %}
+
+<body>
+
+  <!-- header section -->
+  {% if page.title == 'Home' %}
+    {% include header.html %}
+  {% endif %}
+
+  <!-- Nav section -->
+  {% include nav.html %}
+
+  <div class="content inner">
+    {{ content }}
+  </div>
+
+  <!-- footer section -->
+  {% include footer.html %}
+
+  <script src={{ "assets/js/custom.js" | relative_url }}></script>
+
+</body>
+
+</html>

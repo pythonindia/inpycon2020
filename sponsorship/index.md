@@ -1,10 +1,12 @@
 ---
-layout: default
-header: Sponsorship Prospectus
-title: Sponsorship Prospectus
-nav: sponsorship-prospectus
+layout: inner
+header: PyCon India 2020 Sponsorship
+title: PyCon India 2020 Sponsorship
+nav: sponsorship
 bloglike: true
 ---
+
+# PyCon India 2020 Sponsorship
 
 ## Introduction
 
@@ -17,12 +19,10 @@ bigger, better, and more accessible to Pythonistas all across the world
 who can watch, participate and share their views right from the comfort
 of their homes.
 
-The format of the conference is virtual.
-
 ## PyCon India 2020
 
 - 12th year of PyCon India
-- It will be a 4 day event
+- It will be a 4-day online event
   - Workshops: Oct 4th (Sun), 2020
   - Conferences: Oct 2th (Fri) - Oct 3th (Sat), 2020
   - Developer Sprints: Oct 4th (Sun) - Oct 5th (Mon), 2020
@@ -32,6 +32,7 @@ The format of the conference is virtual.
   - Facebook: 6500+ (likes and followers)
   - Twitter: 9000+
 
+<hr>
 
 ## Why Should You Sponsor?
 
@@ -83,12 +84,7 @@ Developers, technologists, programmers, educators, bloggers,
 authors, web developers, CTOs, managers, entrepreneurs,
 scientists, engineers and domain experts.
 
-
-## Available sponsor packages
-
-Please see our [sponsor brochure](./sponsorship-prospectus.pdf) under
-Sponsorship Packages and Sponsorship Benefits.
-
+<hr>
 
 ## Privacy Policy
 
@@ -97,7 +93,19 @@ Participants are allowed to share their information with you at your stall.
 Give them a good reason to do so. Make a compelling pitch for yourself
 or offer goodies in exchange for contact information.
 
+<hr>
 
 ## Contact
-
 - Mail: [sponsor@in.pycon.org](mailto:sponsor@in.pycon.org)
+- Abhishek Mishra, Sponsorship Coordinator
+  - +91 70664 87364
+- Chandan Kumar, Sponsorship Coordinator
+  - +91 96072 64082
+- Sayan Chowdhury, PyCon India 2020 Chair
+  - +91 96869 92532
+
+<div class="text-center" style="position: relative; margin:5em; text-align:center;">
+  <a class="primary-button" rel="nofollow noreferrer" href="{{ 'sponsorship-prospectus.pdf' | relative_url }}" target="_blank">
+    Download Sponsorship Prospectus
+  </a>
+</div>
