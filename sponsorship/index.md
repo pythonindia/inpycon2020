@@ -104,7 +104,7 @@ or offer goodies in exchange for contact information.
 - Sayan Chowdhury, PyCon India 2020 Chair
   - +91 96869 92532
 
-<div class="text-center" style="position: relative; margin:5em; text-align:center;">
+<div class="text-center" style="position: relative; margin:5%; text-align:center;">
   <a class="primary-button" rel="nofollow noreferrer" href="{{ 'sponsorship-prospectus.pdf' | relative_url }}" target="_blank">
     Download Sponsorship Prospectus
   </a>
