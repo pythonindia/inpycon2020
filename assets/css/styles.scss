@@ -665,6 +665,24 @@ body {
   .content {
     max-width: 90%;
   }
+
+  .footer-wrapper {
+    .footer-details {
+      justify-content: space-around;
+
+      .conf-image {
+        order: 1
+      }
+
+      .copyright-details {
+        order: 3
+       }
+
+      .social-media-details {
+        order: 2
+      }
+    }
+  }
 }
 
 @media (max-width: 512px) {
