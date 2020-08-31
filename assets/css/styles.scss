@@ -628,12 +628,25 @@ body {
   .ticket-wrap::after {
     content: none;
   }
+  
+  .header-wrapper {
+    .top-area .center-content .center-details {
+      top: 0;
+      margin-top: 10px;
+      transform: translate(-50%, 0);
+    }
+
+   .bottom-area .additional-details-wrapper {
+      padding-top: 10rem;
+      padding-bottom: 2rem;
+    }
+  }
 }
 
 @media (max-width: 640px) {
   .header-wrapper .bottom-area .additional-details-wrapper {
     display: block;
-    padding-top: 13rem;
+    padding-top: 18rem;
 
     .details-container .details .title {
       display: none;
@@ -642,10 +655,6 @@ body {
         display: block;
       }
     }
-  }
-
-  .header-wrapper .top-area .center-content .center-details {
-    top: 85%;
   }
 
   .menu-wrapper nav a {
