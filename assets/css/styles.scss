@@ -321,6 +321,10 @@ body {
   }
 }
 
+.primary-button.disabled {
+  background: linear-gradient(180deg, #C7C7C7 0%, #433F3F 100%);
+}
+
 .menu-wrapper {
   border: rem-calc(1) solid rgba(224, 13, 17, 0.1);
   background-color: #ffffff;
