@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: inner
 title: Frequently Asked Questions
 ---
 
 # Frequently Asked Questions
 
-## General FAQ
-
 ---
+## General FAQ
 
 ### Q. Where can I find updates related to PyCon India 2020?
 
@@ -36,10 +35,9 @@ There isn't any strict time requirement that needs to be fulfilled by the volunt
 
 **No**, PyCon India does not provide any certificates to the attendees/participants. The conference is a platform to share your experience, express your views, learn, and meet new people.
 
+---
 
 ## Ticketing FAQ
-
----
 
 ### Q. I am a speaker/volunteer at the conference. Do I need to buy a ticket?
 
