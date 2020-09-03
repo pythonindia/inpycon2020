@@ -1,11 +1,5 @@
 # The following data clearly is meant to be boilerplate
 # It will be updated once speakers are finalized
-- name: Nebson
-  brief: Nam porttitor blandit accumsan.
-  image: https://picsum.photos/id/1005/140/140
-- name: Mark Antonio
-  brief: Nam porttitor blandit accumsan.
-  image: https://picsum.photos/id/513/140/140
-- name: Julios
-  brief: Nam porttitor blandit accumsan.
-  image: https://picsum.photos/id/1011/140/140
+- name: Naomi Ceder
+  brief: Trans*Code<br/>Python Software Foundation
+  image: /assets/images/naomiceder_headshot_web.jpg
