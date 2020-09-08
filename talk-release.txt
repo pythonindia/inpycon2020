@@ -1,0 +1,3 @@
+- I, the Submitter, certify that I am the creator (and own the copyright) of the User Submission.
+- I, the Submitter, hereby grant the PyCon India to publish User Submission and its audio/video recordings under CC-BY license.
+- I, the Submitter, specifically affirm the right to perform the User Submissions on the PyCon India web sites or on other web sites designated by the PSF (including, but not necessarily limited to YouTube).
