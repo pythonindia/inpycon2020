@@ -23,9 +23,9 @@ falls off as patch size grows. Sometimes this will result in many small PRs to l
 
 1. Always create a new branch to work on a new issue::
     $ git checkout -b <branch-name>
-2. Make sure your branch is up-to-date with upstream master before you file
+2. Make sure your branch is up-to-date with `upstream main` before you file
    a pull request.
-3. All pull requests *must* be made against the ``master`` branch.
+3. All pull requests *must* be made against the ``main`` branch.
 4. In case of UI changes, please include screenshots.
 
 ## For first time contributors
