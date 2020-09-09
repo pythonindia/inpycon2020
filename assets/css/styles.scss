@@ -67,12 +67,18 @@ body {
   display: flex;
   flex: 1;
 
-  .flex-column {
+  &.flex-column {
     flex-direction: column
   }
 
-  .justify-center {
+  &.justify-center {
     justify-content: center;
+  }
+  &.justify-start {
+    justify-content: flex-start;
+  }
+  &.justify-between {
+    justify-content: space-between;
   }
 }
 
@@ -629,6 +635,81 @@ body {
   padding: 0 1.75rem;
   margin: 1.75rem 0;
   border-left: 1px dashed #000000;
+}
+
+// Schedule rules
+.date {
+  font-weight: bold;
+  margin-right: 2rem;
+  cursor: pointer;
+
+  &.active {
+    color: #EB090D;
+    border-bottom: 4px solid #EB090D;;
+  }
+}
+
+.schedule-container {
+  display: none;
+  margin-top: 2rem;
+
+  &.active {
+    display: flex;
+  }
+  .schedule-item {
+    font-weight: bold;
+    text-align: left;
+
+    .schedule-time {
+      width: 10%;
+      padding-right: 1.5rem;
+      border-right: 1px solid #D6D6D6;
+      position: relative;
+
+      span {
+        width: 100%;
+        display: inline-block;
+      }
+
+      &:after {
+        content: " ";
+        width: 9px;
+        height: 9px;
+        border-radius: 50%;
+        background-color: #EB090D;
+        position: absolute;
+        top: 1rem;
+        left: 100%;
+        margin-left: -4.5px;
+      }
+    }
+    .schedule-content {
+      flex: 1;
+      margin: 0.65rem 0;
+      margin-left: 2rem;
+
+      .talk-content {
+        border-radius: 10px;
+        background: #F2F2F2;
+        padding: 0.75rem 1rem;
+        text-align: center;
+        width: calc(20% - 0.5rem);
+
+        .talk-title {
+          line-height: rem-calc(22);
+          font-size: rem-calc(14);
+        }
+
+        &.special {
+          font-size: rem-calc(16);
+          line-height: rem-calc(28);
+          background: #FFDA58;
+          margin-right: 0;
+          width: 100%;
+        }
+      }
+    }
+  }
 }
 
 // Responsive rules

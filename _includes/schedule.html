@@ -1,0 +1,45 @@
+<div id="schedule" class="page-wrapper schedule-section">
+  {% assign dates = site.data.talks | map: 'date' | uniq %}
+  <div class="page-details">
+    <div class="title">Schedule</div>
+    <div class="flex justify-start dates">
+      {% for date in dates %}
+        <div
+          class="date {% if forloop.first %}active{% endif %}"
+          data-target="#schedule-{{ date | replace:' ','-' }}"
+        >
+          {{ date }}
+        </div>
+      {% endfor %}
+    </div>
+    {% for date in dates %}
+      {% assign times = site.data.talks | where: 'date', date | map: 'time' | uniq %}
+      <div
+        class="flex flex-column schedule-container {% if forloop.first %}active{% endif %}"
+        id="schedule-{{ date.date }}"
+      >
+        {% for time in times %}
+          {% assign talks = site.data.talks | where: 'date', date | where: 'time', time %}
+          <div class="flex justify-start schedule-item">
+            <div class="schedule-time">
+              <span>{{ time }}</span>
+            </div>
+            <div class="flex justify-between schedule-content">
+              {% for talk in talks %}
+              <div
+                class="talk-content
+                  {% if talk.type == 'special' %}
+                    special
+                  {% else %}
+                    track-{{ talk.track }}
+                  {% endif %}">
+                <div class="talk-title">{{ talk.title }}</div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
