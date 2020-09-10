@@ -435,6 +435,7 @@ body {
           display: flex;
           flex-direction: column;
           max-width: rem-calc(188);
+          margin: 1rem 0;
 
           .speaker-image {
             margin-bottom: rem-calc(26);
@@ -654,7 +655,7 @@ body {
   .footer-wrapper .footer-details{
     align-items: center;
     justify-content: center;
-    
+
     .conf-image{
       img {
         margin-right: rem-calc(48);
@@ -667,7 +668,7 @@ body {
     align-self: center;
     justify-content: space-around;
   }
-  
+
 }
 
 @media (max-width: 640px) {
