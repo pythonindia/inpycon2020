@@ -16,7 +16,7 @@
       {% assign times = site.data.talks | where: 'date', date | map: 'time' | uniq %}
       <div
         class="flex flex-column schedule-container {% if forloop.first %}active{% endif %}"
-        id="schedule-{{ date.date }}"
+        id="schedule-{{ date | replace:' ','-' }}"
       >
         {% for time in times %}
           {% assign talks = site.data.talks | where: 'date', date | where: 'time', time %}
@@ -24,7 +24,7 @@
             <div class="schedule-time">
               <span>{{ time }}</span>
             </div>
-            <div class="flex justify-between schedule-content">
+            <div class="flex justify-start schedule-content">
               {% for talk in talks %}
               <div
                 class="talk-content

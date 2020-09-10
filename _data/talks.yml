@@ -51,7 +51,7 @@
   description: Something wrong with the starter, so I hid it
 
 - title: Maps, Delimitation, and Gerrymandering with Python
-  track: 5
+  track: 1
   date: 2nd Oct
   time: 12:00 am
   speaker: Naomi Ceder
@@ -67,35 +67,35 @@
 - title: Maps, Delimitation, and Gerrymandering with Python
   track: 1
   date: 3rd Oct
-  time:
+  time: 12:00 am
   speaker: Naomi Ceder
   description: Something wrong with t
 
 - title: Maps, Delimitation, and Gerrymandering with Python
-  track: 1
+  track: 2
   date: 3rd Oct
-  time:
+  time: 12:00 am
   speaker: Naomi Ceder
   description: Something wrong with t
 
 - title: Maps, Delimitation, and Gerrymandering with Python
   track: 1
   date: 4th Oct
-  time:
+  time: 12:00 am
   speaker: Naomi Ceder
   description: Something wrong with t
 
 - title: Maps, Delimitation, and Gerrymandering with Python
-  track: 1
+  track: 3
   date: 4th Oct
-  time:
+  time: 12:00 am
   speaker: Naomi Ceder
   description: Something wrong with t
 
 - title: Maps, Delimitation, and Gerrymandering with Python
   track: 1
   date: 5th Oct
-  time:
+  time: 12:00 am
   speaker: Naomi Ceder
   description: Something wrong with t
 
