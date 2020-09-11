@@ -13,3 +13,6 @@
 - name: S Anand
   brief: Gramener
   image: /assets/images/sanand.jpg
+- name: Victor Stinner
+  brief: Red Hat<br/>CPython Core Developer
+  image: /assets/images/victorstinner.jpg
