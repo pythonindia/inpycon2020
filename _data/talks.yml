@@ -1,101 +1,381 @@
 # Schedule for 2nd Oct
 
-- title: Registration
+- title: PyCon India 2020 Opening Address
   track: all
   date: 2nd Oct
-  time: 08:00 am
+  time: 12:00 noon
   type: special
-  description: Something wrong with the starter, so I hid it. 
-
-- title: Opening Address
-  track: all
-  date: 2nd Oct
-  time: 09:15 am
-  type: special
-  description: Something wrong with the starter, so I hid it. 
 
 - title: Keynote
   track: all
   date: 2nd Oct
-  time: 09:30 am
+  time: 12:15 pm
   type: special
-  speaker: Naomi Ceder
-  description: Something wrong with the starter, so I hid it. 
+  speaker: S Anand
 
-- title: Maps, Delimitation, and Gerrymandering with Python
+- title: Stop Writing Tests!
   track: 1
   date: 2nd Oct
-  time: 11:00 am
-  speaker: Naomi Ceder
-  description: Something wrong with the starter, so I hid it. Will you take care of that? I guess you guys aren't ready for that yet. But your kids are gonna love it. Well, Marty, I want to thank you for all your good advice, I'll never forget it. Oh, you make it sound so easy. I just, I wish I wasn't so scared.
+  time: 13:20 pm
+  speaker: Zac Hatfield-Dodds
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/stop-writing-tests~aKWGa/
 
-- title: Maps, Delimitation, and Gerrymandering with Python
+- title: Combining NLP with Structured Data to map Clinical Entities to the relevant Section Headers in a Clinical Document
   track: 2
   date: 2nd Oct
-  time: 11:00 am
-  speaker: Naomi Ceder
-  description: Something wrong with the starter, so I hid it
+  time: 13:20 pm
+  speaker: Sagar Dawda
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/combining-nlp-with-structured-data-to-map-clinical-entities-to-the-relevant-section-headers-in-a-clinical-document~bkRRN/
 
-- title: Maps, Delimitation, and Gerrymandering with Python
+- title: Python & Programmable Logic Controllers - A Step by Step Guide
   track: 3
   date: 2nd Oct
-  time: 11:00 am
-  speaker: Naomi Ceder
-  description: Something wrong with the starter, so I hid it
+  time: 13:20 pm
+  speaker: Jonas Neubert
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/python-programmable-logic-controllers-a-step-by-step-guide~dwp98/
 
-- title: Maps, Delimitation, and Gerrymandering with Python
+- title: [Sponsored]
   track: 4
   date: 2nd Oct
-  time: 11:00 am
-  speaker: Naomi Ceder
-  description: Something wrong with the starter, so I hid it
+  time: 13:20 pm
+  speaker:
 
-- title: Maps, Delimitation, and Gerrymandering with Python
+- title: Under and Dunder - Python secret functions
   track: 1
   date: 2nd Oct
-  time: 12:00 am
-  speaker: Naomi Ceder
-  description: Something wrong with the starter, so I hid it
+  time: 13:55 pm
+  speaker: Cheuk Ting Ho
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/under-and-dunder-python-secret-functions~dwMra/
 
-- title: Maps, Delimitation, and Gerrymandering with Python
+- title: How to build a production-ready distributed task queue management system with celery
+  track: 2
+  date: 2nd Oct
+  time: 13:55 pm
+  speaker: Vishrut Kohli
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/how-to-build-a-production-ready-distributed-task-queue-management-system-with-celery~e5qYe/
+
+- title: Discrete Probability Distributions - Learning & Testing using tools from Fourier Analysis
+  track: 3
+  date: 2nd Oct
+  time: 13:55 pm
+  speaker: Fernando Masanori Ashikaga
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/discrete-probability-distributions-learning-testing-using-tools-from-fourier-analysis~aQ3Gd/
+
+- title: Understand Heap Memory layout with pwndbg
+  track: 4
+  date: 2nd Oct
+  time: 13:55 pm
+  speaker: Rohit Keshri
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/understand-heap-memory-layout-with-pwndbg~dBzQd/
+
+- title: Break / Networking
+  track: all
+  date: 2nd Oct
+  time: 14:30 pm
+  type: special
+
+- title: Publishing well-formed Python packages
+  track: 1
+  date: 2nd Oct
+  time: 15:20 pm
+  speaker: Julin S
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/publishing-well-formed-python-packages~egrrd/
+
+- title: Predicting the Traffic Jam - Congestion-Aware Routing
+  track: 2
+  date: 2nd Oct
+  time: 15:20 pm
+  speaker: Niharika Shrivastava
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/predicting-the-traffic-jam-congestion-aware-routing~dGD5e/
+
+- title: Programming for Accessibility
+  track: 3
+  date: 2nd Oct
+  time: 15:20 pm
+  speaker: Rory Preddy
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/programming-for-accessibility~dGGKd/
+
+- title: A deep dive and comparison of Python drivers for Cassandra and Scylla
+  track: 4
+  date: 2nd Oct
+  time: 15:20 pm
+  speaker: Alexys Jacob
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/a-deep-dive-and-comparison-of-python-drivers-for-cassandra-and-scylla~azVya/
+
+- title: Lightning Talks
+  track: all
+  date: 2nd Oct
+  time: 15:55 pm
+  type: special
+
+- title: Keynote
+  track: all
+  date: 2nd Oct
+  time: 16:30 pm
+  type: special
+  speaker: Victor Stinner
+
+- title: Break / Networking
+  track: all
+  date: 2nd Oct
+  time: 17:30 pm
+  type: special
+
+- title: Towards a more transparent AI - Decrypting ML models using LIME
+  track: 1
+  date: 2nd Oct
+  time: 17:50 pm
+  speaker: Laisha Wadhwa
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/towards-a-more-transparent-ai-decrypting-ml-models-using-lime~eV8zb/
+
+- title: Let's build a no-code tool for small businesses to reduce churn
+  track: 2
+  date: 2nd Oct
+  time: 17:50 pm
+  speaker: Padmaja Bhagwat, Bargava Subramanian
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/lets-build-a-no-code-tool-for-small-businesses-to-reduce-churn~epYYV/
+
+- title: Write Prose, not just Programs
+  track: 3
+  date: 2nd Oct
+  time: 17:50 pm
+  speaker: Puneeth Chaganti
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/write-prose-not-just-programs~dGyJa/
+
+- title: ApiVer – a versioning policy for libraries
+  track: 4
+  date: 2nd Oct
+  time: 17:50 pm
+  speaker: Paweł Polewicz
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/apiver-a-versioning-policy-for-libraries~eXmga/
+
+- title: A thousand Django's within (or Django multi-tenant)
+  track: 1
+  date: 2nd Oct
+  time: 18:25 pm
+  speaker: Lorenzo Peña
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/a-thousand-djangos-within-or-django-multi-tenant~b4g7a/
+
+- title: Taking a peek under the hood - Interpreting black box models
+  track: 2
+  date: 2nd Oct
+  time: 18:25 pm
+  speaker: Jennifer Nguyen
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/taking-a-peek-under-the-hood-interpreting-black-box-models~b2k4z/
+
+- title: Serverless Computing with Python
+  track: 3
+  date: 2nd Oct
+  time: 18:25 pm
+  speaker: Wesley Chun
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/serverless-computing-with-python~e5y8K/
+
+- title: [Sponsored]
+  track: 4
+  date: 2nd Oct
+  time: 18:25 pm
+  speaker:
+
+- title: Keynote
+  track: all
+  date: 2nd Oct
+  time: 19:00 pm
+  type: special
+  speaker:
+
+- title: Closing Session Day 1
+  track: all
+  date: 2nd Oct
+  time: 20:00 pm
+  type: special
+  speaker:
+
+- title: Networking
+  track: all
+  date: 2nd Oct
+  time: 20:10 pm
+  type: special
+
+- title: PyCon India 2020 Day 2 Opening Address
+  track: all
+  date: 3rd Oct
+  time: 12:00 noon
+  type: special
+
+- title: Keynote
+  track: all
+  date: 3rd Oct
+  time: 12:15pm
+  type: special
+  speaker: Alolita Sharma
+
+- title: Revolutionize the Web with Python - Brython
   track: 1
   date: 3rd Oct
-  time: 
-  speaker: Naomi Ceder
-  description: Something wrong with the starter, so I hid it. Will you take care of that? I guess you guys aren't ready for that yet. But your kids are gonna love it. Well, Marty, I want to thank you for all your good advice, I'll never forget it. Oh, you make it sound so easy. I just, I wish I wasn't so scared.
+  time: 13:20 pm
+  speaker: Antriksh Verma
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/revolutionize-the-web-with-python-brython~elYYg/
 
-- title: Maps, Delimitation, and Gerrymandering with Python
-  track: 1
-  date: 3rd Oct
-  time: 12:00 am
-  speaker: Naomi Ceder
-  description: Something wrong with t
-
-- title: Maps, Delimitation, and Gerrymandering with Python
+- title: How I built a Ray Tracer in Pure Python
   track: 2
   date: 3rd Oct
-  time: 12:00 am
-  speaker: Naomi Ceder
-  description: Something wrong with t
+  time: 13:20 pm
+  speaker: Arun Ravindran
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/how-i-built-a-ray-tracer-in-pure-python~e045e/
 
-- title: Maps, Delimitation, and Gerrymandering with Python
-  track: 1
-  date: 4th Oct
-  time: 12:00 am
-  speaker: Naomi Ceder
-  description: Something wrong with t
-
-- title: Maps, Delimitation, and Gerrymandering with Python
+- title: How to make continuous integration work with machine learning
   track: 3
-  date: 4th Oct
-  time: 12:00 am
-  speaker: Naomi Ceder
-  description: Something wrong with t
+  date: 3rd Oct
+  time: 13:20 pm
+  speaker: Elle O'Brien
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/how-to-make-continuous-integration-work-with-machine-learning~avK5b/
 
-- title: Maps, Delimitation, and Gerrymandering with Python
+- title: [Sponsored]
+  track: 4
+  date: 3rd Oct
+  time: 13:20 pm
+  speaker:
+
+- title: So, You Want to Build an Anti-Virus Engine?
   track: 1
-  date: 5th Oct
-  time: 12:00 am
-  speaker: Naomi Ceder
-  description: Something wrong with t
+  date: 3rd Oct
+  time: 13:55 pm
+  speaker: JunWei Song
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/so-you-want-to-build-an-anti-virus-engine~bDM6d/
 
+- title: Time Series Forecasting on CoronaVirus Dataset
+  track: 2
+  date: 3rd Oct
+  time: 13:55 pm
+  speaker: Sonam pankaj
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/time-series-forecasting-on-coronavirus-dataset~b2jAb/
+
+- title: Python Emergency Remote Teaching
+  track: 3
+  date: 3rd Oct
+  time: 13:55 pm
+  speaker: Fernando Masanori Ashikaga
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/python-emergency-remote-teaching~aOOEa/
+
+- title: Pythonic Interfaces - The secret to building maintainable, quality code!
+  track: 4
+  date: 3rd Oct
+  time: 13:55 pm
+  speaker: Praveen Shirali
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/pythonic-interfaces-the-secret-to-building-maintainable-quality-code~bYjYd/
+
+- title: Break / Networking
+  track: all
+  date: 2nd Oct
+  time: 14:30 pm
+  type: special
+
+- title: Build plugins using Pluggy
+  track: 1
+  date: 3rd Oct
+  time: 15:20 pm
+  speaker: Kracekumar Ramaraju
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/build-plugins-using-pluggy~eZ3ga/
+
+- title: Building an Home Automation system using PyQT, MQTT and Arduino
+  track: 2
+  date: 3rd Oct
+  time: 15:20 pm
+  speaker: Harsh Mittal
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/building-an-home-automation-system-using-pyqt-mqtt-and-arduino~bqw7e/
+
+- title: Developing a Single-Sign-On Service using Django
+  track: 3
+  date: 3rd Oct
+  time: 15:20 pm
+  speaker: Vibhu Agarwal
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/developing-a-single-sign-on-service-using-django~b26Mb/
+
+- title: Static Typing in Python
+  track: 4
+  date: 3rd Oct
+  time: 15:20 pm
+  speaker: Sanchit Balchandani
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/static-typing-in-python~axpPa/
+
+- title: Lightning Talks
+  track: all
+  date: 3rd Oct
+  time: 15:55 pm
+  speaker:
+  type: special
+
+- title: Keynote
+  track: all
+  date: 3rd Oct
+  time: 16:30 pm
+  type: special
+  speaker: James Powell
+
+- title: Python and cffi - Visualizing Network Traces
+  track: 1
+  date: 3rd Oct
+  time: 17:50 pm
+  speaker: Abhijit Gadgil
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/python-and-cffi-visualizing-network-traces~aAy9a/
+
+- title: Resource Utilization as a Metric for Machine Learning
+  track: 2
+  date: 3rd Oct
+  time: 17:50 pm
+  speaker: Akshay Bahadur
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/resource-utilization-as-a-metric-for-machine-learning~aKP8b/
+
+- title: Logging the right way!
+  track: 3
+  date: 3rd Oct
+  time: 17:50 pm
+  speaker: Devi A S L
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/logging-the-right-way~dPN11/
+
+- title: [Sponsored]
+  track: 4
+  date: 3rd Oct
+  time: 17:50 pm
+  speaker:
+
+- title: Narrative-focused video games development with Ren'Py, an open source engine
+  track: 1
+  date: 3rd Oct
+  time: 18:25 pm
+  speaker: Susan Shu Chang
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/narrative-focused-video-games-development-with-renpy-an-open-source-engine~az0qd/
+
+- title: Awesome Commandline Tools
+  track: 2
+  date: 3rd Oct
+  time: 18:25 pm
+  speaker: Amjith Ramanujam
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/awesome-commandline-tools~eZlQb/
+
+- title: How Decorators Function
+  track: 3
+  date: 3rd Oct
+  time: 18:25 pm
+  speaker: Andrew Knight
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/how-decorators-function~bYEp2/
+
+- title: Reproducible Scalable Workflows with Nix, Papermill and Renku
+  track: 4
+  date: 3rd Oct
+  time: 18:25 pm
+  speaker: Rohit Goswami
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/reproducible-scalable-workflows-with-nix-papermill-and-renku~dNkxD/
+
+- title: Keynote
+  track: all
+  date: 3rd Oct
+  time: 19:00 pm
+  type: special
+  speaker:
+
+- title: PyCon India 2020 Closing Address
+  track: all
+  date: 3rd Oct
+  time: 20:00 pm
+  type: special
