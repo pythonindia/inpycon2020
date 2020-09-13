@@ -62,11 +62,11 @@
   speaker: Fernando Masanori Ashikaga
   hyperlink: https://in.pycon.org/cfp/2020/proposals/discrete-probability-distributions-learning-testing-using-tools-from-fourier-analysis~aQ3Gd/
 
-- title: 
+- title:
   track: 4
   date: 2nd Oct
   time: 13:55 pm
-  speaker: 
+  speaker:
 
 - title: Break / Networking
   track: all
@@ -105,7 +105,6 @@
   track: all
   date: 2nd Oct
   time: 15:55 pm
-  type: special
 
 - title: Keynote
   track: all
@@ -140,12 +139,12 @@
   speaker: Puneeth Chaganti
   hyperlink: https://in.pycon.org/cfp/2020/proposals/write-prose-not-just-programs~dGyJa/
 
-- title: 
+- title:
   track: 4
   date: 2nd Oct
   time: 17:50 pm
-  speaker: 
-  hyperlink: 
+  speaker:
+  hyperlink:
 
 - title: A thousand Django's within (or Django multi-tenant)
   track: 1
@@ -182,7 +181,7 @@
   type: special
   speaker: Naomi Ceder
 
-- title: Closing Session Day 1
+- title: PyCon India 2020 Day 1 Closing Address
   track: all
   date: 2nd Oct
   time: 20:00 pm
@@ -193,7 +192,6 @@
   track: all
   date: 2nd Oct
   time: 20:10 pm
-  type: special
 
 - title: PyCon India 2020 Day 2 Opening Address
   track: all
@@ -257,12 +255,12 @@
   speaker: Fernando Masanori Ashikaga
   hyperlink: https://in.pycon.org/cfp/2020/proposals/python-emergency-remote-teaching~aOOEa/
 
-- title: 
+- title:
   track: 4
   date: 3rd Oct
   time: 13:55 pm
-  speaker: 
-  hyperlink: 
+  speaker:
+  hyperlink:
 
 - title: Break / Networking
   track: all
@@ -301,8 +299,6 @@
   track: all
   date: 3rd Oct
   time: 15:55 pm
-  speaker:
-  type: special
 
 - title: Keynote
   track: all
@@ -332,7 +328,7 @@
   speaker: Devi A S L
   hyperlink: https://in.pycon.org/cfp/2020/proposals/logging-the-right-way~dPN11/
 
-- title: 
+- title:
   track: 4
   date: 3rd Oct
   time: 17:50 pm
