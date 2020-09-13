@@ -68,7 +68,7 @@
                 <div class="talk-title">
                   <a {% if talk.hyperlink %}href="{{ talk.hyperlink }}"{% endif %}>{{ talk.title }}</a>
                   <small class="talk-speaker">
-                    {{ talk.speaker }}
+                    {{ talk.speaker }} {% if talk.track and talk.track != 'all' %}| Track: {{ talk.track }}{% endif %}
                   </small>
                 </div>
                 <div class="talk-time">
