@@ -72,7 +72,6 @@
   track: all
   date: 2nd Oct
   time: 14:30 pm
-  type: special
 
 - title: Publishing well-formed Python packages
   track: 1
@@ -119,7 +118,6 @@
   track: all
   date: 2nd Oct
   time: 17:30 pm
-  type: special
 
 - title: Towards a more transparent AI - Decrypting ML models using LIME
   track: 1
@@ -266,9 +264,8 @@
 
 - title: Break / Networking
   track: all
-  date: 2nd Oct
+  date: 3rd Oct
   time: 14:30 pm
-  type: special
 
 - title: Build plugins using Pluggy
   track: 1

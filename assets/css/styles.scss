@@ -647,6 +647,9 @@ body {
     color: #EB090D;
     border-bottom: 4px solid #EB090D;;
   }
+  &.show-sm {
+    display: none;
+  }
 }
 
 .schedule-container {
@@ -655,6 +658,11 @@ body {
 
   &.active {
     display: flex;
+  }
+
+
+  &.show-sm {
+    display: none;
   }
   .schedule-item {
     font-weight: bold;
@@ -669,6 +677,7 @@ body {
       span {
         width: 100%;
         display: inline-block;
+        line-height: 1.5;
       }
 
       &:after {
@@ -699,6 +708,17 @@ body {
         .talk-title {
           line-height: rem-calc(22);
           font-size: rem-calc(14);
+          a {
+            display: block;
+            color: black;
+            text-decoration: none;
+            &[href]:hover {
+              text-decoration: underline;
+            }
+          }
+          .talk-speaker {
+            font-weight: normal;
+          }
         }
 
         &:last-of-type {
@@ -712,6 +732,11 @@ body {
           margin-right: 0;
           width: 100%;
         }
+
+        &.track-all {
+          width: 100%;
+          margin-right: 0;
+        }
       }
     }
   }
@@ -722,6 +747,10 @@ body {
 @media (max-width: 768px) {
   .flex {
     display: block;
+
+    &.dates {
+      display: flex;
+    }
   }
 
   .ticket-wrap::before,
@@ -755,6 +784,57 @@ body {
     justify-content: space-around;
   }
 
+  .schedule-container {
+    &.hidden-sm {
+      display: none;
+    }
+
+    &.active.show-sm {
+      display: block;
+    }
+  }
+
+  .schedule-container .schedule-item .schedule-content {
+    margin-left: 0;
+    .talk-content {
+      width: calc(95% - 1rem);
+      margin-bottom: 1rem;
+      display: flex;
+      justify-content: space-between;
+      .talk-title {
+        text-align: left;
+        flex: 1;
+      }
+      .talk-time {
+        margin-left: 1.75rem;
+      }
+
+      &.special {
+        width: calc(95% - 1rem);
+      }
+
+      &.track-all {
+        width: calc(95% - 1rem);
+      }
+    }
+  }
+
+  .date {
+    &.hidden-sm {
+      display: none;
+    }
+
+    &.show-sm {
+      display: block;
+    }
+  }
+
+}
+
+@media (max-width: 1024px) {
+  #schedule .page-details {
+    max-width: none;
+  }
 }
 
 @media (max-width: 640px) {

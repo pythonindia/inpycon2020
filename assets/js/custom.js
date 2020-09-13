@@ -17,9 +17,13 @@ function toggleSticky() {
 document.querySelectorAll(".date").forEach(function(element) {
   element.addEventListener("click", function(e) {
     var schedule_id = e.target.attributes["data-target"].value;
-    document.querySelector(".schedule-container.active").classList.remove("active");
+    document.querySelectorAll(".schedule-container.active").forEach(function(element) {
+      element.classList.remove("active");
+    });
     document.querySelector(schedule_id).classList.add("active");
-    document.querySelector(".date.active").classList.remove("active")
+    document.querySelectorAll(".date.active").forEach(function(element) {
+      element.classList.remove("active");
+    });
     e.target.classList.add("active");
   })
 })
