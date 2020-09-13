@@ -4,8 +4,8 @@
 #   link: index.html#speakers
 - name: Tickets
   link: /#ticket
-- name: CFP
-  link: /#cfp
+- name: Schedule
+  link: /#schedule
 - name: Blog
   link: https://in.pycon.org/blog/
 - name: Sponsors

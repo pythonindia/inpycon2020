@@ -1,0 +1,85 @@
+<div id="schedule" class="page-wrapper schedule-section">
+  {% assign dates = site.data.talks | map: 'date' | uniq %}
+  <div class="page-details">
+    <div class="title">Schedule</div>
+    <div class="flex justify-start dates">
+      {% for date in dates %}
+        <div
+          class="date {% if forloop.first %}active{% endif %} hidden-sm"
+          data-target="#schedule-{{ date | replace:' ','-' }}"
+        >
+          {{ date }}
+        </div>
+        <div
+          class="date {% if forloop.first %}active{% endif %} show-sm"
+          data-target="#schedule-{{ date | replace:' ','-' }}-sm"
+        >
+          {{ date }}
+        </div>
+      {% endfor %}
+    </div>
+    {% for date in dates %}
+      {% assign times = site.data.talks | where: 'date', date | map: 'time' | uniq %}
+      <div
+        class="flex flex-column schedule-container {% if forloop.first %}active{% endif %} hidden-sm"
+        id="schedule-{{ date | replace:' ','-' }}"
+      >
+        {% for time in times %}
+          {% assign talks = site.data.talks | where: 'date', date | where: 'time', time %}
+          <div class="flex justify-start schedule-item">
+            <div class="schedule-time">
+              <span>{{ time }}</span>
+            </div>
+            <div class="flex justify-start schedule-content">
+              {% for talk in talks %}
+              <div
+                class="talk-content
+                  {% if talk.type == 'special' %}
+                    special
+                  {% endif %}
+                  track-{{ talk.track }}">
+                <div class="talk-title" >
+                  <a {% if talk.hyperlink %}href="{{ talk.hyperlink }}"{% endif %}>{{ talk.title }}</a>
+                  <small class="talk-speaker">
+                    {{ talk.speaker }}
+                  </small>
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <div
+        class="schedule-container {% if forloop.first %}active{% endif %} show-sm"
+        id="schedule-{{ date | replace:' ','-' }}-sm"
+      >
+        {% for time in times %}
+          {% assign talks = site.data.talks | where: 'date', date | where: 'time', time %}
+          <div class="schedule-item">
+            <div class="schedule-content">
+              {% for talk in talks %}
+              <div
+                class="talk-content
+                  {% if talk.type == 'special' %}
+                    special
+                  {% endif %}
+                  track-{{ talk.track }}">
+                <div class="talk-title">
+                  <a {% if talk.hyperlink %}href="{{ talk.hyperlink }}"{% endif %}>{{ talk.title }}</a>
+                  <small class="talk-speaker">
+                    {{ talk.speaker }} {% if talk.track and talk.track != 'all' %}| Room: {{ talk.track }}{% endif %}
+                  </small>
+                </div>
+                <div class="talk-time">
+                  <span>{{ time }}</span>
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </div>
+</div>

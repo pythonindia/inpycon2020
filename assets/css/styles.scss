@@ -67,12 +67,18 @@ body {
   display: flex;
   flex: 1;
 
-  .flex-column {
+  &.flex-column {
     flex-direction: column
   }
 
-  .justify-center {
+  &.justify-center {
     justify-content: center;
+  }
+  &.justify-start {
+    justify-content: flex-start;
+  }
+  &.justify-between {
+    justify-content: space-between;
   }
 }
 
@@ -631,11 +637,120 @@ body {
   border-left: 1px dashed #000000;
 }
 
+// Schedule rules
+.date {
+  font-weight: bold;
+  margin-right: 2rem;
+  cursor: pointer;
+
+  &.active {
+    color: #EB090D;
+    border-bottom: 4px solid #EB090D;;
+  }
+  &.show-sm {
+    display: none;
+  }
+}
+
+.schedule-container {
+  display: none;
+  margin-top: 2rem;
+
+  &.active {
+    display: flex;
+  }
+
+
+  &.show-sm {
+    display: none;
+  }
+  .schedule-item {
+    font-weight: bold;
+    text-align: left;
+
+    .schedule-time {
+      width: 10%;
+      padding-right: 1.5rem;
+      border-right: 1px solid #D6D6D6;
+      position: relative;
+
+      span {
+        width: 100%;
+        display: inline-block;
+        line-height: 1.5;
+      }
+
+      &:after {
+        content: " ";
+        width: 9px;
+        height: 9px;
+        border-radius: 50%;
+        background-color: #EB090D;
+        position: absolute;
+        top: 1rem;
+        left: 100%;
+        margin-left: -4.5px;
+      }
+    }
+    .schedule-content {
+      flex: 1;
+      margin: 0.65rem 0;
+      margin-left: 2rem;
+
+      .talk-content {
+        border-radius: 10px;
+        background: #F2F2F2;
+        padding: 0.75rem 1rem;
+        text-align: center;
+        width: calc(20% - 0.25rem);
+        margin-right: 0.5rem;
+
+        .talk-title {
+          line-height: rem-calc(22);
+          font-size: rem-calc(14);
+          a {
+            display: block;
+            color: black;
+            text-decoration: none;
+            &[href]:hover {
+              text-decoration: underline;
+            }
+          }
+          .talk-speaker {
+            font-weight: normal;
+          }
+        }
+
+        &:last-of-type {
+          margin-right: 0;
+        }
+
+        &.special {
+          font-size: rem-calc(16);
+          line-height: rem-calc(28);
+          background: #FFDA58;
+          margin-right: 0;
+          width: 100%;
+        }
+
+        &.track-all {
+          width: 100%;
+          margin-right: 0;
+        }
+      }
+    }
+  }
+}
+
 // Responsive rules
 
 @media (max-width: 768px) {
   .flex {
     display: block;
+
+    &.dates {
+      display: flex;
+    }
   }
 
   .ticket-wrap::before,
@@ -669,6 +784,57 @@ body {
     justify-content: space-around;
   }
 
+  .schedule-container {
+    &.hidden-sm {
+      display: none;
+    }
+
+    &.active.show-sm {
+      display: block;
+    }
+  }
+
+  .schedule-container .schedule-item .schedule-content {
+    margin-left: 0;
+    .talk-content {
+      width: calc(95% - 1rem);
+      margin-bottom: 1rem;
+      display: flex;
+      justify-content: space-between;
+      .talk-title {
+        text-align: left;
+        flex: 1;
+      }
+      .talk-time {
+        margin-left: 1.75rem;
+      }
+
+      &.special {
+        width: calc(95% - 1rem);
+      }
+
+      &.track-all {
+        width: calc(95% - 1rem);
+      }
+    }
+  }
+
+  .date {
+    &.hidden-sm {
+      display: none;
+    }
+
+    &.show-sm {
+      display: block;
+    }
+  }
+
+}
+
+@media (max-width: 1024px) {
+  #schedule .page-details {
+    max-width: none;
+  }
 }
 
 @media (max-width: 640px) {
