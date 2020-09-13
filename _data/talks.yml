@@ -20,12 +20,12 @@
   speaker: Zac Hatfield-Dodds
   hyperlink: https://in.pycon.org/cfp/2020/proposals/stop-writing-tests~aKWGa/
 
-- title: Combining NLP with Structured Data to map Clinical Entities to the relevant Section Headers in a Clinical Document
+- title: Serverless Computing with Python
   track: 2
   date: 2nd Oct
   time: 13:20 pm
-  speaker: Sagar Dawda
-  hyperlink: https://in.pycon.org/cfp/2020/proposals/combining-nlp-with-structured-data-to-map-clinical-entities-to-the-relevant-section-headers-in-a-clinical-document~bkRRN/
+  speaker: Wesley Chun
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/serverless-computing-with-python~e5y8K/
 
 - title: Python & Programmable Logic Controllers - A Step by Step Guide
   track: 3
@@ -33,7 +33,6 @@
   time: 13:20 pm
   speaker: Jonas Neubert
   hyperlink: https://in.pycon.org/cfp/2020/proposals/python-programmable-logic-controllers-a-step-by-step-guide~dwp98/
-
 
 - title: Understand Heap Memory layout with pwndbg
   track: 4
@@ -162,13 +161,12 @@
   speaker: Jennifer Nguyen
   hyperlink: https://in.pycon.org/cfp/2020/proposals/taking-a-peek-under-the-hood-interpreting-black-box-models~b2k4z/
 
-- title: Serverless Computing with Python
+- title: Combining NLP with Structured Data to map Clinical Entities to the relevant Section Headers in a Clinical Document
   track: 3
   date: 2nd Oct
   time: 18:25 pm
-  speaker: Wesley Chun
-  hyperlink: https://in.pycon.org/cfp/2020/proposals/serverless-computing-with-python~e5y8K/
-
+  speaker: Sagar Dawda
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/combining-nlp-with-structured-data-to-map-clinical-entities-to-the-relevant-section-headers-in-a-clinical-document~bkRRN/
 
 - title: ApiVer – a versioning policy for libraries
   track: 4
