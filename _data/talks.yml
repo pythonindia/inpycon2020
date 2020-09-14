@@ -348,7 +348,7 @@
   type: talk
   duration: 30
 
-- title: Building an Home Automation system using PyQT, MQTT and Arduino
+- title: Building an Home Automation system using PyQt, MQTT and Arduino
   track: Chennai
   date: 3rd Oct
   time: "15:20"
