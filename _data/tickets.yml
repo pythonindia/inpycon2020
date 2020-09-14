@@ -8,7 +8,7 @@
   brief: Sale ends by 15 September, 2020 11:59 PM (Asia/Kolkata) OR completion of 2000 tickets
   cost: 199
   type: conference
-  status: available
+  status: sold
   url: https://www.townscript.com/e/pycon-india-2020
 - name: Late Bird Ticket
   brief: Sale ends by 03 October, 2020 11:59 PM (Asia/Kolkata)
