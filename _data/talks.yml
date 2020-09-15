@@ -391,19 +391,19 @@
   speaker: Bhargav Srinivasa
   hyperlink: https://in.pycon.org/cfp/2020/proposals/python-for-computational-social-science-with-text-networks-and-clever-data-games~dyPPE/
 
-- title:
+- title: Creating real-world simulations using Numpy, SciPy and Matplotlib
   track: 3
   date: 4th Oct
   time: "11:30"
-  speaker:
-  hyperlink:
+  speaker: Ashok Govindarajan
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/creating-real-world-simulations-using-numpy-scipy-and-matplotlib~e0Rgy/
 
-- title:
+- title: "Hands On: Containerizing Python and Deploying to IoT and Edge Devices"
   track: 4
   date: 4th Oct
   time: "11:30"
-  speaker:
-  hyperlink:
+  speaker: David T
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/hands-on-containerizing-python-and-deploying-to-iot-and-edge-devices~egJYk/
 
 - title: Break / Networking
   track: all
