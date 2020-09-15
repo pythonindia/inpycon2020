@@ -374,3 +374,74 @@
   date: 3rd Oct
   time: 20:00 pm
   type: special
+
+# Schedule for 4th Oct
+
+- title: Getting Started with Python
+  track: 1
+  date: 4th Oct
+  time: 11:30 am
+  type: workshop
+  speaker: Evan Smith
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/getting-started-with-python~b4x8V/
+
+- title: Python for Computational Social Science with Text, Networks and clever data games
+  track: 2
+  date: 4th Oct
+  time: 11:30 am
+  type: workshop
+  speaker: Bhargav Srinivasa
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/python-for-computational-social-science-with-text-networks-and-clever-data-games~dyPPE/
+
+- title: 
+  track: 3
+  date: 4th Oct
+  time: 11:30 am
+  type: workshop
+  speaker: 
+  hyperlink: 
+
+- title: 
+  track: 4
+  date: 4th Oct
+  time: 11:30 am
+  type: workshop
+  speaker: 
+  hyperlink: 
+
+- title: Break / Networking
+  track: all
+  date: 3rd Oct
+  time: 14:00 pm
+
+- title: Python on Kubernetes: A primer
+  track: 1
+  date: 4th Oct
+  time: 15:00 am
+  type: workshop
+  speaker: Nabarun Pal
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/python-on-kubernetes-a-primer~aOY7Y/
+
+- title: Animating Data in PowerPoint
+  track: 2
+  date: 4th Oct
+  time: 15:00 am
+  type: workshop
+  speaker: Anand S
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/animating-data-in-powerpoint~dyR6e/
+
+- title: Concurrency Patterns with Python
+  track: 3
+  date: 4th Oct
+  time: 15:00 am
+  type: workshop
+  speaker: Anmol Jindal
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/concurrency-patterns-with-python~e9r8B/
+
+- title: 
+  track: 4
+  date: 4th Oct
+  time: 15:00 am
+  type: workshop
+  speaker: 
+  hyperlink: 
