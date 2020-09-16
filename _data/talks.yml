@@ -307,6 +307,11 @@
   type: special
   speaker: James Powell
 
+- title: Break / Networking
+  track: all
+  date: 3rd Oct
+  time: "17:30"
+
 - title: Python and cffi - Visualizing Network Traces
   track: Bengaluru
   date: 3rd Oct
