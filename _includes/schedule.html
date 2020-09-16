@@ -34,7 +34,7 @@
               {% for talk in talks %}
               <div
                 class="talk-content
-                  {% if talk.type == 'special' %}
+                  {% if talk.type == 'keynote' or talk.type == 'address' %}
                     special
                   {% endif %}
                   track-{{ talk.track }}">
@@ -61,7 +61,7 @@
               {% for talk in talks %}
               <div
                 class="talk-content
-                  {% if talk.type == 'special' %}
+                  {% if talk.type == 'keynote' or talk.type == 'address' %}
                     special
                   {% endif %}
                   track-{{ talk.track }}">
