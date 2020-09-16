@@ -4,14 +4,16 @@
   track: all
   date: 2nd Oct
   time: "12:00"
-  type: special
+  type: address
+  duration: 10
 
 - title: Keynote
   track: all
   date: 2nd Oct
   time: "12:15"
-  type: special
+  type: keynote
   speaker: S Anand
+  duration: 60
 
 - title: Stop Writing Tests!
   track: Bengaluru
@@ -19,6 +21,8 @@
   time: "13:20"
   speaker: Zac Hatfield-Dodds
   hyperlink: https://in.pycon.org/cfp/2020/proposals/stop-writing-tests~aKWGa/
+  type: talk
+  duration: 30
 
 - title: Serverless Computing with Python
   track: Chennai
@@ -26,6 +30,8 @@
   time: "13:20"
   speaker: Wesley Chun
   hyperlink: https://in.pycon.org/cfp/2020/proposals/serverless-computing-with-python~e5y8K/
+  type: talk
+  duration: 30
 
 - title: Python & Programmable Logic Controllers - A Step by Step Guide
   track: Hyderabad
@@ -33,6 +39,8 @@
   time: "13:20"
   speaker: Jonas Neubert
   hyperlink: https://in.pycon.org/cfp/2020/proposals/python-programmable-logic-controllers-a-step-by-step-guide~dwp98/
+  type: talk
+  duration: 30
 
 - title: Understand Heap Memory layout with pwndbg
   track: Delhi
@@ -40,6 +48,8 @@
   time: "13:20"
   speaker: Rohit Keshri
   hyperlink: https://in.pycon.org/cfp/2020/proposals/understand-heap-memory-layout-with-pwndbg~dBzQd/
+  type: talk
+  duration: 30
 
 - title: Under and Dunder - Python secret functions
   track: Bengaluru
@@ -47,6 +57,8 @@
   time: "13:55"
   speaker: Cheuk Ting Ho
   hyperlink: https://in.pycon.org/cfp/2020/proposals/under-and-dunder-python-secret-functions~dwMra/
+  type: talk
+  duration: 30
 
 - title: How to build a production-ready distributed task queue management system with celery
   track: Chennai
@@ -54,6 +66,8 @@
   time: "13:55"
   speaker: Vishrut Kohli
   hyperlink: https://in.pycon.org/cfp/2020/proposals/how-to-build-a-production-ready-distributed-task-queue-management-system-with-celery~e5qYe/
+  type: talk
+  duration: 30
 
 - title: Discrete Probability Distributions - Learning & Testing using tools from Fourier Analysis
   track: Hyderabad
@@ -61,17 +75,23 @@
   time: "13:55"
   speaker: Bala Priya C
   hyperlink: https://in.pycon.org/cfp/2020/proposals/discrete-probability-distributions-learning-testing-using-tools-from-fourier-analysis~aQ3Gd/
+  type: talk
+  duration: 30
 
 - title:
   track: Delhi
   date: 2nd Oct
   time: "13:55"
   speaker:
+  type: talk
+  duration: 30
 
 - title: Break / Networking
   track: all
   date: 2nd Oct
   time: "14:30"
+  type: long-break
+  duration: 50
 
 - title: Publishing well-formed Python packages
   track: Bengaluru
@@ -79,6 +99,8 @@
   time: "15:20"
   speaker: Julin S
   hyperlink: https://in.pycon.org/cfp/2020/proposals/publishing-well-formed-python-packages~egrrd/
+  type: talk
+  duration: 30
 
 - title: Predicting the Traffic Jam - Congestion-Aware Routing
   track: Chennai
@@ -86,6 +108,8 @@
   time: "15:20"
   speaker: Niharika Shrivastava
   hyperlink: https://in.pycon.org/cfp/2020/proposals/predicting-the-traffic-jam-congestion-aware-routing~dGD5e/
+  type: talk
+  duration: 30
 
 - title: Programming for Accessibility
   track: Hyderabad
@@ -93,6 +117,8 @@
   time: "15:20"
   speaker: Rory Preddy
   hyperlink: https://in.pycon.org/cfp/2020/proposals/programming-for-accessibility~dGGKd/
+  type: talk
+  duration: 30
 
 - title: A deep dive and comparison of Python drivers for Cassandra and Scylla
   track: Delhi
@@ -100,23 +126,30 @@
   time: "15:20"
   speaker: Alexys Jacob
   hyperlink: https://in.pycon.org/cfp/2020/proposals/a-deep-dive-and-comparison-of-python-drivers-for-cassandra-and-scylla~azVya/
+  type: talk
+  duration: 30
 
 - title: Lightning Talks
   track: all
   date: 2nd Oct
   time: "15:55"
+  type: talk
+  duration: 30
 
 - title: Keynote
   track: all
   date: 2nd Oct
   time: "16:30"
-  type: special
+  type: keynote
   speaker: Victor Stinner
+  duration: 60
 
 - title: Break / Networking
   track: all
   date: 2nd Oct
   time: "17:30"
+  type: short-break
+  duration: 20
 
 - title: Towards a more transparent AI - Decrypting ML models using LIME
   track: Bengaluru
@@ -124,6 +157,8 @@
   time: "17:50"
   speaker: Laisha Wadhwa
   hyperlink: https://in.pycon.org/cfp/2020/proposals/towards-a-more-transparent-ai-decrypting-ml-models-using-lime~eV8zb/
+  type: talk
+  duration: 30
 
 - title: Let's build a no-code tool for small businesses to reduce churn
   track: Chennai
@@ -131,6 +166,8 @@
   time: "17:50"
   speaker: Padmaja Bhagwat, Bargava Subramanian
   hyperlink: https://in.pycon.org/cfp/2020/proposals/lets-build-a-no-code-tool-for-small-businesses-to-reduce-churn~epYYV/
+  type: talk
+  duration: 30
 
 - title: Write Prose, not just Programs
   track: Hyderabad
@@ -138,6 +175,8 @@
   time: "17:50"
   speaker: Puneeth Chaganti
   hyperlink: https://in.pycon.org/cfp/2020/proposals/write-prose-not-just-programs~dGyJa/
+  type: talk
+  duration: 30
 
 - title:
   track: Delhi
@@ -145,6 +184,8 @@
   time: "17:50"
   speaker:
   hyperlink:
+  type: talk
+  duration: 30
 
 - title: A thousand Django's within (or Django multi-tenant)
   track: Bengaluru
@@ -152,6 +193,8 @@
   time: "18:25"
   speaker: Lorenzo Peña
   hyperlink: https://in.pycon.org/cfp/2020/proposals/a-thousand-djangos-within-or-django-multi-tenant~b4g7a/
+  type: talk
+  duration: 30
 
 - title: Taking a peek under the hood - Interpreting black box models
   track: Chennai
@@ -159,6 +202,8 @@
   time: "18:25"
   speaker: Jennifer Nguyen
   hyperlink: https://in.pycon.org/cfp/2020/proposals/taking-a-peek-under-the-hood-interpreting-black-box-models~b2k4z/
+  type: talk
+  duration: 30
 
 - title: Combining NLP with Structured Data to map Clinical Entities to the relevant Section Headers in a Clinical Document
   track: Hyderabad
@@ -166,6 +211,8 @@
   time: "18:25"
   speaker: Sagar Dawda
   hyperlink: https://in.pycon.org/cfp/2020/proposals/combining-nlp-with-structured-data-to-map-clinical-entities-to-the-relevant-section-headers-in-a-clinical-document~bkRRN/
+  type: talk
+  duration: 30
 
 - title: ApiVer – a versioning policy for libraries
   track: Delhi
@@ -173,38 +220,45 @@
   time: "18:25"
   speaker: Paweł Polewicz
   hyperlink: https://in.pycon.org/cfp/2020/proposals/apiver-a-versioning-policy-for-libraries~eXmga/
+  type: talk
+  duration: 30
 
 - title: Keynote
   track: all
   date: 2nd Oct
   time: "19:00"
-  type: special
+  type: keynote
   speaker: Naomi Ceder
+  duration: 60
 
 - title: PyCon India 2020 Day 1 Closing Address
   track: all
   date: 2nd Oct
   time: "20:00"
-  type: special
+  type: address
   speaker:
+  duration: 10
 
 - title: Networking
   track: all
   date: 2nd Oct
   time: "20:10"
+  duration: 30
 
 - title: PyCon India 2020 Day 2 Opening Address
   track: all
   date: 3rd Oct
   time: "12:00"
-  type: special
+  type: address
+  duration: 10
 
 - title: Keynote
   track: all
   date: 3rd Oct
   time: "12:15"
-  type: special
+  type: keynote
   speaker: Alolita Sharma
+  duration: 60
 
 - title: Revolutionize the Web with Python - Brython
   track: Bengaluru
@@ -212,6 +266,8 @@
   time: "13:20"
   speaker: Antriksh Verma
   hyperlink: https://in.pycon.org/cfp/2020/proposals/revolutionize-the-web-with-python-brython~elYYg/
+  type: talk
+  duration: 30
 
 - title: How I built a Ray Tracer in Pure Python
   track: Chennai
@@ -219,6 +275,8 @@
   time: "13:20"
   speaker: Arun Ravindran
   hyperlink: https://in.pycon.org/cfp/2020/proposals/how-i-built-a-ray-tracer-in-pure-python~e045e/
+  type: talk
+  duration: 30
 
 - title: How to make continuous integration work with machine learning
   track: Hyderabad
@@ -226,6 +284,8 @@
   time: "13:20"
   speaker: Elle O'Brien
   hyperlink: https://in.pycon.org/cfp/2020/proposals/how-to-make-continuous-integration-work-with-machine-learning~avK5b/
+  type: talk
+  duration: 30
 
 - title: Pythonic Interfaces - The secret to building maintainable, quality code!
   track: Delhi
@@ -233,6 +293,8 @@
   time: "13:20"
   speaker: Praveen Shirali
   hyperlink: https://in.pycon.org/cfp/2020/proposals/pythonic-interfaces-the-secret-to-building-maintainable-quality-code~bYjYd/
+  type: talk
+  duration: 30
 
 - title: So, You Want to Build an Anti-Virus Engine?
   track: Bengaluru
@@ -240,6 +302,8 @@
   time: "13:55"
   speaker: JunWei Song
   hyperlink: https://in.pycon.org/cfp/2020/proposals/so-you-want-to-build-an-anti-virus-engine~bDM6d/
+  type: talk
+  duration: 30
 
 - title: Time Series Forecasting on CoronaVirus Dataset
   track: Chennai
@@ -247,6 +311,8 @@
   time: "13:55"
   speaker: Sonam pankaj
   hyperlink: https://in.pycon.org/cfp/2020/proposals/time-series-forecasting-on-coronavirus-dataset~b2jAb/
+  type: talk
+  duration: 30
 
 - title: Python Emergency Remote Teaching
   track: Hyderabad
@@ -254,6 +320,8 @@
   time: "13:55"
   speaker: Fernando Masanori Ashikaga
   hyperlink: https://in.pycon.org/cfp/2020/proposals/python-emergency-remote-teaching~aOOEa/
+  type: talk
+  duration: 30
 
 - title:
   track: Delhi
@@ -261,11 +329,15 @@
   time: "13:55"
   speaker:
   hyperlink:
+  type: talk
+  duration: 30
 
 - title: Break / Networking
   track: all
   date: 3rd Oct
   time: "14:30"
+  type: long-break
+  duration: 50
 
 - title: Build plugins using Pluggy
   track: Bengaluru
@@ -273,6 +345,8 @@
   time: "15:20"
   speaker: Kracekumar Ramaraju
   hyperlink: https://in.pycon.org/cfp/2020/proposals/build-plugins-using-pluggy~eZ3ga/
+  type: talk
+  duration: 30
 
 - title: Building an Home Automation system using PyQT, MQTT and Arduino
   track: Chennai
@@ -280,6 +354,8 @@
   time: "15:20"
   speaker: Harsh Mittal
   hyperlink: https://in.pycon.org/cfp/2020/proposals/building-an-home-automation-system-using-pyqt-mqtt-and-arduino~bqw7e/
+  type: talk
+  duration: 30
 
 - title: Developing a Single-Sign-On Service using Django
   track: Hyderabad
@@ -287,6 +363,8 @@
   time: "15:20"
   speaker: Vibhu Agarwal
   hyperlink: https://in.pycon.org/cfp/2020/proposals/developing-a-single-sign-on-service-using-django~b26Mb/
+  type: talk
+  duration: 30
 
 - title: Static Typing in Python
   track: Delhi
@@ -294,23 +372,30 @@
   time: "15:20"
   speaker: Sanchit Balchandani
   hyperlink: https://in.pycon.org/cfp/2020/proposals/static-typing-in-python~axpPa/
+  type: talk
+  duration: 30
 
 - title: Lightning Talks
   track: all
   date: 3rd Oct
   time: "15:55"
+  type: talk
+  duration: 30
 
 - title: Keynote
   track: all
   date: 3rd Oct
   time: "16:30"
-  type: special
+  type: keynote
   speaker: James Powell
+  duration: 60
 
 - title: Break / Networking
   track: all
   date: 3rd Oct
   time: "17:30"
+  type: short-break
+  duration: 20
 
 - title: Python and cffi - Visualizing Network Traces
   track: Bengaluru
@@ -318,6 +403,8 @@
   time: "17:50"
   speaker: Abhijit Gadgil
   hyperlink: https://in.pycon.org/cfp/2020/proposals/python-and-cffi-visualizing-network-traces~aAy9a/
+  type: talk
+  duration: 30
 
 - title: Resource Utilization as a Metric for Machine Learning
   track: Chennai
@@ -325,6 +412,8 @@
   time: "17:50"
   speaker: Akshay Bahadur
   hyperlink: https://in.pycon.org/cfp/2020/proposals/resource-utilization-as-a-metric-for-machine-learning~aKP8b/
+  type: talk
+  duration: 30
 
 - title: Logging the right way!
   track: Hyderabad
@@ -332,12 +421,16 @@
   time: "17:50"
   speaker: Devi A S L
   hyperlink: https://in.pycon.org/cfp/2020/proposals/logging-the-right-way~dPN11/
+  type: talk
+  duration: 30
 
 - title:
   track: Delhi
   date: 3rd Oct
   time: "17:50"
   speaker:
+  type: talk
+  duration: 30
 
 - title: Narrative-focused video games development with Ren'Py, an open source engine
   track: Bengaluru
@@ -345,6 +438,8 @@
   time: "18:25"
   speaker: Susan Shu Chang
   hyperlink: https://in.pycon.org/cfp/2020/proposals/narrative-focused-video-games-development-with-renpy-an-open-source-engine~az0qd/
+  type: talk
+  duration: 30
 
 - title: Awesome Commandline Tools
   track: Chennai
@@ -352,6 +447,8 @@
   time: "18:25"
   speaker: Amjith Ramanujam
   hyperlink: https://in.pycon.org/cfp/2020/proposals/awesome-commandline-tools~eZlQb/
+  type: talk
+  duration: 30
 
 - title: How Decorators Function
   track: Hyderabad
@@ -359,6 +456,8 @@
   time: "18:25"
   speaker: Andrew Knight
   hyperlink: https://in.pycon.org/cfp/2020/proposals/how-decorators-function~bYEp2/
+  type: talk
+  duration: 30
 
 - title: Reproducible Scalable Workflows with Nix, Papermill and Renku
   track: Delhi
@@ -366,19 +465,23 @@
   time: "18:25"
   speaker: Rohit Goswami
   hyperlink: https://in.pycon.org/cfp/2020/proposals/reproducible-scalable-workflows-with-nix-papermill-and-renku~dNkxD/
+  type: talk
+  duration: 30
 
 - title: Keynote
   track: all
   date: 3rd Oct
   time: "19:00"
-  type: special
+  type: keynote
   speaker:
+  duration: 60
 
 - title: PyCon India 2020 Closing Address
   track: all
   date: 3rd Oct
   time: "20:00"
-  type: special
+  type: address
+  duration: 10
 
 # Schedule for 4th Oct
 
@@ -388,6 +491,8 @@
   time: "11:30"
   speaker: Evan Smith
   hyperlink: https://in.pycon.org/cfp/2020/proposals/getting-started-with-python~b4x8V/
+  type: workshop
+  duration: 150
 
 - title: Python for Computational Social Science with Text, Networks and clever data games
   track: 2
@@ -395,6 +500,8 @@
   time: "11:30"
   speaker: Bhargav Srinivasa
   hyperlink: https://in.pycon.org/cfp/2020/proposals/python-for-computational-social-science-with-text-networks-and-clever-data-games~dyPPE/
+  type: workshop
+  duration: 150
 
 - title: Creating real-world simulations using Numpy, SciPy and Matplotlib
   track: 3
@@ -402,6 +509,8 @@
   time: "11:30"
   speaker: Ashok Govindarajan
   hyperlink: https://in.pycon.org/cfp/2020/proposals/creating-real-world-simulations-using-numpy-scipy-and-matplotlib~e0Rgy/
+  type: workshop
+  duration: 150
 
 - title: "Hands On: Containerizing Python and Deploying to IoT and Edge Devices"
   track: 4
@@ -409,11 +518,15 @@
   time: "11:30"
   speaker: David T
   hyperlink: https://in.pycon.org/cfp/2020/proposals/hands-on-containerizing-python-and-deploying-to-iot-and-edge-devices~egJYk/
+  type: workshop
+  duration: 150
 
 - title: Break / Networking
   track: all
   date: 4th Oct
   time: "14:00"
+  type: long-break
+  duration: 60
 
 - title: "Python on Kubernetes: A primer"
   track: 1
@@ -421,6 +534,8 @@
   time: "15:00"
   speaker: Nabarun Pal
   hyperlink: https://in.pycon.org/cfp/2020/proposals/python-on-kubernetes-a-primer~aOY7Y/
+  type: workshop
+  duration: 150
 
 - title: Animating Data in PowerPoint
   track: 2
@@ -428,6 +543,8 @@
   time: "15:00"
   speaker: Anand S
   hyperlink: https://in.pycon.org/cfp/2020/proposals/animating-data-in-powerpoint~dyR6e/
+  type: workshop
+  duration: 150
 
 - title: Concurrency Patterns with Python
   track: 3
@@ -435,6 +552,8 @@
   time: "15:00"
   speaker: Anmol Jindal
   hyperlink: https://in.pycon.org/cfp/2020/proposals/concurrency-patterns-with-python~e9r8B/
+  type: workshop
+  duration: 150
 
 - title:
   track: 4
@@ -442,3 +561,5 @@
   time: "15:00"
   speaker:
   hyperlink:
+  type: workshop
+  duration: 150
