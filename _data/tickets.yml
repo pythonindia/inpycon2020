@@ -22,6 +22,18 @@
   type: conference
   status: available
   url: https://www.townscript.com/e/pycon-india-2020
+- name: Workshop Ticket
+  brief: Sale ends by 03 October, 2020 11:59 PM (Asia/Kolkata) OR completetion of 200 tickets
+  cost: 399
+  type: workshop
+  status: available
+  url: https://www.townscript.com/e/pycon-india-2020
+- name: Devsprints Ticket
+  brief: Sale ends by 03 October, 2020 11:59 PM (Asia/Kolkata) OR completetion of 200 tickets
+  cost: Free
+  type: devsprint
+  status: available
+  url: https://www.townscript.com/e/pycon-india-2020
 #- name: Morning Ticket
   #brief: Half Day Workshop Ticket for 4th Oct, ‘20 <br/>Sale ends by 30 Sep, 2018 11:59 PM (Asia/Kolkata) OR completion of 75 tickets per workshop
   #cost: 750

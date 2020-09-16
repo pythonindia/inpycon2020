@@ -33,7 +33,7 @@
       </a>
     </div>
     {% endfor %}
-    {% if workshop_tickets == blank %}
+    {% if workshop_tickets != blank %}
     <div class="title ticket-type">Workshops</div>
     {% for ticket in workshop_tickets %}
     <div class="ticket-wrap">
@@ -63,8 +63,8 @@
     </div>
     {% endfor %}
     {% endif %}
-    {% if devsprint_tickets == blank %}
-    <div class="title ticket-type">DevSprint</div>
+    {% if devsprint_tickets != blank %}
+    <div class="title ticket-type">Devsprint</div>
     {% for ticket in devsprint_tickets %}
     <div class="ticket-wrap">
       <div class="ticket-details">
@@ -75,8 +75,7 @@
           </div>
         </div>
         <div class="ticket-price">
-          <div class="ticket-tag">₹ {{ ticket.cost }}</div>
-          <div class="ticket-description">GST Applicable</div>
+          <div class="ticket-tag">{{ ticket.cost }}</div>
         </div>
       </div>
       <a class="ticket-buy {{ ticket.status }}"
