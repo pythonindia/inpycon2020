@@ -1,0 +1,22 @@
+# Sponsors data
+
+- name: Platinum Foo
+  level: platinum
+  logo: //in.pycon.org/2020/assets/images/favicon.png
+  description: |
+    Lorem ipsum dolor es mit
+  hyperlink: https://in.pycon.org
+
+- name: Gold Foo
+  level: gold
+  logo: //in.pycon.org/2020/assets/images/favicon.png
+  description: |
+    Lorem ipsum dolor es mit
+  hyperlink: https://in.pycon.org
+
+- name: Silver Foo
+  level: silver
+  logo: //in.pycon.org/2020/assets/images/favicon.png
+  description: |
+    Lorem ipsum dolor es mit
+  hyperlink: https://in.pycon.org
