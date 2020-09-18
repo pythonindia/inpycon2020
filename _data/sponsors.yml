@@ -1,22 +1,8 @@
 # Sponsors data
 
-- name: Platinum Foo
-  level: platinum
-  logo: //in.pycon.org/2020/assets/images/favicon.png
-  description: |
-    Lorem ipsum dolor es mit
-  hyperlink: https://in.pycon.org
-
-- name: Gold Foo
-  level: gold
-  logo: //in.pycon.org/2020/assets/images/favicon.png
-  description: |
-    Lorem ipsum dolor es mit
-  hyperlink: https://in.pycon.org
-
-- name: Silver Foo
+- name: Deepsource
   level: silver
-  logo: //in.pycon.org/2020/assets/images/favicon.png
+  logo: /assets/images/sponsors/deepsource.png
   description: |
-    Lorem ipsum dolor es mit
-  hyperlink: https://in.pycon.org
+    DeepSource continuously analyzes source code changes to find and fix issues categorized as security, performance, anti-patterns and bug-risks. It integrates with GitHub/GitLab/Bitbucket and runs analysis on every commit and pull request, discovers and fixes potential issues before they make it to production. With support for Python, Go, Ruby and JavaScript and guaranteed less than 5% false positives in results, DeepSource is trusted by open-source teams at NASA, Slack, Intel, DGraph among many others to ship good code. Free to use for open-source projects and small teams.
+  hyperlink: https://deepsource.io
