@@ -495,7 +495,6 @@ body {
 
       .sponsor-logo {
         cursor: pointer;
-        margin-bottom: rem-calc(26);
         img {
           margin-top: 1rem;
           width: rem-calc(200);
@@ -503,26 +502,6 @@ body {
           object-fit: cover;
         }
       }
-
-      .hover-container {
-        position: fixed;
-        top: 30%;
-        left: 35%;
-        margin: 0 auto;
-        width: 30%;
-        height: auto;
-
-        border: 1px solid #bbbbbb;
-        border-radius: 10px;
-        display: flex;
-        justify-content: space-evenly;
-        flex-direction: column;
-        flex-wrap: wrap;
-        background-color: #fafafa;
-
-        filter: drop-shadow(0px 10px 5px rgba(0,0,0,0.1));
-      }
-
       .hover-title {
         font-weight: bold;
       }
@@ -1006,3 +985,84 @@ body {
   }
 
 }
+
+// Sponsor sections
+.sponsor-section {
+  position: relative;
+  .sponsor{
+    margin-top: 1rem;
+  }
+  .sponsor-logo-image{
+    cursor: pointer;
+  }
+  .level-heading {
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 2.3125rem;
+    color: #010101;
+    border: 2px solid #DF0E12;
+    border-radius: 5px;
+    width: 140px;
+    padding: 1rem 2rem;
+    margin: 2.0625rem auto auto auto;
+  }
+  .hover-container{
+    z-index:1000;
+    position: absolute;
+    left: 1%;
+    width: 50vw;
+    .hover-container-content{
+      padding: 0rem 1rem 1rem 1rem;
+      background: #ffffff;
+      border: 1px solid #C4C4C4;
+      border-radius: 12px;
+      border-radius: 1rem;
+      margin: 0 auto;
+      box-shadow:	-2px 6px 5px -3px rgba(0,0,0,0.46);;
+
+      &::before {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 0;
+        bottom: 100%;
+        left: 50%;
+        border: .75rem solid transparent;
+        border-top: none;
+
+        border-bottom-color: #fff;
+        filter: drop-shadow(0 -0.0625rem 0.0625rem rgba(0, 0, 0, .1));
+      }
+
+      .hover-container-content-close-btn{
+        color: #ED2427;
+        .btn-box{
+          background: #F7F3F3;
+          border-radius: 1px;
+          padding: 0rem 0.5rem 0.1rem 0.5rem;
+          &:hover{
+            cursor: pointer;
+          }
+        }
+     }
+
+     .hover-container-content-description{
+       line-height: 2rem;
+     }
+
+     .hover-container-content-link a{
+       padding: 0.2rem 1.5rem;
+       font-weight: bold;
+       background:#ED2427;
+       color: #FFFFFF;
+       text-decoration: none;
+       border-radius: 20px;
+    }
+    }
+  }
+  
+  .text-right{
+    text-align: right;
+  }
+}
+

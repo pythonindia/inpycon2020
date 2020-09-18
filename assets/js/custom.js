@@ -28,25 +28,33 @@ document.querySelectorAll(".date").forEach(function(element) {
   })
 })
 
-document.querySelectorAll(".sponsor-logo").forEach(function(element) {
-  var id = element.id;
-  element.addEventListener("click", function(e) {
-    closeAllHovers();
-    var hover = document.querySelector(".hover-container#"+id);
-    hover.classList.remove("hover-hide");
-  })
-})
 
-document.querySelectorAll(".hover-close").forEach(function(element) {
-  var id = element.id;
-  element.addEventListener("click", function(e) {
-    var hover = document.querySelector(".hover-container#"+id);
-    hover.classList.add("hover-hide");
-  })
-})
+let sponsorLogos = document.getElementsByClassName('sponsor-logo-image')
 
-function closeAllHovers() {
-  document.querySelectorAll(".hover-container").forEach(function(element) {
-    element.classList.add("hover-hide");
+for(let domElem of sponsorLogos){
+      let hoverContentContainer = domElem.parentNode.parentNode.querySelector('.hover-container-content')
+      hoverContentContainer.style.display = 'none'
+      domElem.addEventListener('click',sponsorLogoClickHandler)
+}
+
+function sponsorLogoClickHandler(e){
+   let hoverContentContainers = document.getElementsByClassName('hover-container-content');
+   console.log(hoverContentContainers)
+   for(let domeElem of hoverContentContainers){
+     console.log(domeElem)
+     domeElem.style.display = 'none'
+   }
+
+   let clickedHoverContentContainer = e.target.parentNode.parentNode.querySelector('.hover-container-content')
+   clickedHoverContentContainer.style.display = 'block'
+}
+
+let hoverContainerContentCloseBtns = document.getElementsByClassName('hover-container-content-close-btn')
+
+for(let domElem of hoverContainerContentCloseBtns){
+  domElem.addEventListener('click', function(event){
+    console.log(event)
+    event.target.parentNode.parentNode.style.display = 'none'
   })
+   
 }
