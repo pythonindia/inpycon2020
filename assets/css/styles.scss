@@ -494,6 +494,7 @@ body {
       flex-wrap: wrap;
 
       .sponsor-logo {
+        cursor: pointer;
         margin-bottom: rem-calc(26);
         img {
           margin-top: 1rem;
@@ -501,6 +502,55 @@ body {
           height: rem-calc(140);
           object-fit: cover;
         }
+      }
+
+      .hover-container {
+        position: fixed;
+        top: 30%;
+        left: 35%;
+        margin: 0 auto;
+        width: 30%;
+        height: auto;
+
+        border: 1px solid #bbbbbb;
+        border-radius: 10px;
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        flex-wrap: wrap;
+        background-color: #fafafa;
+
+        filter: drop-shadow(0px 10px 5px rgba(0,0,0,0.1));
+      }
+
+      .hover-title {
+        font-weight: bold;
+      }
+
+      .hover-description {
+        padding: 0.625rem;
+        line-height: 1.25rem;
+      }
+
+      .hover-link {
+        a {
+          font-weight: bold;
+          font-size: 15px;
+          color: #DF0E12;
+          text-decoration: none;
+        }
+      }
+
+      .hover-close {
+        cursor: pointer;
+        border-radius: 0 0 10px 10px;
+        background-color: #F6B700;
+        color: #000000;
+        font-weight: bold;
+      }
+
+      .hover-hide {
+        display: none;
       }
     }
   }

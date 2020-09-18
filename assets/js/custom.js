@@ -27,3 +27,26 @@ document.querySelectorAll(".date").forEach(function(element) {
     e.target.classList.add("active");
   })
 })
+
+document.querySelectorAll(".sponsor-logo").forEach(function(element) {
+  var id = element.id;
+  element.addEventListener("click", function(e) {
+    closeAllHovers();
+    var hover = document.querySelector(".hover-container#"+id);
+    hover.classList.remove("hover-hide");
+  })
+})
+
+document.querySelectorAll(".hover-close").forEach(function(element) {
+  var id = element.id;
+  element.addEventListener("click", function(e) {
+    var hover = document.querySelector(".hover-container#"+id);
+    hover.classList.add("hover-hide");
+  })
+})
+
+function closeAllHovers() {
+  document.querySelectorAll(".hover-container").forEach(function(element) {
+    element.classList.add("hover-hide");
+  })
+}
