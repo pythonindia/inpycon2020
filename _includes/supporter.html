@@ -20,7 +20,7 @@
           {% for sponsor in sponsors %}
           <div class="sponsor">
             <div class="sponsor-logo">
-              <img class="sponsor-logo-image" src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" width="200" height="200"/>
+              <img class="sponsor-logo-image" src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }}" width="200" height="200"/>
             </div>
             <div class="hover-container">
             <div class="hover-container-content">
