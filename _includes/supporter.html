@@ -20,12 +20,12 @@
           {% for sponsor in sponsors %}
           <div class="sponsor-detail">
             <div class="sponsor-logo" id="{{ sponsor.name | slugify }}">
-              <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}"/>
+              <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }}"/>
             </div>
             <div class="sponsor-section sponsor hover-container hover-hide" id="{{ sponsor.name | slugify }}">
               <div class="sponsor-section sponsor hover-title">{{ sponsor.name }}</div>
               <div class="sponsor-section sponsor hover-description">{{ sponsor.description }}</div>
-              <div class="sponsor-section sponsor hover-link"><a href="{{ sponsor.hyperlink }}">Website</a></div>
+              <div class="sponsor-section sponsor hover-link"><a href="{{ sponsor.hyperlink }}"  target="_blank" rel="nofollow noreferrer">Website</a></div>
               <div class="sponsor-section sponsor hover-close" id="{{ sponsor.name | slugify }}"><img src="{{ /assets/images/window-close-solid.svg | relative_url }}" alt="Close"/></div>
             </div>
           </div>
