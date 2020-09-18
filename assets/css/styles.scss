@@ -473,6 +473,37 @@ body {
       }
     }
   }
+
+  // Sponsor section styles
+  .sponsor-section {
+    .level-heading {
+      font-weight: bold;
+      font-size: 1.5rem;
+      line-height: 2.3125rem;
+      color: #010101;
+      border: 2px solid #DF0E12;
+      border-radius: 5px;
+      width: 140px;
+      margin: 2.0625rem auto auto auto;
+    }
+
+    .level-list {
+      display: flex;
+      justify-content: space-evenly;
+      flex-direction: row;
+      flex-wrap: wrap;
+
+      .sponsor-logo {
+        margin-bottom: rem-calc(26);
+        img {
+          margin-top: 1rem;
+          width: rem-calc(140);
+          height: rem-calc(140);
+          object-fit: cover;
+        }
+      }
+    }
+  }
 }
 
 .footer-wrapper {
@@ -924,18 +955,4 @@ body {
     padding-top: 18rem;
   }
 
-}
-
-// Sponsor sections
-.sponsor-section {
-  .level-heading {
-    font-weight: bold;
-    font-size: 1.5rem;
-    line-height: 2.3125rem;
-    color: #010101;
-    border: 2px solid #DF0E12;
-    border-radius: 5px;
-    width: 140px;
-    margin: 2.0625rem auto auto auto;
-  }
 }
