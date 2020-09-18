@@ -1,4 +1,4 @@
-<div id="sponsor" class="page-wrapper sponsor-section">
+<div id="supporter" class="page-wrapper supporter-section">
   <div class="page-details">
     <div class="title">Sponsors</div>
     <div class="description">
@@ -11,16 +11,16 @@
     </div>
     {% assign levels = site.data.sponsors | map: 'level' | uniq %}
     {% if levels %}
-    <div class="sponsor-section levels">
+    <div class="supporter-section levels">
       {% for level in levels %}
       <div class="level">
         <div class="level-heading">{{ level | capitalize }}</div>
         <div class="level-list">
           {% assign sponsors = site.data.sponsors | where: 'level', level %}
           {% for sponsor in sponsors %}
-          <div class="sponsor">
-            <div class="sponsor-logo">
-              <img class="sponsor-logo-image" src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }}" width="200" height="200"/>
+          <div class="supporter">
+            <div class="supporter-logo">
+              <img class="supporter-logo-image" src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }}" width="200" height="200"/>
             </div>
             <div class="hover-container">
             <div class="hover-container-content">

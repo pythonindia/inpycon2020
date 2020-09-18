@@ -29,7 +29,7 @@ document.querySelectorAll(".date").forEach(function(element) {
 })
 
 
-let sponsorLogos = document.getElementsByClassName('sponsor-logo-image')
+let sponsorLogos = document.getElementsByClassName('supporter-logo-image')
 
 for(let domElem of sponsorLogos){
       let hoverContentContainer = domElem.parentNode.parentNode.querySelector('.hover-container-content')
@@ -56,5 +56,5 @@ for(let domElem of hoverContainerContentCloseBtns){
     console.log(event)
     event.target.parentNode.parentNode.style.display = 'none'
   })
-   
+
 }
