@@ -9,22 +9,18 @@
       bring more facilities to our attendees,
       and maintain the inventory for the conference.
     </div>
+    {% assign levels = site.data.sponsors | map: 'level' | uniq %}
+    {% if levels %}
     <div class="sponsor-section levels">
-      {% assign levels = site.data.sponsors | map: 'level' | uniq %}
       {% for level in levels %}
       <div class="sponsor-section level">
         <div class="sponsor-section level-heading">{{ level | capitalize }}</div>
         <div class="sponsor-section level-list">
           {% assign sponsors = site.data.sponsors | where: 'level', level %}
           {% for sponsor in sponsors %}
-          <div class="sponsor-section sponsor">
-            <div class="sponsor-section sponsor sponsor-logo">
+          <div class="sponsor-detail">
+            <div class="sponsor-logo">
               <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}"/>
-            </div>
-            <div class="sponsor-section sponsor hover hover-container">
-              <div class="sponsor-section sponsor hover close">X</div>
-              <div class="sponsor-section sponsor hover description">{{ sponsor.description }}</div>
-              <div class="sponsor-section sponsor hover link"><a href="{{ sponsor.hyperlink }}">Website</a></div>
             </div>
           </div>
           {% endfor %}
@@ -32,6 +28,7 @@
       </div>
       {% endfor %}
     </div>
+    {% endif %}
     <div class="text-center">
       <a class="primary-button" rel="nofollow noreferrer" href="{{ 'sponsorship-prospectus.pdf' | relative_url }}" target="_blank">
         Download Sponsorship Prospectus
