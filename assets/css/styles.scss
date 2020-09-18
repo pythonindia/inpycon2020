@@ -474,10 +474,10 @@ body {
     }
   }
 
-  // Sponsor section styles
-  .sponsor-section {
+  // supporter section styles
+  .supporter-section {
     position: relative;
-    .sponsor{
+    .supporter{
       margin-top: 1rem;
     }
     .level-heading {
@@ -498,7 +498,7 @@ body {
       flex-direction: row;
       flex-wrap: wrap;
 
-      .sponsor-logo {
+      .supporter-logo {
         cursor: pointer;
         img {
           margin-top: 1rem;
