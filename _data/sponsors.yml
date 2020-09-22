@@ -34,3 +34,12 @@
   description: |
     Red Hat is the world's leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can help organizations prepare for the digital future.
   hyperlink: https://www.redhat.com/en
+
+- name: GitHub
+  level: silver
+  logo: /assets/images/sponsors/github.png
+  description: |
+    GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 50 million developers.
+    Automate from code to cloud using GitHub Actions, host your container images using GitHub Container Registry and bring GitHub collaboration tools to your small screens with a fully-native mobile and tablet experience with GitHub for mobile.
+    GitHub is home to the world’s largest community of developers and their projects - whether you’re making your first commit or sending a Rover to Mars, there’s room for you here, too.
+  hyperlink: https://github.co/pyconin
