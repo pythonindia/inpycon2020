@@ -1,4 +1,12 @@
 # Sponsors data
+- name: Microsoft Azure
+  level: platinum
+  logo: /assets/images/sponsors/azure.png
+  description: |
+    Microsoft is the leading platform and company for the mobile-first, cloud-first world, and its mission is to empower every person and every organization on the planet to achieve more.</br>
+    Microsoft has worked with Python communities to create tools and services which provide ease of development. This year at PyCon India, Microsoft is super excited to introduce two tracks at the Microsoft Learning Hub – Skilling and Community. The Skilling room is where you can skill-up your Cloud, Python, AI and Machine Learning knowledge. The Community room is the place to hear from the Community Leaders on both tech and non-tech topics.</br>
+    Join us at the Microsoft Learning Hub at PyCon India 2020 to learn more about Microsoft Azure.
+  hyperlink: https://azure.microsoft.com/en-us/?wt.mc_id=AID3022746_QSG_474804&ocid=AID3022746_QSG_474804&WT.mc_id=pyconindia-azure-cxa
 
 - name: EPAM India
   level: gold
@@ -44,11 +52,3 @@
     GitHub is home to the world’s largest community of developers and their projects - whether you’re making your first commit or sending a Rover to Mars, there’s room for you here, too.
   hyperlink: https://github.co/pyconin
 
-- name: Microsoft Azure
-  level: platinum
-  logo: /assets/images/sponsors/azure.png
-  description: |
-    Microsoft is the leading platform and company for the mobile-first, cloud-first world, and its mission is to empower every person and every organization on the planet to achieve more.</br>
-    Microsoft has worked with Python communities to create tools and services which provide ease of development. This year at PyCon India, Microsoft is super excited to introduce two tracks at the Microsoft Learning Hub – Skilling and Community. The Skilling room is where you can skill-up your Cloud, Python, AI and Machine Learning knowledge. The Community room is the place to hear from the Community Leaders on both tech and non-tech topics.</br>
-    Join us at the Microsoft Learning Hub at PyCon India 2020 to learn more about Microsoft Azure.
-  hyperlink: https://azure.microsoft.com/en-us/?wt.mc_id=AID3022746_QSG_474804&ocid=AID3022746_QSG_474804&WT.mc_id=pyconindia-azure-cxa
