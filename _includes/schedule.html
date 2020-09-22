@@ -2,22 +2,27 @@
   {% assign dates = site.data.talks | map: 'date' | uniq %}
   <div class="page-details">
     <div class="title">Schedule</div>
-    <div class="flex justify-start dates">
-      {% for date in dates %}
-        <div
-          class="date {% if forloop.first %}active{% endif %} hidden-sm"
-          data-target="#schedule-{{ date | replace:' ','-' }}"
-        >
-          {{ date }}
+      <div class="flex justify-between">
+        <div class="flex justify-start dates">
+          {% for date in dates %}
+            <div
+              class="date {% if forloop.first %}active{% endif %} hidden-sm"
+              data-target="#schedule-{{ date | replace:' ','-' }}"
+            >
+              {{ date }}
+            </div>
+            <div
+              class="date {% if forloop.first %}active{% endif %} show-sm"
+              data-target="#schedule-{{ date | replace:' ','-' }}-sm"
+            >
+              {{ date }}
+            </div>
+          {% endfor %}
         </div>
-        <div
-          class="date {% if forloop.first %}active{% endif %} show-sm"
-          data-target="#schedule-{{ date | replace:' ','-' }}-sm"
-        >
-          {{ date }}
+        <div>
+          <a class="calendar" title="Click to download calendar" href='{{ "/assets/PyConIndia2020.ics" | relative_url }}'><i class="fa fa-calendar" aria-hidden="true"></i></a>
         </div>
-      {% endfor %}
-    </div>
+      </div>
     {% for date in dates %}
       {% assign times = site.data.talks | where: 'date', date | map: 'time' | uniq %}
       <div

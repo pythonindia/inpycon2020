@@ -747,6 +747,16 @@ body {
   }
 }
 
+a.calendar {
+  text-decoration: none;
+  display: block;
+  color: black;
+  text-decoration: none;
+  &[href]:hover {
+    text-decoration: underline;
+  }
+}
+
 .schedule-container {
   display: none;
   margin-top: 2rem;
