@@ -1,0 +1,24 @@
+<div id="partners" class="page-wrapper supporter-section">
+  <div class="page-details">
+    <div class="title">Community Partners</div>
+    <div class="supporter-section levels">
+      <div class="level-list">
+        {% assign partners = site.data.partners %}
+        {% for partner in partners %}
+        <div class="supporter">
+          <div class="supporter-logo">
+            <img class="supporter-logo-image" src="{{ partner.logo | relative_url }}" alt="{{ partner.name }}" width="200" height="200"/>
+          </div>
+          <div class="hover-container">
+            <div class="hover-container-content">
+              <div class="hover-container-content-close-btn text-right"><span class="btn-box">x</span></div>
+              <div class="hover-container-content-description">{{ partner.description }}</div>
+              <div class="hover-container-content-link"><a href="{{ partner.hyperlink }}" target="_blank" rel="nofollow noreferrer">Website</a></div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
