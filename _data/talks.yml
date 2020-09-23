@@ -78,11 +78,11 @@
   type: talk
   duration: 30
 
-- title:
+- title: Serverless Machine Learning 101
   track: Delhi
   date: 2nd Oct
   time: "13:55"
-  speaker:
+  speaker: Tania Allard | Sponsored (Microsoft)
   type: talk
   duration: 30
 
@@ -187,7 +187,7 @@
   type: talk
   duration: 30
 
-- title: A thousand Django's within (or Django multi-tenant)
+- title: A thousand Djangoes within (or Django multi-tenant)
   track: Bengaluru
   date: 2nd Oct
   time: "18:25"
@@ -205,12 +205,12 @@
   type: talk
   duration: 30
 
-- title: Combining NLP with Structured Data to map Clinical Entities to the relevant Section Headers in a Clinical Document
+- title: How Decorators Function
   track: Hyderabad
   date: 2nd Oct
   time: "18:25"
-  speaker: Sagar Dawda
-  hyperlink: https://in.pycon.org/cfp/2020/proposals/combining-nlp-with-structured-data-to-map-clinical-entities-to-the-relevant-section-headers-in-a-clinical-document~bkRRN/
+  speaker: Andrew Knight
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/how-decorators-function~bYEp2/
   type: talk
   duration: 30
 
@@ -450,21 +450,21 @@
   type: talk
   duration: 30
 
-- title: How Decorators Function
-  track: Hyderabad
-  date: 3rd Oct
-  time: "18:25"
-  speaker: Andrew Knight
-  hyperlink: https://in.pycon.org/cfp/2020/proposals/how-decorators-function~bYEp2/
-  type: talk
-  duration: 30
-
 - title: Reproducible Scalable Workflows with Nix, Papermill and Renku
   track: Delhi
   date: 3rd Oct
   time: "18:25"
   speaker: Rohit Goswami
   hyperlink: https://in.pycon.org/cfp/2020/proposals/reproducible-scalable-workflows-with-nix-papermill-and-renku~dNkxD/
+  type: talk
+  duration: 30
+
+- title: Combining NLP with Structured Data to map Clinical Entities to the relevant Section Headers in a Clinical Document
+  track: Hyderabad
+  date: 3rd Oct
+  time: "18:25"
+  speaker: Sagar Dawda
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/combining-nlp-with-structured-data-to-map-clinical-entities-to-the-relevant-section-headers-in-a-clinical-document~bkRRN/
   type: talk
   duration: 30
 
@@ -503,12 +503,12 @@
   type: workshop
   duration: 150
 
-- title: Creating real-world simulations using Numpy, SciPy and Matplotlib
+- title: Meme Saheb - Using Dank Learning to Generate Original Meme Captions
   track: 3
   date: 4th Oct
   time: "11:30"
-  speaker: Ashok Govindarajan
-  hyperlink: https://in.pycon.org/cfp/2020/proposals/creating-real-world-simulations-using-numpy-scipy-and-matplotlib~e0Rgy/
+  speaker: Rumanu Bhardwaj
+  hyperlink: https://in.pycon.org/cfp/2020/proposals/meme-saheb-using-dank-learning-to-generate-original-meme-captions~bkR5N/
   type: workshop
   duration: 150
 
@@ -516,7 +516,7 @@
   track: 4
   date: 4th Oct
   time: "11:30"
-  speaker: David T
+  speaker: David T, Vipul G
   hyperlink: https://in.pycon.org/cfp/2020/proposals/hands-on-containerizing-python-and-deploying-to-iot-and-edge-devices~egJYk/
   type: workshop
   duration: 150
