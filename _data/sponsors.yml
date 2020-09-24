@@ -66,3 +66,11 @@
 
     Thank you PyCon India.
   hyperlink: https://essentiasoftserv.com/
+
+- name: Pipal Academy
+  level: startup
+  logo: /assets/images/sponsors/pipal.png
+  description: |
+    Pipal Academy is a collective of experienced technologists, who care deeply about the art of software development. We offer in-depth courses on niche technical topics. </br>
+    We regularly conduct public workshops and also offer on site corporate trainings. Our courses are targeted at professional software developers and we make sure they are hands-on and interactive. Very often the participants finish our courses with a lot of excitement and joy of learning.
+  hyperlink: https://pipal.in/
