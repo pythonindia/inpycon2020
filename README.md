@@ -29,4 +29,4 @@ community open and inclusive. Please read and follow the
 the overall conduct for the conference.
 
 ## License
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE.md)
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](LICENSE.md)
