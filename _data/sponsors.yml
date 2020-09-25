@@ -8,6 +8,13 @@
     Join us at the Microsoft Learning Hub at PyCon India 2020 to learn more about Microsoft Azure.
   hyperlink: https://azure.microsoft.com/en-us/?wt.mc_id=AID3022746_QSG_474804&ocid=AID3022746_QSG_474804&WT.mc_id=pyconindia-azure-cxa
 
+- name: D. E. Shaw India
+  level: platinum
+  logo: /assets/images/sponsors/deshaw.png
+  description: |
+    D. E. Shaw India Private Limited ("D. E. Shaw India") is a part of the D. E. Shaw group, a global investment and technology development firm founded in 1988 with more than $50 billion in investment capital as of June 1, 2020, and offices in North America, Europe, and Asia. Additional information regarding D. E. Shaw India is available at www.deshawindia.com
+  hyperlink: https://www.deshawindia.com/
+
 - name: EPAM India
   level: gold
   logo: /assets/images/sponsors/epam.png
