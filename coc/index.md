@@ -102,10 +102,13 @@ Thank you for helping to make PyCon India a welcoming, friendly event for all.
 ### Contact Information
 
 If you are being harassed, notice that someone else is being harassed, or have
-any other concerns, please contact a member of conference staff. Conference
-staff will be wearing "PyCon India Volunteer" badges.
+any other concerns, please contact an Organizer. Organizer/Volunteer
+name will be highlighted with the Organizer tag in Hopin Platform or drop an
+email to [report@in.pycon.org](report@in.pycon.org). Read more about it in our
+[Reporting Guide](reporting.md)
 
-You may also ask to be put in touch with the conference chair‚ Sayan Chowdhury.
+You may also ask to be put in touch with the Diversity and Inclusion WG chair‚
+Sukanya Mandal.
 
 If the matter is especially urgent, please call/contact any of these
 individuals:
