@@ -178,11 +178,11 @@
   type: talk
   duration: 30
 
-- title:
+- title: Array Time Travel with Versioned HDF5
   track: Delhi
   date: 2nd Oct
   time: "17:50"
-  speaker:
+  speaker: Arvid Bessen | Sponsored (DeShaw)
   hyperlink:
   type: talk
   duration: 30
