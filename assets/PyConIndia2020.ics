@@ -2,552 +2,597 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:How to build a production-ready distributed task queue management system with celery - Vishrut Kohli\nSpeaker: Vishrut Kohli\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/how-to-build-a-production-ready-distributed-task-queue-management-system-with-celery~e5qYe/
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Serverless Machine Learning 101 - Tania Allard | Sponsored (Microsoft)\nSpeaker: Tania Allard | Sponsored (Microsoft)\nTrack: Delhi\n
 DURATION:PT30M
 DTSTART:20201002T082500Z
-SUMMARY:How to build a production-ready distributed task queue management system with celery - Vishrut Kohli
-UID:a2d08333-bce7-4dc9-8ba6-50c2e2fdb56b@a2d0.org
+SUMMARY:Serverless Machine Learning 101 - Tania Allard | Sponsored (Microsoft)
+UID:eac789d1-0934-4a57-b112-2ffcd821f41c@eac7.org
 URL:https://in.pycon.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Narrative-focused video games development with Ren'Py\, an open source engine - Susan Shu Chang\nSpeaker: Susan Shu Chang\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/narrative-focused-video-games-development-with-renpy-an-open-source-engine~az0qd/
-DURATION:PT30M
-DTSTART:20201003T125500Z
-SUMMARY:Narrative-focused video games development with Ren'Py\, an open source engine - Susan Shu Chang
-UID:a5b6f010-8b5a-4cd7-83c7-46b0b018d8af@a5b6.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Keynote - Naomi Ceder\nSpeaker: Naomi Ceder\n
-DURATION:PT1H
-DTSTART:20201002T133000Z
-SUMMARY:Keynote - Naomi Ceder
-UID:04a2f5d3-3a17-40b1-ad02-4d4a794f9e1f@04a2.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Python & Programmable Logic Controllers - A Step by Step Guide - Jonas Neubert\nSpeaker: Jonas Neubert\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/python-programmable-logic-controllers-a-step-by-step-guide~dwp98/
-DURATION:PT30M
-DTSTART:20201002T075000Z
-SUMMARY:Python & Programmable Logic Controllers - A Step by Step Guide - Jonas Neubert
-UID:121f8d62-20a0-49c2-9d63-55c895b71bbd@121f.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Keynote - S Anand\nSpeaker: S Anand\n
-DURATION:PT1H
-DTSTART:20201002T064500Z
-SUMMARY:Keynote - S Anand
-UID:f8371752-5693-4b89-9087-031365c56f69@f837.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:How to make continuous integration work with machine learning - Elle O'Brien\nSpeaker: Elle O'Brien\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/how-to-make-continuous-integration-work-with-machine-learning~avK5b/
-DURATION:PT30M
-DTSTART:20201003T075000Z
-SUMMARY:How to make continuous integration work with machine learning - Elle O'Brien
-UID:1e0d4fd8-a69a-493b-8d48-637be366f016@1e0d.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Awesome Commandline Tools - Amjith Ramanujam\nSpeaker: Amjith Ramanujam\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/awesome-commandline-tools~eZlQb/
-DURATION:PT30M
-DTSTART:20201003T125500Z
-SUMMARY:Awesome Commandline Tools - Amjith Ramanujam
-UID:14be5f7a-3a31-4dd7-b9d3-a05166a7920a@14be.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Time Series Forecasting on CoronaVirus Dataset - Sonam pankaj\nSpeaker: Sonam pankaj\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/time-series-forecasting-on-coronavirus-dataset~b2jAb/
-DURATION:PT30M
-DTSTART:20201003T082500Z
-SUMMARY:Time Series Forecasting on CoronaVirus Dataset - Sonam pankaj
-UID:ebacd0be-ab23-4308-aa95-749635f51c95@ebac.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
+DTSTAMP:20201001T100004Z
 DESCRIPTION:Let's build a no-code tool for small businesses to reduce churn - Padmaja Bhagwat\, Bargava Subramanian\nSpeaker: Padmaja Bhagwat\, Bargava Subramanian\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/lets-build-a-no-code-tool-for-small-businesses-to-reduce-churn~epYYV/
 DURATION:PT30M
 DTSTART:20201002T122000Z
 SUMMARY:Let's build a no-code tool for small businesses to reduce churn - Padmaja Bhagwat\, Bargava Subramanian
-UID:c0e583a3-ccde-4438-9047-b0fb26464c94@c0e5.org
+UID:efa7c711-1e40-4d88-b17d-e1c34c1b718f@efa7.org
 URL:https://in.pycon.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Lightning Talks\n
-DURATION:PT30M
-DTSTART:20201002T102500Z
-SUMMARY:Lightning Talks
-UID:d824e9e2-8309-4c98-a8eb-cb79081de25b@d824.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Taking a peek under the hood - Interpreting black box models - Jennifer Nguyen\nSpeaker: Jennifer Nguyen\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/taking-a-peek-under-the-hood-interpreting-black-box-models~b2k4z/
-DURATION:PT30M
-DTSTART:20201002T125500Z
-SUMMARY:Taking a peek under the hood - Interpreting black box models - Jennifer Nguyen
-UID:19b2e28e-3be6-46cc-b37b-e2cff606f647@19b2.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:So\, You Want to Build an Anti-Virus Engine? - JunWei Song\nSpeaker: JunWei Song\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/so-you-want-to-build-an-anti-virus-engine~bDM6d/
-DURATION:PT30M
-DTSTART:20201003T082500Z
-SUMMARY:So\, You Want to Build an Anti-Virus Engine? - JunWei Song
-UID:ae43f8ca-3465-495e-b9c7-9f06e752aaab@ae43.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Static Typing in Python - Sanchit Balchandani\nSpeaker: Sanchit Balchandani\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/static-typing-in-python~axpPa/
-DURATION:PT30M
-DTSTART:20201003T095000Z
-SUMMARY:Static Typing in Python - Sanchit Balchandani
-UID:dddfec13-034e-4f66-a6d9-f06222fe49a8@dddf.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Developing a Single-Sign-On Service using Django - Vibhu Agarwal\nSpeaker: Vibhu Agarwal\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/developing-a-single-sign-on-service-using-django~b26Mb/
-DURATION:PT30M
-DTSTART:20201003T095000Z
-SUMMARY:Developing a Single-Sign-On Service using Django - Vibhu Agarwal
-UID:f20d3885-9916-4bec-b1a8-7c557ab49bc9@f20d.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Stop Writing Tests! - Zac Hatfield-Dodds\nSpeaker: Zac Hatfield-Dodds\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/stop-writing-tests~aKWGa/
-DURATION:PT30M
-DTSTART:20201002T075000Z
-SUMMARY:Stop Writing Tests! - Zac Hatfield-Dodds
-UID:e407ccea-efa7-4569-9d95-baf8dbab6bd1@e407.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Reproducible Scalable Workflows with Nix\, Papermill and Renku - Rohit Goswami\nSpeaker: Rohit Goswami\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/reproducible-scalable-workflows-with-nix-papermill-and-renku~dNkxD/
-DURATION:PT30M
-DTSTART:20201003T125500Z
-SUMMARY:Reproducible Scalable Workflows with Nix\, Papermill and Renku - Rohit Goswami
-UID:ad106a97-a934-4587-a493-4e0c13257e1a@ad10.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Keynote\n
-DURATION:PT1H
-DTSTART:20201003T133000Z
-SUMMARY:Keynote
-UID:1af5e7a3-8994-41e0-9956-b7c8db8a7eea@1af5.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Serverless Computing with Python - Wesley Chun\nSpeaker: Wesley Chun\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/serverless-computing-with-python~e5y8K/
-DURATION:PT30M
-DTSTART:20201002T075000Z
-SUMMARY:Serverless Computing with Python - Wesley Chun
-UID:2d15a921-6442-44dc-8a8f-3b4a54da4505@2d15.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Concurrency Patterns with Python - Anmol Jindal\nSpeaker: Anmol Jindal\nTrack: 3\nURL: https://in.pycon.org/cfp/2020/proposals/concurrency-patterns-with-python~e9r8B/
-DURATION:PT2H30M
-DTSTART:20201004T093000Z
-SUMMARY:Concurrency Patterns with Python - Anmol Jindal
-UID:290b70ba-0fff-4706-8dce-ba728fb4a811@290b.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Lightning Talks\n
-DURATION:PT30M
-DTSTART:20201003T102500Z
-SUMMARY:Lightning Talks
-UID:7193c0a1-a152-4eaa-a025-7d2b9ac6d82c@7193.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Animating Data in PowerPoint - Anand S\nSpeaker: Anand S\nTrack: 2\nURL: https://in.pycon.org/cfp/2020/proposals/animating-data-in-powerpoint~dyR6e/
-DURATION:PT2H30M
-DTSTART:20201004T093000Z
-SUMMARY:Animating Data in PowerPoint - Anand S
-UID:587abd98-819b-406c-ba79-b1cb37abe675@587a.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Networking\n
-DURATION:PT30M
-DTSTART:20201002T144000Z
-SUMMARY:Networking
-UID:28e9e313-e7ff-42ab-8fd4-1535fe32cd6e@28e9.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Pythonic Interfaces - The secret to building maintainable\, quality code! - Praveen Shirali\nSpeaker: Praveen Shirali\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/pythonic-interfaces-the-secret-to-building-maintainable-quality-code~bYjYd/
-DURATION:PT30M
-DTSTART:20201003T075000Z
-SUMMARY:Pythonic Interfaces - The secret to building maintainable\, quality code! - Praveen Shirali
-UID:8beb6307-01e3-41fd-9bad-64c2cad1cb54@8beb.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Break / Networking\n
-DURATION:PT20M
-DTSTART:20201003T120000Z
-SUMMARY:Break / Networking
-UID:4e2c293e-e117-45c6-a68d-056ad491f1cc@4e2c.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Programming for Accessibility - Rory Preddy\nSpeaker: Rory Preddy\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/programming-for-accessibility~dGGKd/
-DURATION:PT30M
-DTSTART:20201002T095000Z
-SUMMARY:Programming for Accessibility - Rory Preddy
-UID:c6ad63ec-d944-41df-924a-3356a0ffce1b@c6ad.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Write Prose\, not just Programs - Puneeth Chaganti\nSpeaker: Puneeth Chaganti\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/write-prose-not-just-programs~dGyJa/
-DURATION:PT30M
-DTSTART:20201002T122000Z
-SUMMARY:Write Prose\, not just Programs - Puneeth Chaganti
-UID:763e2809-66af-4fb7-866c-949209b11718@763e.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Getting Started with Python - Evan Smith\nSpeaker: Evan Smith\nTrack: 1\nURL: https://in.pycon.org/cfp/2020/proposals/getting-started-with-python~b4x8V/
-DURATION:PT2H30M
-DTSTART:20201004T060000Z
-SUMMARY:Getting Started with Python - Evan Smith
-UID:1862c2ad-7879-4102-a0c9-106f348ac6fd@1862.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:PyCon India 2020 Opening Address\n
-DURATION:PT10M
-DTSTART:20201002T063000Z
-SUMMARY:PyCon India 2020 Opening Address
-UID:1b1d4313-b3a0-4217-8866-fe3e32a19f58@1b1d.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Revolutionize the Web with Python - Brython - Antriksh Verma\nSpeaker: Antriksh Verma\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/revolutionize-the-web-with-python-brython~elYYg/
-DURATION:PT30M
-DTSTART:20201003T075000Z
-SUMMARY:Revolutionize the Web with Python - Brython - Antriksh Verma
-UID:aedf74c0-5d9a-498d-9e4b-e420c73de3f1@aedf.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Break / Networking\n
-DURATION:PT50M
-DTSTART:20201002T090000Z
-SUMMARY:Break / Networking
-UID:cd937d70-e165-436a-8f0e-6f3ee5d6f018@cd93.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
+DTSTAMP:20201001T100004Z
 DESCRIPTION:Break / Networking\n
 DURATION:PT1H
 DTSTART:20201004T083000Z
 SUMMARY:Break / Networking
-UID:f4c8a6c1-06bd-4d51-a534-1b102b5bd765@f4c8.org
+UID:58ea5160-c174-4b7f-9e6d-be3262474d7c@58ea.org
 URL:https://in.pycon.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Keynote - James Powell\nSpeaker: James Powell\n
-DURATION:PT1H
-DTSTART:20201003T110000Z
-SUMMARY:Keynote - James Powell
-UID:d1830eea-289f-4dd9-8b3c-0cda95583cf6@d183.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Python and cffi - Visualizing Network Traces - Abhijit Gadgil\nSpeaker: Abhijit Gadgil\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/python-and-cffi-visualizing-network-traces~aAy9a/
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Write Prose\, not just Programs - Puneeth Chaganti\nSpeaker: Puneeth Chaganti\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/write-prose-not-just-programs~dGyJa/
 DURATION:PT30M
-DTSTART:20201003T122000Z
-SUMMARY:Python and cffi - Visualizing Network Traces - Abhijit Gadgil
-UID:5d59ce5e-0144-4efe-8630-609c4385e658@5d59.org
+DTSTART:20201002T122000Z
+SUMMARY:Write Prose\, not just Programs - Puneeth Chaganti
+UID:7f4f3f8f-c850-4de3-9d99-c8602fb45b5c@7f4f.org
 URL:https://in.pycon.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:ApiVer – a versioning policy for libraries - Paweł Polewicz\nSpeaker: Paweł Polewicz\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/apiver-a-versioning-policy-for-libraries~eXmga/
-DURATION:PT30M
-DTSTART:20201002T125500Z
-SUMMARY:ApiVer – a versioning policy for libraries - Paweł Polewicz
-UID:6580f720-cd4b-46bc-bbb7-ef26e2286996@6580.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:PyCon India 2020 Closing Address\n
-DURATION:PT10M
-DTSTART:20201003T143000Z
-SUMMARY:PyCon India 2020 Closing Address
-UID:9792203e-5b27-4ba9-8d05-4b2d980fb549@9792.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:A deep dive and comparison of Python drivers for Cassandra and Scylla - Alexys Jacob\nSpeaker: Alexys Jacob\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/a-deep-dive-and-comparison-of-python-drivers-for-cassandra-and-scylla~azVya/
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Programming for Accessibility - Rory Preddy\nSpeaker: Rory Preddy\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/programming-for-accessibility~dGGKd/
 DURATION:PT30M
 DTSTART:20201002T095000Z
-SUMMARY:A deep dive and comparison of Python drivers for Cassandra and Scylla - Alexys Jacob
-UID:c9cdc33e-0a0a-4edc-a12a-88e7f9f1a5d9@c9cd.org
+SUMMARY:Programming for Accessibility - Rory Preddy
+UID:017225ee-47c4-45e0-8e5a-0a1abb336aa5@0172.org
 URL:https://in.pycon.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Combining NLP with Structured Data to map Clinical Entities to the relevant Section Headers in a Clinical Document - Sagar Dawda\nSpeaker: Sagar Dawda\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/combining-nlp-with-structured-data-to-map-clinical-entities-to-the-relevant-section-headers-in-a-clinical-document~bkRRN/
+DTSTAMP:20201001T100004Z
+DESCRIPTION:A thousand Djangoes within (or Django multi-tenant) - Lorenzo Peña\nSpeaker: Lorenzo Peña\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/a-thousand-djangos-within-or-django-multi-tenant~b4g7a/
 DURATION:PT30M
 DTSTART:20201002T125500Z
-SUMMARY:Combining NLP with Structured Data to map Clinical Entities to the relevant Section Headers in a Clinical Document - Sagar Dawda
-UID:bf72980b-981f-4df2-9727-0ca9ac18958f@bf72.org
+SUMMARY:A thousand Djangoes within (or Django multi-tenant) - Lorenzo Peña
+UID:ef88ad8b-afec-4dc9-b06c-f0bcb5f0b9db@ef88.org
 URL:https://in.pycon.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Break / Networking\n
-DURATION:PT20M
-DTSTART:20201002T120000Z
-SUMMARY:Break / Networking
-UID:98b2af3b-1e00-4f7a-bc09-bf4b91ac12ee@98b2.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:PyCon India 2020 Day 1 Closing Address\n
-DURATION:PT10M
-DTSTART:20201002T143000Z
-SUMMARY:PyCon India 2020 Day 1 Closing Address
-UID:b5ef8713-dee6-43a1-9f84-d682283fab5c@b5ef.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Creating real-world simulations using Numpy\, SciPy and Matplotlib - Ashok Govindarajan\nSpeaker: Ashok Govindarajan\nTrack: 3\nURL: https://in.pycon.org/cfp/2020/proposals/creating-real-world-simulations-using-numpy-scipy-and-matplotlib~e0Rgy/
-DURATION:PT2H30M
-DTSTART:20201004T060000Z
-SUMMARY:Creating real-world simulations using Numpy\, SciPy and Matplotlib - Ashok Govindarajan
-UID:fc6fe04c-9b5c-4fad-95cb-203754429674@fc6f.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
+DTSTAMP:20201001T100004Z
 DESCRIPTION:Build plugins using Pluggy - Kracekumar Ramaraju\nSpeaker: Kracekumar Ramaraju\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/build-plugins-using-pluggy~eZ3ga/
 DURATION:PT30M
 DTSTART:20201003T095000Z
 SUMMARY:Build plugins using Pluggy - Kracekumar Ramaraju
-UID:fde0f793-1df9-447c-834d-b86bb833eb54@fde0.org
+UID:f10a81ea-14f6-4b21-97e8-2e7ef8fab0fe@f10a.org
 URL:https://in.pycon.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Understand Heap Memory layout with pwndbg - Rohit Keshri\nSpeaker: Rohit Keshri\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/understand-heap-memory-layout-with-pwndbg~dBzQd/
-DURATION:PT30M
-DTSTART:20201002T075000Z
-SUMMARY:Understand Heap Memory layout with pwndbg - Rohit Keshri
-UID:b17aec00-2919-4239-b633-43555c0cb28d@b17a.org
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Fun with Melding Java and Python - Stephen Payne | Sponsored (D. E. Shaw)\nSpeaker: Stephen Payne | Sponsored (D. E. Shaw)\nTrack: Delhi\n
+DURATION:PT15M
+DTSTART:20201003T084000Z
+SUMMARY:Fun with Melding Java and Python - Stephen Payne | Sponsored (D. E. Shaw)
+UID:3ff4c2c3-f338-4d2a-88cf-66a2ac0c1c26@3ff4.org
 URL:https://in.pycon.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Publishing well-formed Python packages - Julin S\nSpeaker: Julin S\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/publishing-well-formed-python-packages~egrrd/
-DURATION:PT30M
-DTSTART:20201002T095000Z
-SUMMARY:Publishing well-formed Python packages - Julin S
-UID:b97fb9e3-9353-492b-84e6-8a0e1b4a617d@b97f.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Predicting the Traffic Jam - Congestion-Aware Routing - Niharika Shrivastava\nSpeaker: Niharika Shrivastava\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/predicting-the-traffic-jam-congestion-aware-routing~dGD5e/
-DURATION:PT30M
-DTSTART:20201002T095000Z
-SUMMARY:Predicting the Traffic Jam - Congestion-Aware Routing - Niharika Shrivastava
-UID:11676762-44eb-4e34-bf52-6d336162edd5@1167.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:A thousand Django's within (or Django multi-tenant) - Lorenzo Peña\nSpeaker: Lorenzo Peña\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/a-thousand-djangos-within-or-django-multi-tenant~b4g7a/
-DURATION:PT30M
-DTSTART:20201002T125500Z
-SUMMARY:A thousand Django's within (or Django multi-tenant) - Lorenzo Peña
-UID:ea5d2143-9c3e-423c-a8b0-c58e574c1139@ea5d.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Under and Dunder - Python secret functions - Cheuk Ting Ho\nSpeaker: Cheuk Ting Ho\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/under-and-dunder-python-secret-functions~dwMra/
-DURATION:PT30M
-DTSTART:20201002T082500Z
-SUMMARY:Under and Dunder - Python secret functions - Cheuk Ting Ho
-UID:1e41ebaa-585b-4bfb-ac2a-5088f47f925d@1e41.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Keynote - Victor Stinner\nSpeaker: Victor Stinner\n
-DURATION:PT1H
-DTSTART:20201002T110000Z
-SUMMARY:Keynote - Victor Stinner
-UID:54349e29-8b62-48e9-a251-810c4c495d06@5434.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Keynote - Alolita Sharma\nSpeaker: Alolita Sharma\n
-DURATION:PT1H
-DTSTART:20201003T064500Z
-SUMMARY:Keynote - Alolita Sharma
-UID:1c254a31-0a9f-4a22-a67f-a7309ecad8f7@1c25.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
+DTSTAMP:20201001T100004Z
 DESCRIPTION:Break / Networking\n
 DURATION:PT50M
-DTSTART:20201003T090000Z
+DTSTART:20201002T090000Z
 SUMMARY:Break / Networking
-UID:ca0d9045-3dcf-43bc-aa9b-2d024815d943@ca0d.org
+UID:471485a2-efb5-43fe-838d-ff56cc4fe3f2@4714.org
 URL:https://in.pycon.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:How Decorators Function - Andrew Knight\nSpeaker: Andrew Knight\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/how-decorators-function~bYEp2/
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Awesome Commandline Tools - Amjith Ramanujam\nSpeaker: Amjith Ramanujam\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/awesome-commandline-tools~eZlQb/
 DURATION:PT30M
 DTSTART:20201003T125500Z
-SUMMARY:How Decorators Function - Andrew Knight
-UID:040b71ce-e7a2-425b-af73-441fcd3c2a8d@040b.org
+SUMMARY:Awesome Commandline Tools - Amjith Ramanujam
+UID:6f55143c-f7be-4ba8-ad3f-cad55f402012@6f55.org
 URL:https://in.pycon.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:PyCon India 2020 Day 2 Opening Address\n
-DURATION:PT10M
-DTSTART:20201003T063000Z
-SUMMARY:PyCon India 2020 Day 2 Opening Address
-UID:efa0f13e-aa4b-4ace-b931-679b6905f28f@efa0.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Python for Computational Social Science with Text\, Networks and clever data games - Bhargav Srinivasa\nSpeaker: Bhargav Srinivasa\nTrack: 2\nURL: https://in.pycon.org/cfp/2020/proposals/python-for-computational-social-science-with-text-networks-and-clever-data-games~dyPPE/
-DURATION:PT2H30M
-DTSTART:20201004T060000Z
-SUMMARY:Python for Computational Social Science with Text\, Networks and clever data games - Bhargav Srinivasa
-UID:ff3e0725-32a9-4984-b2ad-39fa9e5e5af1@ff3e.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Towards a more transparent AI - Decrypting ML models using LIME - Laisha Wadhwa\nSpeaker: Laisha Wadhwa\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/towards-a-more-transparent-ai-decrypting-ml-models-using-lime~eV8zb/
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Array Time Travel with Versioned HDF5 - Arvid Bessen | Sponsored (D. E. Shaw)\nSpeaker: Arvid Bessen | Sponsored (D. E. Shaw)\nTrack: Delhi\n
 DURATION:PT30M
 DTSTART:20201002T122000Z
-SUMMARY:Towards a more transparent AI - Decrypting ML models using LIME - Laisha Wadhwa
-UID:60681df7-1f9b-44e5-bec4-092b10faf7ea@6068.org
+SUMMARY:Array Time Travel with Versioned HDF5 - Arvid Bessen | Sponsored (D. E. Shaw)
+UID:816f32e2-c4a9-4617-a974-8e25e8950363@816f.org
 URL:https://in.pycon.org/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Hands On: Containerizing Python and Deploying to IoT and Edge Devices - David T\nSpeaker: David T\nTrack: 4\nURL: https://in.pycon.org/cfp/2020/proposals/hands-on-containerizing-python-and-deploying-to-iot-and-edge-devices~egJYk/
-DURATION:PT2H30M
-DTSTART:20201004T060000Z
-SUMMARY:Hands On: Containerizing Python and Deploying to IoT and Edge Devices - David T
-UID:6e250360-bb28-4fcf-98cf-d7426dc7c103@6e25.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Python Emergency Remote Teaching - Fernando Masanori Ashikaga\nSpeaker: Fernando Masanori Ashikaga\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/python-emergency-remote-teaching~aOOEa/
-DURATION:PT30M
-DTSTART:20201003T082500Z
-SUMMARY:Python Emergency Remote Teaching - Fernando Masanori Ashikaga
-UID:657072ff-0aa1-44ea-81da-9e45dad0cf6e@6570.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Building an Home Automation system using PyQT\, MQTT and Arduino - Harsh Mittal\nSpeaker: Harsh Mittal\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/building-an-home-automation-system-using-pyqt-mqtt-and-arduino~bqw7e/
-DURATION:PT30M
-DTSTART:20201003T095000Z
-SUMMARY:Building an Home Automation system using PyQT\, MQTT and Arduino - Harsh Mittal
-UID:09f728e8-ed6a-41ed-8bb1-8b44b580612f@09f7.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:How I built a Ray Tracer in Pure Python - Arun Ravindran\nSpeaker: Arun Ravindran\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/how-i-built-a-ray-tracer-in-pure-python~e045e/
-DURATION:PT30M
-DTSTART:20201003T075000Z
-SUMMARY:How I built a Ray Tracer in Pure Python - Arun Ravindran
-UID:e2a322b8-c8fd-4d42-96ca-1d2b682704e6@e2a3.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Python on Kubernetes: A primer - Nabarun Pal\nSpeaker: Nabarun Pal\nTrack: 1\nURL: https://in.pycon.org/cfp/2020/proposals/python-on-kubernetes-a-primer~aOY7Y/
-DURATION:PT2H30M
-DTSTART:20201004T093000Z
-SUMMARY:Python on Kubernetes: A primer - Nabarun Pal
-UID:85f56f98-ff26-44b5-aa32-3bdbd0dbf855@85f5.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Resource Utilization as a Metric for Machine Learning - Akshay Bahadur\nSpeaker: Akshay Bahadur\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/resource-utilization-as-a-metric-for-machine-learning~aKP8b/
-DURATION:PT30M
-DTSTART:20201003T122000Z
-SUMMARY:Resource Utilization as a Metric for Machine Learning - Akshay Bahadur
-UID:c3b6f31f-3880-41ee-bbe8-d9cdea5194cf@c3b6.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
-DESCRIPTION:Logging the right way! - Devi A S L\nSpeaker: Devi A S L\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/logging-the-right-way~dPN11/
-DURATION:PT30M
-DTSTART:20201003T122000Z
-SUMMARY:Logging the right way! - Devi A S L
-UID:3e6f27c4-1735-4e06-93fa-a986a2a02ce4@3e6f.org
-URL:https://in.pycon.org/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20200916T232641Z
+DTSTAMP:20201001T100004Z
 DESCRIPTION:Discrete Probability Distributions - Learning & Testing using tools from Fourier Analysis - Bala Priya C\nSpeaker: Bala Priya C\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/discrete-probability-distributions-learning-testing-using-tools-from-fourier-analysis~aQ3Gd/
 DURATION:PT30M
 DTSTART:20201002T082500Z
 SUMMARY:Discrete Probability Distributions - Learning & Testing using tools from Fourier Analysis - Bala Priya C
-UID:9492994a-560b-4db4-a4ca-72566ce474d4@9492.org
+UID:6861342c-333c-4b1c-b799-92c562382617@6861.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Developing a Single-Sign-On Service using Django - Vibhu Agarwal\nSpeaker: Vibhu Agarwal\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/developing-a-single-sign-on-service-using-django~b26Mb/
+DURATION:PT30M
+DTSTART:20201003T095000Z
+SUMMARY:Developing a Single-Sign-On Service using Django - Vibhu Agarwal
+UID:a1e71cb9-bcb3-4966-8ce3-7096803be3c0@a1e7.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Python and cffi - Visualizing Network Traces - Abhijit Gadgil\nSpeaker: Abhijit Gadgil\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/python-and-cffi-visualizing-network-traces~aAy9a/
+DURATION:PT30M
+DTSTART:20201003T122000Z
+SUMMARY:Python and cffi - Visualizing Network Traces - Abhijit Gadgil
+UID:e22b6f8f-35fb-4487-84a0-4ea7515258aa@e22b.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Python on Kubernetes: A primer - Nabarun Pal\nSpeaker: Nabarun Pal\nTrack: 1\nURL: https://in.pycon.org/cfp/2020/proposals/python-on-kubernetes-a-primer~aOY7Y/
+DURATION:PT2H30M
+DTSTART:20201004T093000Z
+SUMMARY:Python on Kubernetes: A primer - Nabarun Pal
+UID:1af5132c-3c37-4b96-afc0-aa5183859abf@1af5.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Towards a more transparent AI - Decrypting ML models using LIME - Laisha Wadhwa\nSpeaker: Laisha Wadhwa\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/towards-a-more-transparent-ai-decrypting-ml-models-using-lime~eV8zb/
+DURATION:PT30M
+DTSTART:20201002T122000Z
+SUMMARY:Towards a more transparent AI - Decrypting ML models using LIME - Laisha Wadhwa
+UID:6eb0fc02-533e-40a9-ba52-a3e0ea32c605@6eb0.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:PyCon India 2020 Day 1 Closing Address\n
+DURATION:PT10M
+DTSTART:20201002T143000Z
+SUMMARY:PyCon India 2020 Day 1 Closing Address
+UID:b0e820ad-91c8-4e92-910d-baf2eb73db00@b0e8.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Pythonic Interfaces - The secret to building maintainable\, quality code! - Praveen Shirali\nSpeaker: Praveen Shirali\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/pythonic-interfaces-the-secret-to-building-maintainable-quality-code~bYjYd/
+DURATION:PT30M
+DTSTART:20201003T075000Z
+SUMMARY:Pythonic Interfaces - The secret to building maintainable\, quality code! - Praveen Shirali
+UID:b20ce86b-9a2a-443e-a159-22c0de446fb7@b20c.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Time Series Forecasting on CoronaVirus Dataset - Sonam pankaj\nSpeaker: Sonam pankaj\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/time-series-forecasting-on-coronavirus-dataset~b2jAb/
+DURATION:PT30M
+DTSTART:20201003T082500Z
+SUMMARY:Time Series Forecasting on CoronaVirus Dataset - Sonam pankaj
+UID:515cc489-85f8-4a1d-9fa6-1835e47532ef@515c.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Lightning Talks\n
+DURATION:PT30M
+DTSTART:20201002T102500Z
+SUMMARY:Lightning Talks
+UID:e0a3f267-1ee8-4d57-8e02-90c05c952c09@e0a3.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Python Emergency Remote Teaching - Fernando Masanori Ashikaga\nSpeaker: Fernando Masanori Ashikaga\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/python-emergency-remote-teaching~aOOEa/
+DURATION:PT30M
+DTSTART:20201003T082500Z
+SUMMARY:Python Emergency Remote Teaching - Fernando Masanori Ashikaga
+UID:6bae70dc-a5a6-4ba8-bd19-5e8aa0f9495d@6bae.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Predicting the Traffic Jam - Congestion-Aware Routing - Niharika Shrivastava\nSpeaker: Niharika Shrivastava\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/predicting-the-traffic-jam-congestion-aware-routing~dGD5e/
+DURATION:PT30M
+DTSTART:20201002T095000Z
+SUMMARY:Predicting the Traffic Jam - Congestion-Aware Routing - Niharika Shrivastava
+UID:56a8ffce-60d9-4eeb-af56-d73e72102f88@56a8.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Python & Programmable Logic Controllers - A Step by Step Guide - Jonas Neubert\nSpeaker: Jonas Neubert\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/python-programmable-logic-controllers-a-step-by-step-guide~dwp98/
+DURATION:PT30M
+DTSTART:20201002T075000Z
+SUMMARY:Python & Programmable Logic Controllers - A Step by Step Guide - Jonas Neubert
+UID:462b1f26-1e85-4768-9409-36d19c570680@462b.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Combining NLP with Structured Data to map Clinical Entities to the relevant Section Headers in a Clinical Document - Sagar Dawda\nSpeaker: Sagar Dawda\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/combining-nlp-with-structured-data-to-map-clinical-entities-to-the-relevant-section-headers-in-a-clinical-document~bkRRN/
+DURATION:PT30M
+DTSTART:20201003T125500Z
+SUMMARY:Combining NLP with Structured Data to map Clinical Entities to the relevant Section Headers in a Clinical Document - Sagar Dawda
+UID:da0bdb64-51c4-44f3-9ecb-65226d453100@da0b.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Stop Writing Tests! - Zac Hatfield-Dodds\nSpeaker: Zac Hatfield-Dodds\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/stop-writing-tests~aKWGa/
+DURATION:PT30M
+DTSTART:20201002T075000Z
+SUMMARY:Stop Writing Tests! - Zac Hatfield-Dodds
+UID:bbce749a-d32c-4b2b-b247-7ff4a295f5d4@bbce.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Keynote - Terri Oda\nSpeaker: Terri Oda\n
+DURATION:PT1H
+DTSTART:20201003T133000Z
+SUMMARY:Keynote - Terri Oda
+UID:3ee18dd5-90bd-41ba-89a0-a5ad37b5e956@3ee1.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Static Typing in Python - Sanchit Balchandani\nSpeaker: Sanchit Balchandani\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/static-typing-in-python~axpPa/
+DURATION:PT30M
+DTSTART:20201003T095000Z
+SUMMARY:Static Typing in Python - Sanchit Balchandani
+UID:27a1b2c2-b47a-4831-89be-5ef8f3e9e320@27a1.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Reproducible Scalable Workflows with Nix\, Papermill and Renku - Rohit Goswami\nSpeaker: Rohit Goswami\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/reproducible-scalable-workflows-with-nix-papermill-and-renku~dNkxD/
+DURATION:PT30M
+DTSTART:20201003T125500Z
+SUMMARY:Reproducible Scalable Workflows with Nix\, Papermill and Renku - Rohit Goswami
+UID:888db2cc-2fbd-4f5b-947c-4d0c41b221a0@888d.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Building an Home Automation system using PyQt\, MQTT and Arduino - Harsh Mittal\nSpeaker: Harsh Mittal\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/building-an-home-automation-system-using-pyqt-mqtt-and-arduino~bqw7e/
+DURATION:PT30M
+DTSTART:20201003T095000Z
+SUMMARY:Building an Home Automation system using PyQt\, MQTT and Arduino - Harsh Mittal
+UID:d38472eb-5934-4064-a7a4-154e962ba7ff@d384.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Meme Saheb - Using Dank Learning to Generate Original Meme Captions - Rumanu Bhardwaj\nSpeaker: Rumanu Bhardwaj\nTrack: 3\nURL: https://in.pycon.org/cfp/2020/proposals/meme-saheb-using-dank-learning-to-generate-original-meme-captions~bkR5N/
+DURATION:PT2H30M
+DTSTART:20201004T060000Z
+SUMMARY:Meme Saheb - Using Dank Learning to Generate Original Meme Captions - Rumanu Bhardwaj
+UID:3e13c98b-a9e5-4ca0-afd0-fb97c475725e@3e13.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Getting Started with Python - Evan Smith\nSpeaker: Evan Smith\nTrack: 1\nURL: https://in.pycon.org/cfp/2020/proposals/getting-started-with-python~b4x8V/
+DURATION:PT2H30M
+DTSTART:20201004T060000Z
+SUMMARY:Getting Started with Python - Evan Smith
+UID:bedcd2f3-6eb2-44fe-b658-6effa692a8c7@bedc.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Publishing well-formed Python packages - Julin S\nSpeaker: Julin S\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/publishing-well-formed-python-packages~egrrd/
+DURATION:PT30M
+DTSTART:20201002T095000Z
+SUMMARY:Publishing well-formed Python packages - Julin S
+UID:c236345b-4f15-4b15-91cd-cde008723f59@c236.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Revolutionize the Web with Python - Brython - Antriksh Verma\nSpeaker: Antriksh Verma\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/revolutionize-the-web-with-python-brython~elYYg/
+DURATION:PT30M
+DTSTART:20201003T075000Z
+SUMMARY:Revolutionize the Web with Python - Brython - Antriksh Verma
+UID:6aae20b3-64d6-4279-9ffe-a00563cebab2@6aae.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:How I built a Ray Tracer in Pure Python - Arun Ravindran\nSpeaker: Arun Ravindran\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/how-i-built-a-ray-tracer-in-pure-python~e045e/
+DURATION:PT30M
+DTSTART:20201003T075000Z
+SUMMARY:How I built a Ray Tracer in Pure Python - Arun Ravindran
+UID:09e1d60b-3112-4774-827f-02989cea1c81@09e1.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Narrative-focused video games development with Ren'Py\, an open source engine - Susan Shu Chang\nSpeaker: Susan Shu Chang\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/narrative-focused-video-games-development-with-renpy-an-open-source-engine~az0qd/
+DURATION:PT30M
+DTSTART:20201003T125500Z
+SUMMARY:Narrative-focused video games development with Ren'Py\, an open source engine - Susan Shu Chang
+UID:5f9e9bb9-0f32-4863-81f3-dd6e05d2b81e@5f9e.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Concurrency Patterns with Python - Anmol Jindal\nSpeaker: Anmol Jindal\nTrack: 3\nURL: https://in.pycon.org/cfp/2020/proposals/concurrency-patterns-with-python~e9r8B/
+DURATION:PT2H30M
+DTSTART:20201004T093000Z
+SUMMARY:Concurrency Patterns with Python - Anmol Jindal
+UID:b0197b81-51e0-41b9-b488-f9cbf1ec4b91@b019.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Keynote - James Powell\nSpeaker: James Powell\n
+DURATION:PT1H
+DTSTART:20201003T110000Z
+SUMMARY:Keynote - James Powell
+UID:0f1fb581-1647-4a8e-82ba-9dd7b6cb2ac8@0f1f.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Resource Utilization as a Metric for Machine Learning - Akshay Bahadur\nSpeaker: Akshay Bahadur\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/resource-utilization-as-a-metric-for-machine-learning~aKP8b/
+DURATION:PT30M
+DTSTART:20201003T122000Z
+SUMMARY:Resource Utilization as a Metric for Machine Learning - Akshay Bahadur
+UID:8f7309c7-b0cd-496c-baf7-31bbba8cc800@8f73.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Break / Networking\n
+DURATION:PT20M
+DTSTART:20201002T120000Z
+SUMMARY:Break / Networking
+UID:af1dddc7-111a-45c7-8cfd-93fbd4341d21@af1d.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Keynote - Naomi Ceder\nSpeaker: Naomi Ceder\n
+DURATION:PT1H
+DTSTART:20201002T133000Z
+SUMMARY:Keynote - Naomi Ceder
+UID:e652d560-579a-4d08-b984-857b9cf16899@e652.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:A deep dive and comparison of Python drivers for Cassandra and Scylla - Alexys Jacob\nSpeaker: Alexys Jacob\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/a-deep-dive-and-comparison-of-python-drivers-for-cassandra-and-scylla~azVya/
+DURATION:PT30M
+DTSTART:20201002T095000Z
+SUMMARY:A deep dive and comparison of Python drivers for Cassandra and Scylla - Alexys Jacob
+UID:89dedeff-f955-4e1a-b7e8-fa92bdc08581@89de.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Taking a peek under the hood - Interpreting black box models - Jennifer Nguyen\nSpeaker: Jennifer Nguyen\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/taking-a-peek-under-the-hood-interpreting-black-box-models~b2k4z/
+DURATION:PT30M
+DTSTART:20201002T125500Z
+SUMMARY:Taking a peek under the hood - Interpreting black box models - Jennifer Nguyen
+UID:5348fffc-0f51-48c9-841d-cacae39f67fc@5348.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:ApiVer – a versioning policy for libraries - Paweł Polewicz\nSpeaker: Paweł Polewicz\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/apiver-a-versioning-policy-for-libraries~eXmga/
+DURATION:PT30M
+DTSTART:20201002T125500Z
+SUMMARY:ApiVer – a versioning policy for libraries - Paweł Polewicz
+UID:cb1e99db-9e74-4036-bd04-75dd7ce181b8@cb1e.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Logging the right way! - Devi A S L\nSpeaker: Devi A S L\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/logging-the-right-way~dPN11/
+DURATION:PT30M
+DTSTART:20201003T122000Z
+SUMMARY:Logging the right way! - Devi A S L
+UID:8526f671-aca5-444a-9b3b-e63b3c4f44bd@8526.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:PyCon India 2020 Day 2 Opening Address\n
+DURATION:PT10M
+DTSTART:20201003T063000Z
+SUMMARY:PyCon India 2020 Day 2 Opening Address
+UID:88d9e912-54ab-4bf6-b6a2-c739891cc78b@88d9.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Lightning Talks\n
+DURATION:PT30M
+DTSTART:20201003T102500Z
+SUMMARY:Lightning Talks
+UID:f56aab10-b4ad-44a4-acd5-0f535d5b6c56@f56a.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Under and Dunder - Python secret functions - Cheuk Ting Ho\nSpeaker: Cheuk Ting Ho\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/under-and-dunder-python-secret-functions~dwMra/
+DURATION:PT30M
+DTSTART:20201002T082500Z
+SUMMARY:Under and Dunder - Python secret functions - Cheuk Ting Ho
+UID:b5bcd7bb-bd6d-4e38-a7e7-fee58a0e8c31@b5bc.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Break / Networking\n
+DURATION:PT20M
+DTSTART:20201003T120000Z
+SUMMARY:Break / Networking
+UID:8511594d-a5b6-4af7-afcd-0059b9e109ac@8511.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Break / Networking\n
+DURATION:PT50M
+DTSTART:20201003T090000Z
+SUMMARY:Break / Networking
+UID:9b5d7b29-4f22-485d-80ce-ee35c3ed65db@9b5d.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:How Decorators Function - Andrew Knight\nSpeaker: Andrew Knight\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/how-decorators-function~bYEp2/
+DURATION:PT30M
+DTSTART:20201002T125500Z
+SUMMARY:How Decorators Function - Andrew Knight
+UID:ef8a057f-0c7f-44fe-a11c-c81542aab7fe@ef8a.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Hands On: Containerizing Python and Deploying to IoT and Edge Devices - David T\, Vipul G\nSpeaker: David T\, Vipul G\nTrack: 4\nURL: https://in.pycon.org/cfp/2020/proposals/hands-on-containerizing-python-and-deploying-to-iot-and-edge-devices~egJYk/
+DURATION:PT2H30M
+DTSTART:20201004T060000Z
+SUMMARY:Hands On: Containerizing Python and Deploying to IoT and Edge Devices - David T\, Vipul G
+UID:830b08bf-6ec4-4593-8ff9-4c54931df55b@830b.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Animating Data in PowerPoint - Anand S\nSpeaker: Anand S\nTrack: 2\nURL: https://in.pycon.org/cfp/2020/proposals/animating-data-in-powerpoint~dyR6e/
+DURATION:PT2H30M
+DTSTART:20201004T093000Z
+SUMMARY:Animating Data in PowerPoint - Anand S
+UID:c778c2c7-35cc-4069-ae8f-693508862394@c778.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:PyCon India 2020 Opening Address\n
+DURATION:PT10M
+DTSTART:20201002T063000Z
+SUMMARY:PyCon India 2020 Opening Address
+UID:81fa246e-94f7-4348-be8e-223ec68b28df@81fa.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Keynote - Victor Stinner\nSpeaker: Victor Stinner\n
+DURATION:PT1H
+DTSTART:20201002T110000Z
+SUMMARY:Keynote - Victor Stinner
+UID:ae94008e-a975-4787-9cc4-ad884e51a317@ae94.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:To Identity and Beyond - Ben Dechrai | Sponsored (Auth0)\nSpeaker: Ben Dechrai | Sponsored (Auth0)\nTrack: Delhi\n
+DURATION:PT30M
+DTSTART:20201003T122000Z
+SUMMARY:To Identity and Beyond - Ben Dechrai | Sponsored (Auth0)
+UID:268df187-adf2-4f30-90fe-d78d33f08160@268d.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Keynote - S Anand\nSpeaker: S Anand\n
+DURATION:PT1H
+DTSTART:20201002T064500Z
+SUMMARY:Keynote - S Anand
+UID:564940c8-6f21-4c34-9257-7f4375747c0e@5649.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Understand Heap Memory layout with pwndbg - Rohit Keshri\nSpeaker: Rohit Keshri\nTrack: Delhi\nURL: https://in.pycon.org/cfp/2020/proposals/understand-heap-memory-layout-with-pwndbg~dBzQd/
+DURATION:PT30M
+DTSTART:20201002T075000Z
+SUMMARY:Understand Heap Memory layout with pwndbg - Rohit Keshri
+UID:f8593fee-e4db-4888-828f-6bf7bd951166@f859.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Python for Computational Social Science with Text\, Networks and clever data games - Bhargav Srinivasa\nSpeaker: Bhargav Srinivasa\nTrack: 2\nURL: https://in.pycon.org/cfp/2020/proposals/python-for-computational-social-science-with-text-networks-and-clever-data-games~dyPPE/
+DURATION:PT2H30M
+DTSTART:20201004T060000Z
+SUMMARY:Python for Computational Social Science with Text\, Networks and clever data games - Bhargav Srinivasa
+UID:3e634059-7720-44bf-ab6f-b2d6cab75190@3e63.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:How to build a production-ready distributed task queue management system with celery - Vishrut Kohli\nSpeaker: Vishrut Kohli\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/how-to-build-a-production-ready-distributed-task-queue-management-system-with-celery~e5qYe/
+DURATION:PT30M
+DTSTART:20201002T082500Z
+SUMMARY:How to build a production-ready distributed task queue management system with celery - Vishrut Kohli
+UID:359df705-5e5b-4f12-96c5-1f678adb2de7@359d.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Productionizing Data Science Workloads - Anand Iragavarapu | Sponsored (EPAM)\nSpeaker: Anand Iragavarapu | Sponsored (EPAM)\nTrack: Delhi\n
+DURATION:PT15M
+DTSTART:20201003T082500Z
+SUMMARY:Productionizing Data Science Workloads - Anand Iragavarapu | Sponsored (EPAM)
+UID:2989315f-f801-4035-9886-ddb034036ef2@2989.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Keynote - Alolita Sharma\nSpeaker: Alolita Sharma\n
+DURATION:PT1H
+DTSTART:20201003T064500Z
+SUMMARY:Keynote - Alolita Sharma
+UID:198a35f1-5638-4d8e-a3a8-35428b5e2775@198a.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:So\, You Want to Build an Anti-Virus Engine? - JunWei Song\,<br/> YuShiang Dang\nSpeaker: JunWei Song\,<br/> YuShiang Dang\nTrack: Bengaluru\nURL: https://in.pycon.org/cfp/2020/proposals/so-you-want-to-build-an-anti-virus-engine~bDM6d/
+DURATION:PT30M
+DTSTART:20201003T082500Z
+SUMMARY:So\, You Want to Build an Anti-Virus Engine? - JunWei Song\,<br/> YuShiang Dang
+UID:9e5451d5-2f0e-4d2e-9c63-344df891e643@9e54.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Networking\n
+DURATION:PT30M
+DTSTART:20201002T144000Z
+SUMMARY:Networking
+UID:c93b76d7-c42f-461c-a5d9-29bd1ab012e0@c93b.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:PyCon India 2020 Closing Address\n
+DURATION:PT10M
+DTSTART:20201003T143000Z
+SUMMARY:PyCon India 2020 Closing Address
+UID:4d8e0e04-3a35-472a-a525-a58ecedab6a6@4d8e.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:How to make continuous integration work with machine learning - Elle O'Brien\nSpeaker: Elle O'Brien\nTrack: Hyderabad\nURL: https://in.pycon.org/cfp/2020/proposals/how-to-make-continuous-integration-work-with-machine-learning~avK5b/
+DURATION:PT30M
+DTSTART:20201003T075000Z
+SUMMARY:How to make continuous integration work with machine learning - Elle O'Brien
+UID:e43955a9-7318-4a9d-a334-aab388c19ced@e439.org
+URL:https://in.pycon.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201001T100004Z
+DESCRIPTION:Serverless Computing with Python - Wesley Chun\nSpeaker: Wesley Chun\nTrack: Chennai\nURL: https://in.pycon.org/cfp/2020/proposals/serverless-computing-with-python~e5y8K/
+DURATION:PT30M
+DTSTART:20201002T075000Z
+SUMMARY:Serverless Computing with Python - Wesley Chun
+UID:1faa0ef8-7eed-4d8e-80a8-c8835ac60cf4@1faa.org
 URL:https://in.pycon.org/
 END:VEVENT
 END:VCALENDAR
