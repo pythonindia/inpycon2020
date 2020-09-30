@@ -323,14 +323,24 @@
   type: talk
   duration: 30
 
-- title:
+- title: Productionizing Data Science Workloads
   track: Delhi
   date: 3rd Oct
   time: "13:55"
-  speaker:
+  speaker: Anand Iragavarapu | Sponsored (EPAM)
   hyperlink:
   type: talk
-  duration: 30
+  duration: 15
+
+
+- title: Fun with Melding Java and Python
+  track: Delhi
+  date: 3rd Oct
+  time: "14:10"
+  speaker: Stephen Payne | Sponsored (DeShaw)
+  hyperlink:
+  type: talk
+  duration: 15
 
 - title: Break / Networking
   track: all
@@ -424,11 +434,11 @@
   type: talk
   duration: 30
 
-- title:
+- title: "To Identity and Beyond"
   track: Delhi
   date: 3rd Oct
   time: "17:50"
-  speaker:
+  speaker: "Ben Dechrai | Sponsored (Auth0)"
   type: talk
   duration: 30
 
