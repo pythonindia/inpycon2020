@@ -1,4 +1,4 @@
-# PyCon India 2020 Website
+# PyCon India 2020 Website an amazing start
 
 This is the repo for PyCon India 2020's website.
 
@@ -9,7 +9,7 @@ is going online this year.
 - Workshops: October 4
 - Dev Sprints: October 4-5
 
-## Getting Started
+## Ready for dive into a new journey
 
 This site is built with [Jekyll](https://jekyllrb.com/). For a basic introduction to git and GitHub you can follow https://guides.github.com/introduction/git-handbook/
 
