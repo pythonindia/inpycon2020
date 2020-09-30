@@ -69,19 +69,25 @@
             </div>
             <div class="flex justify-start schedule-content">
               {% for talk in talks %}
-              <div
-                class="talk-content
-                  {% if talk.type == 'keynote' or talk.type == 'address' %}
-                    special
-                  {% endif %}
-                  track-{{ talk.track }}">
-                <div class="talk-title" >
-                  <a {% if talk.hyperlink %}href="{{ talk.hyperlink }}"{% endif %}>{{ talk.title }}</a>
-                  <small class="talk-speaker">
-                    {{ talk.speaker }}
-                  </small>
+                <div
+                  class="talk-content
+                    {% if talk.type == 'keynote' or talk.type == 'address' %}
+                      special
+                    {% endif %}
+                    track-{{ talk.track }}"
+                    {% if talk.date== '3rd Oct' and talk.time == '13:55' and talk.duration == 30 %}
+                      style="height: calc(200% - 1.3rem);"
+                    {% endif %}
+                    {% if talk.time == '14:10' %}
+                      style="margin-left: auto;"
+                    {% endif %}>
+                  <div class="talk-title" >
+                    <a {% if talk.hyperlink %}href="{{ talk.hyperlink }}"{% endif %}>{{ talk.title }}</a>
+                    <small class="talk-speaker">
+                      {{ talk.speaker }}
+                    </small>
+                  </div>
                 </div>
-              </div>
               {% endfor %}
             </div>
           </div>
