@@ -76,6 +76,14 @@
     Thank you PyCon India.
   hyperlink: https://essentiasoftserv.com/
 
+- name: JetBrains
+  level: silver
+  logo: /assets/images/sponsors/jetbrains.png
+  description: |
+    JetBrains is a global software vendor that creates professional software development tools and advanced collaboration solutions trusted by 8 million users.
+    Since 2000, JetBrains has built a catalog of 28 products, including IntelliJ IDEA, ReSharper, PhpStorm, PyCharm, WebStorm, Rider, YouTrack, Kotlin, and Space, a new integrated team environment.
+  hyperlink: https://www.jetbrains.com/
+
 - name: Pipal Academy
   level: startup
   logo: /assets/images/sponsors/pipal.png
