@@ -11,25 +11,25 @@
   status: sold
   url: https://www.townscript.com/e/pycon-india-2020
 - name: Late Bird Ticket
-  brief: Sale ends by 03 October, 2020 11:59 PM (Asia/Kolkata)
+  brief: Sale ends by 30 September, 2020 10:00 PM (Asia/Kolkata)
   cost: 499
   type: conference
   status: available
   url: https://www.townscript.com/e/pycon-india-2020
 - name: Contributor Ticket
-  brief: Sale ends by 03 October, 2020 11:59 PM (Asia/Kolkata)
+  brief: Sale ends by 01 October, 2020 10:00 PM (Asia/Kolkata)
   cost: 1499+
   type: conference
   status: available
   url: https://www.townscript.com/e/pycon-india-2020
 - name: Workshop Ticket
-  brief: Sale ends by 03 October, 2020 11:59 PM (Asia/Kolkata) OR completetion of 200 tickets
+  brief: Sale ends by 03 October, 2020 12:00 PM (Asia/Kolkata) OR completetion of 200 tickets
   cost: 399
   type: workshop
   status: available
   url: https://www.townscript.com/e/pycon-india-2020
 - name: Devsprints Ticket
-  brief: Sale ends by 03 October, 2020 11:59 PM (Asia/Kolkata) OR completetion of 200 tickets
+  brief: Sale ends by 03 October, 2020 12:00 PM (Asia/Kolkata) OR completetion of 200 tickets
   cost: Free
   type: devsprint
   status: sold
