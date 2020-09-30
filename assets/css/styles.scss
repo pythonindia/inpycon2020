@@ -761,9 +761,12 @@ a.calendar {
 
 .schedule-container {
   display: none;
-  margin-top: 2rem;
+  margin-top: 1rem;
 
   &.active {
+    display: flex;
+  }
+  &.room-container {
     display: flex;
   }
 
@@ -799,6 +802,12 @@ a.calendar {
         margin-left: -4.5px;
       }
     }
+    &.room-item .schedule-time {
+      border: 0;
+      &:after {
+        content: None;
+      }
+    }
     .schedule-content {
       flex: 1;
       margin: 0.65rem 0;
@@ -811,6 +820,11 @@ a.calendar {
         text-align: center;
         width: calc(20% - 0.25rem);
         margin-right: 0.5rem;
+
+        &.room-content {
+          border: 1px solid #000000;
+          padding: 0.35rem 1rem;
+        }
 
         .talk-title {
           line-height: rem-calc(22);
