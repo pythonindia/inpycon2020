@@ -300,7 +300,7 @@
   track: Bengaluru
   date: 3rd Oct
   time: "13:55"
-  speaker: JunWei Song
+  speaker: JunWei Song,<br/> YuShiang Dang
   hyperlink: https://in.pycon.org/cfp/2020/proposals/so-you-want-to-build-an-anti-virus-engine~bDM6d/
   type: talk
   duration: 30
