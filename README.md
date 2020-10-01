@@ -1,4 +1,4 @@
-# PyCon India 2020 Website
+# PyCon India 2020-An Amazing Project
 
 This is the repo for PyCon India 2020's website.
 
