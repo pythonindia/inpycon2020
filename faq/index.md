@@ -43,7 +43,7 @@ There isn't any strict time requirement that needs to be fulfilled by the volunt
 
 **Yes**. PyCon India is a conference built for the community, by the community. Everyone from the speakers to volunteers, to even the organizers have to pay for their own tickets to attend the conference. Nobody makes a dime during the whole event. All proceedings from the ticket sales go towards making the conference even better for everyone.
 
-Here is a beautiful article by [Jesse Noller](https://twitter.com/jessenoller) about the same [http://jessenoller.com/blog/2011/05/25/pycon-everybody-pays](jessenoller.com/blog/2011/05/25/pycon-everybody-pays).
+Here is a beautiful article by [Jesse Noller](https://twitter.com/jessenoller) about the same [https://jessenoller.com/blog/2011/05/25/pycon-everybody-pays](http://jessenoller.com/blog/2011/05/25/pycon-everybody-pays).
 
 ### Q. What does the Conference ticket (Oct 2 and Oct 3, 2020) include?
 
