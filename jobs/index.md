@@ -28,48 +28,48 @@ page](https://www.deshawindia.com/careers/work-with-us).
 
 ## EPAM
 
-1. EPAM India – Remote Jobs for Senior Java Fullstack Engineers
+1.  **EPAM India – Remote Jobs for Senior Java Fullstack Engineers**
 
-EPAM Anywhere is our new program that provides remote jobs to developers and IT
-specialists across India. We provide access to a variety of global
-enterprise-level projects, stable workload and an opportunity to build a great
-career in IT. Calling Java Fullstack Engineers with over 5 years of experience
-in Java and J2EE to join our team. Detailed JD in the link below:
+    EPAM Anywhere is our new program that provides remote jobs to developers and IT
+    specialists across India. We provide access to a variety of global
+    enterprise-level projects, stable workload and an opportunity to build a great
+    career in IT. Calling Java Fullstack Engineers with over 5 years of experience
+    in Java and J2EE to join our team. Detailed JD in the link below:
 
-[Apply Here](https://anywhere.epam.com/jobs/bltc09bf02f82507e23)
+    [Apply Here](https://anywhere.epam.com/jobs/bltc09bf02f82507e23)
 
-2. EPAM India – Remote Jobs for Senior Java Backend Engineers
+2.  **EPAM India – Remote Jobs for Senior Java Backend Engineers**
 
-EPAM Anywhere is our new program that provides remote jobs to developers and IT
-specialists across India. We provide access to a variety of global
-enterprise-level projects, stable workload and an opportunity to build a great
-career in IT. Calling Java Backend Engineers with over 5 years of experience in
-Java and J2EE to join our team. Detailed JD in the link below:
+    EPAM Anywhere is our new program that provides remote jobs to developers and IT
+    specialists across India. We provide access to a variety of global
+    enterprise-level projects, stable workload and an opportunity to build a great
+    career in IT. Calling Java Backend Engineers with over 5 years of experience in
+    Java and J2EE to join our team. Detailed JD in the link below:
 
-[Apply Here](https://anywhere.epam.com/jobs/blt39ce30fd7211705c)
+    [Apply Here](https://anywhere.epam.com/jobs/blt39ce30fd7211705c)
 
-3. EPAM India – Remote Jobs for Senior ReactJS Developers
+3.  **EPAM India – Remote Jobs for Senior ReactJS Developers**
 
-EPAM Anywhere is our new program that provides remote jobs to developers and IT
-specialists across India. We provide access to a variety of global
-enterprise-level projects, stable workload and an opportunity to build a great
-career in IT. Calling Senior React JS Developer with in-depth knowledge of
-JavaScript, including ES6+ and TypeScript to join our team.. Detailed JD in the
-link below:
+    EPAM Anywhere is our new program that provides remote jobs to developers and IT
+    specialists across India. We provide access to a variety of global
+    enterprise-level projects, stable workload and an opportunity to build a great
+    career in IT. Calling Senior React JS Developer with in-depth knowledge of
+    JavaScript, including ES6+ and TypeScript to join our team.. Detailed JD in the
+    link below:
 
-[Apply Here](https://anywhere.epam.com/jobs/bltc8474ad19a158729)
+    [Apply Here](https://anywhere.epam.com/jobs/bltc8474ad19a158729)
 
 
-4. EPAM India – Remote Jobs for Senior Test Automation Engineers
+4.  **EPAM India – Remote Jobs for Senior Test Automation Engineers**
 
-EPAM Anywhere is our new program that provides remote jobs to developers and IT
-specialists across India. We provide access to a variety of global
-enterprise-level projects, stable workload and an opportunity to build a great
-career in IT. Calling Senior Test Automation Engineer with 5+ years of
-experience in automation using Java Selenium to join our team. Detailed JD in
-the link below:
+    EPAM Anywhere is our new program that provides remote jobs to developers and IT
+    specialists across India. We provide access to a variety of global
+    enterprise-level projects, stable workload and an opportunity to build a great
+    career in IT. Calling Senior Test Automation Engineer with 5+ years of
+    experience in automation using Java Selenium to join our team. Detailed JD in
+    the link below:
 
-[Apply Here](https://anywhere.epam.com/jobs/blt6e29bb435f9bd0af)
+    [Apply Here](https://anywhere.epam.com/jobs/blt6e29bb435f9bd0af)
 
 <hr>
 
