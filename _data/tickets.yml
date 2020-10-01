@@ -14,13 +14,13 @@
   brief: Sale ends by 30 September, 2020 10:00 PM (Asia/Kolkata)
   cost: 499
   type: conference
-  status: available
+  status: sold
   url: https://www.townscript.com/e/pycon-india-2020
 - name: Contributor Ticket
   brief: Sale ends by 01 October, 2020 10:00 PM (Asia/Kolkata)
   cost: 1499+
   type: conference
-  status: available
+  status: sold
   url: https://www.townscript.com/e/pycon-india-2020
 - name: Workshop Ticket
   brief: Sale ends by 03 October, 2020 12:00 PM (Asia/Kolkata) OR completetion of 200 tickets
