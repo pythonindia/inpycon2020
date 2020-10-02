@@ -2,58 +2,61 @@
   {% assign dates = site.data.talks | map: 'date' | uniq %}
   <div class="page-details">
     <div class="title">Schedule</div>
-      <div class="flex justify-between">
-        <div class="flex justify-start dates">
-          {% for date in dates %}
-            <div
-              class="date {% if forloop.first %}active{% endif %} hidden-sm"
-              data-target="#schedule-{{ date | replace:' ','-' }}"
-            >
-              {{ date }}
-            </div>
-            <div
-              class="date {% if forloop.first %}active{% endif %} show-sm"
-              data-target="#schedule-{{ date | replace:' ','-' }}-sm"
-            >
-              {{ date }}
-            </div>
-          {% endfor %}
-        </div>
-        <div>
-          <a class="calendar" title="Click to download calendar" href='{{ "/assets/PyConIndia2020.ics" | relative_url }}'><i class="fa fa-calendar" aria-hidden="true"></i></a>
-        </div>
-      </div>
-      <div
-        class="flex flex-column schedule-container room-container hidden-sm"
-      >
-        <div class="flex justify-start schedule-item room-item">
-          <div class="schedule-time">
-            <span></span>
+    <div class="description" style="font-size: 1rem; margin-bottom: 1.5rem; margin-top: -1.5rem;">
+      All the times mentioned in the schedule are in Indian Standard Time (IST) timezone.
+    </div>
+    <div class="flex justify-between">
+      <div class="flex justify-start dates">
+        {% for date in dates %}
+          <div
+            class="date {% if forloop.first %}active{% endif %} hidden-sm"
+            data-target="#schedule-{{ date | replace:' ','-' }}"
+          >
+            {{ date }}
           </div>
-          <div class="flex justify-start schedule-content" style="margin-top: 0.45rem; margin-bottom: 0.25rem;">
-            <div class="talk-content room-content">
-              <div class="talk-title" >
-                Bengaluru
-              </div>
-            </div>
-            <div class="talk-content room-content">
-              <div class="talk-title" >
-                Chennai
-              </div>
-            </div>
-            <div class="talk-content room-content">
-              <div class="talk-title" >
-                Hyderabad
-              </div>
-            </div>
-            <div class="talk-content room-content">
-              <div class="talk-title" >
-                Delhi
-              </div>
+          <div
+            class="date {% if forloop.first %}active{% endif %} show-sm"
+            data-target="#schedule-{{ date | replace:' ','-' }}-sm"
+          >
+            {{ date }}
+          </div>
+        {% endfor %}
+      </div>
+      <div>
+        <a class="calendar" title="Click to download calendar" href='{{ "/assets/PyConIndia2020.ics" | relative_url }}'><i class="fa fa-calendar" aria-hidden="true"></i></a>
+      </div>
+    </div>
+    <div
+      class="flex flex-column schedule-container room-container hidden-sm"
+    >
+      <div class="flex justify-start schedule-item room-item">
+        <div class="schedule-time">
+          <span></span>
+        </div>
+        <div class="flex justify-start schedule-content" style="margin-top: 0.45rem; margin-bottom: 0.25rem;">
+          <div class="talk-content room-content">
+            <div class="talk-title" >
+              Bengaluru
             </div>
           </div>
+          <div class="talk-content room-content">
+            <div class="talk-title" >
+              Chennai
+            </div>
+          </div>
+          <div class="talk-content room-content">
+            <div class="talk-title" >
+              Hyderabad
+            </div>
+          </div>
+          <div class="talk-content room-content">
+            <div class="talk-title" >
+              Delhi
+            </div>
+          </div>
         </div>
       </div>
+    </div>
     {% for date in dates %}
       {% assign times = site.data.talks | where: 'date', date | map: 'time' | uniq %}
       <div
