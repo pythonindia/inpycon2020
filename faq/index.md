@@ -51,6 +51,10 @@ A full conference ticket for two days includes access to all the amazing keynote
 
 You will also get access to all the open space discussions and other sessions during the conference. The conference ticket holders will also be eligible to join the Devsprints.
 
+Update: 
+
+There was some change of plans regarding dev sprint tickets due to logistics issues. The dev sprint tickets had to be purchased separately(which were free of cost). If you have bought a conference ticket and are interested in participating in the dev sprints, please reach out to us at <tickets@in.pycon.org>.
+
 ### Q. Is there a different ticket for Workshops?
 
 **Yes**, a separate ticket would have to be purchased for each workshop. The details for the workshop tickets will be updated soon.
@@ -58,6 +62,10 @@ You will also get access to all the open space discussions and other sessions du
 ### Q. Is there a different ticket for the Devsprints?
 
 **No**, the conference ticket includes complete access to the dev sprints. The ticket holders do not have to pay anything extra. But, the attendees will be asked to register for the dev sprints as that would help the conference with logistics.
+
+Update: 
+
+There was some change of plans regarding dev sprint tickets due to logistics issues. The dev sprint tickets had to be purchased separately(which were free of cost). If you have bought a conference ticket and are interested in participating in the dev sprints, please reach out to us at <tickets@in.pycon.org>.
 
 ### Q. I have bought the workshop ticket. Am I eligible to participate in DevSprints?
 
