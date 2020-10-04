@@ -26,11 +26,11 @@
   brief: Sale ends by 03 October, 2020 12:00 PM (Asia/Kolkata) OR completetion of 200 tickets
   cost: 399
   type: workshop
-  status: available
+  status: sold
   url: https://www.townscript.com/e/pycon-india-2020
 - name: Devsprints Ticket
   brief: Sale ends by 03 October, 2020 12:00 PM (Asia/Kolkata) OR completetion of 200 tickets
   cost: Free
   type: devsprint
-  status: few
+  status: sold
   url: https://www.townscript.com/e/pycon-india-2020
